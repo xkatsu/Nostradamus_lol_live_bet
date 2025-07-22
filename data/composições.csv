@@ -1,0 +1,1163 @@
+pick1,pick2,pick3,pick4,pick5,result,league,atakhans,opp_atakhans,golddiffat25,golddiffat20,golddiffat15,golddiffat10,firstmidtower,firstherald,dragons,opp_dragons,void_grubs,opp_void_grubs
+Vi,Kai'Sa,Ahri,Rakan,Zac,0,LCP,0.0,1.0,839.0,-70.0,1135.0,1007.0,1.0,1.0,0.0,4.0,1.0,2.0
+Xin Zhao,Sion,Ryze,Miss Fortune,Alistar,1,LCP,1.0,0.0,-839.0,70.0,-1135.0,-1007.0,0.0,0.0,4.0,0.0,2.0,1.0
+Naafiri,Taliyah,Ezreal,Braum,Ornn,1,LCP,1.0,0.0,-615.0,-181.0,-1480.0,-1158.0,1.0,1.0,4.0,1.0,2.0,1.0
+Azir,Pantheon,Jayce,Rell,Hwei,0,LCP,0.0,1.0,615.0,181.0,1480.0,1158.0,0.0,0.0,1.0,4.0,1.0,2.0
+Rumble,Jhin,Wukong,Elise,Sylas,0,LCP,0.0,1.0,-4344.0,-1450.0,-921.0,568.0,0.0,0.0,3.0,2.0,3.0,0.0
+Skarner,Ambessa,Aurora,Zeri,Lulu,1,LCP,1.0,0.0,4344.0,1450.0,921.0,-568.0,1.0,1.0,2.0,3.0,0.0,3.0
+Vi,Miss Fortune,Neeko,Taliyah,Aatrox,0,LCP,0.0,1.0,-3523.0,-1139.0,841.0,274.0,0.0,0.0,1.0,2.0,2.0,1.0
+Xin Zhao,Viktor,Gragas,Rell,Jhin,1,LCP,1.0,0.0,3523.0,1139.0,-841.0,-274.0,1.0,1.0,2.0,1.0,1.0,2.0
+Varus,Sejuani,Renata Glasc,Hwei,Jax,0,LCP,0.0,1.0,33.0,-679.0,-1738.0,-271.0,0.0,1.0,1.0,4.0,3.0,0.0
+Skarner,Lucian,Nami,Ryze,Gnar,1,LCP,1.0,0.0,-33.0,679.0,1738.0,271.0,1.0,0.0,4.0,1.0,0.0,3.0
+Taliyah,Pantheon,Gwen,Kai'Sa,Rell,1,LEC,1.0,0.0,4.0,-808.0,-39.0,-329.0,0.0,1.0,4.0,3.0,3.0,0.0
+Rumble,Xin Zhao,Tristana,Jhin,Rakan,0,LEC,0.0,1.0,-4.0,808.0,39.0,329.0,1.0,0.0,3.0,4.0,0.0,3.0
+Azir,Ashe,Braum,Sion,Pantheon,0,LTA S,0.0,1.0,-4286.0,-1842.0,-1978.0,-174.0,0.0,0.0,1.0,3.0,1.0,2.0
+Miss Fortune,Xin Zhao,Taliyah,Rell,Camille,1,LTA S,1.0,0.0,4286.0,1842.0,1978.0,174.0,1.0,1.0,3.0,1.0,2.0,1.0
+Vi,Sylas,Renekton,Zeri,Lulu,0,LTA S,0.0,1.0,703.0,663.0,-220.0,-386.0,0.0,0.0,2.0,4.0,2.0,1.0
+Sejuani,Ahri,Aatrox,Lucian,Nami,1,LTA S,1.0,0.0,-703.0,-663.0,220.0,386.0,1.0,1.0,4.0,2.0,1.0,2.0
+Vi,Kalista,Aurelion Sol,Neeko,Gragas,1,LEC,0.0,1.0,-855.0,-1092.0,2031.0,852.0,0.0,0.0,3.0,2.0,3.0,0.0
+Orianna,Varus,Nocturne,Shen,Alistar,0,LEC,1.0,0.0,855.0,1092.0,-2031.0,-852.0,1.0,1.0,2.0,3.0,0.0,3.0
+Jayce,Xin Zhao,Ahri,Jhin,Alistar,1,LTA S,1.0,0.0,2957.0,2254.0,361.0,628.0,1.0,1.0,2.0,2.0,3.0,0.0
+Miss Fortune,Lillia,Sion,Corki,Rell,0,LTA S,0.0,1.0,-2957.0,-2254.0,-361.0,-628.0,0.0,0.0,2.0,2.0,0.0,3.0
+Yone,Lillia,Miss Fortune,Poppy,Gnar,1,LEC,1.0,0.0,1478.0,-774.0,827.0,54.0,1.0,0.0,2.0,2.0,3.0,0.0
+Azir,Sejuani,Jhin,Rell,Aatrox,0,LEC,0.0,1.0,-1478.0,774.0,-827.0,-54.0,0.0,1.0,2.0,2.0,0.0,3.0
+Ashe,Skarner,Ryze,Nautilus,Renekton,1,LTA S,1.0,0.0,7041.0,3408.0,1591.0,796.0,1.0,1.0,2.0,3.0,1.0,2.0
+Lucian,Sejuani,Nami,Zoe,Aatrox,0,LTA S,0.0,1.0,-7041.0,-3408.0,-1591.0,-796.0,0.0,0.0,3.0,2.0,2.0,1.0
+Jayce,Vi,Akali,Alistar,Zeri,1,LEC,1.0,0.0,9721.0,5531.0,3412.0,1172.0,1.0,1.0,1.0,2.0,3.0,0.0
+Xin Zhao,Viktor,Kai'Sa,Rakan,Yorick,0,LEC,0.0,1.0,-9721.0,-5531.0,-3412.0,-1172.0,0.0,0.0,2.0,1.0,0.0,3.0
+Azir,Xin Zhao,Corki,Nidalee,Braum,1,LTA N,1.0,0.0,5846.0,2153.0,1750.0,663.0,1.0,0.0,4.0,0.0,0.0,3.0
+Jayce,Sejuani,Sylas,Kai'Sa,Rakan,0,LTA N,0.0,1.0,-5846.0,-2153.0,-1750.0,-663.0,0.0,1.0,0.0,4.0,3.0,0.0
+Yone,Rumble,Miss Fortune,Maokai,Nautilus,1,LTA N,1.0,0.0,-612.0,546.0,1490.0,247.0,1.0,1.0,5.0,1.0,3.0,0.0
+Ezreal,Viktor,Alistar,Skarner,Yorick,0,LTA N,0.0,1.0,612.0,-546.0,-1490.0,-247.0,0.0,0.0,1.0,5.0,0.0,3.0
+Renekton,Orianna,Nocturne,Jinx,Janna,1,LTA N,1.0,0.0,3456.0,197.0,581.0,0.0,1.0,1.0,4.0,0.0,3.0,0.0
+Gnar,Taliyah,Xayah,Shen,Rell,0,LTA N,0.0,1.0,-3456.0,-197.0,-581.0,0.0,0.0,0.0,0.0,4.0,0.0,3.0
+Varus,Sion,Lillia,Ziggs,Rell,1,LTA N,0.0,1.0,4590.0,2785.0,1350.0,829.0,1.0,1.0,2.0,4.0,0.0,3.0
+Ezreal,Sejuani,Aatrox,Taliyah,Alistar,0,LTA N,1.0,0.0,-4590.0,-2785.0,-1350.0,-829.0,0.0,0.0,4.0,2.0,3.0,0.0
+Vi,Aurora,Corki,Ahri,Leona,0,LTA N,0.0,1.0,-9299.0,-10880.0,-6843.0,-1782.0,0.0,0.0,0.0,4.0,0.0,3.0
+Rumble,Xin Zhao,Neeko,Kai'Sa,Poppy,1,LTA N,1.0,0.0,9299.0,10880.0,6843.0,1782.0,1.0,1.0,4.0,0.0,3.0,0.0
+Naafiri,Gwen,Nautilus,Orianna,Jhin,0,LCP,0.0,1.0,-4101.0,-1931.0,-1703.0,-378.0,0.0,0.0,2.0,2.0,0.0,3.0
+Xin Zhao,Varus,Ahri,Shen,Neeko,1,LCP,1.0,0.0,4101.0,1931.0,1703.0,378.0,1.0,1.0,2.0,2.0,3.0,0.0
+Vi,Ezreal,Leona,Rumble,Aurora,1,LCP,1.0,0.0,9190.0,7644.0,2553.0,265.0,1.0,1.0,4.0,0.0,1.0,2.0
+Taliyah,Pantheon,Kai'Sa,Rakan,Ornn,0,LCP,0.0,1.0,-9190.0,-7644.0,-2553.0,-265.0,0.0,0.0,0.0,4.0,2.0,1.0
+Miss Fortune,Wukong,Rell,Jax,Viktor,0,LCP,0.0,1.0,-7053.0,-5601.0,-5368.0,-1495.0,0.0,0.0,1.0,3.0,0.0,3.0
+Skarner,Ashe,Ambessa,Karma,Hwei,1,LCP,1.0,0.0,7053.0,5601.0,5368.0,1495.0,1.0,1.0,3.0,1.0,3.0,0.0
+Rumble,Xin Zhao,Viktor,Lucian,Nami,0,LCP,0.0,1.0,1622.0,1300.0,-2695.0,-1680.0,1.0,0.0,2.0,3.0,0.0,3.0
+Ahri,Nocturne,Ashe,Renata Glasc,Galio,1,LCP,1.0,0.0,-1622.0,-1300.0,2695.0,1680.0,0.0,1.0,3.0,2.0,3.0,0.0
+Vi,Kai'Sa,Ryze,Rakan,Sion,0,LCP,1.0,0.0,-3978.0,-372.0,-1534.0,-204.0,0.0,0.0,0.0,4.0,0.0,3.0
+Nidalee,Corki,Ezreal,Leona,Aatrox,1,LCP,0.0,1.0,3978.0,372.0,1534.0,204.0,1.0,1.0,4.0,0.0,3.0,0.0
+Varus,Rumble,Skarner,Alistar,Akali,1,LEC,0.0,1.0,1308.0,-320.0,587.0,544.0,1.0,1.0,5.0,2.0,3.0,0.0
+Nocturne,Orianna,Gnar,Jhin,Rakan,0,LEC,1.0,0.0,-1308.0,320.0,-587.0,-544.0,0.0,0.0,2.0,5.0,0.0,3.0
+Vi,Rumble,Viktor,Lucian,Braum,0,LTA S,0.0,1.0,-4322.0,-2219.0,699.0,693.0,0.0,1.0,3.0,3.0,3.0,0.0
+Yone,Miss Fortune,Sion,Lillia,Bard,1,LTA S,1.0,0.0,4322.0,2219.0,-699.0,-693.0,1.0,0.0,3.0,3.0,0.0,3.0
+Taliyah,Vi,Jax,Nautilus,Lucian,1,LEC,1.0,0.0,7797.0,596.0,1328.0,-247.0,1.0,1.0,4.0,0.0,3.0,0.0
+Sejuani,Azir,Shen,Zeri,Rell,0,LEC,0.0,1.0,-7797.0,-596.0,-1328.0,247.0,0.0,0.0,0.0,4.0,0.0,3.0
+Azir,Skarner,Neeko,Caitlyn,Jax,1,LTA S,1.0,0.0,-381.0,1989.0,526.0,777.0,0.0,1.0,3.0,3.0,1.0,2.0
+Jhin,Sejuani,Sylas,Rakan,Renekton,0,LTA S,0.0,1.0,381.0,-1989.0,-526.0,-777.0,1.0,0.0,3.0,3.0,2.0,1.0
+Taliyah,Vi,Ezreal,Sion,Leona,1,LEC,1.0,0.0,9347.0,4313.0,1740.0,128.0,1.0,1.0,3.0,1.0,3.0,0.0
+Pantheon,Jayce,Alistar,Xayah,Vladimir,0,LEC,0.0,1.0,-9347.0,-4313.0,-1740.0,-128.0,0.0,0.0,1.0,3.0,0.0,3.0
+Jayce,Ivern,Kai'Sa,Tristana,Nautilus,0,LTA S,1.0,0.0,-1136.0,-915.0,-783.0,757.0,0.0,1.0,0.0,4.0,3.0,0.0
+Xin Zhao,Ryze,K'Sante,Rell,Xayah,1,LTA S,0.0,1.0,1136.0,915.0,783.0,-757.0,1.0,0.0,4.0,0.0,0.0,3.0
+Varus,Xin Zhao,Jax,Renata Glasc,Orianna,1,LEC,1.0,0.0,7483.0,4653.0,2156.0,1457.0,1.0,1.0,4.0,1.0,3.0,0.0
+Jhin,Naafiri,Aatrox,Nautilus,Ahri,0,LEC,0.0,1.0,-7483.0,-4653.0,-2156.0,-1457.0,0.0,0.0,1.0,4.0,0.0,3.0
+Vi,Ambessa,Ryze,Kalista,Rell,0,LTA S,0.0,1.0,-1968.0,-1369.0,-2374.0,-317.0,0.0,1.0,1.0,3.0,3.0,0.0
+Sion,Karma,Ezreal,Naafiri,Taliyah,1,LTA S,1.0,0.0,1968.0,1369.0,2374.0,317.0,1.0,0.0,3.0,1.0,0.0,3.0
+Rumble,Caitlyn,Lux,Jax,Yone,0,LTA S,0.0,1.0,2518.0,-1617.0,-940.0,-1770.0,1.0,1.0,3.0,1.0,0.0,3.0
+Gwen,Ashe,Xin Zhao,Leona,Akali,1,LTA S,1.0,0.0,-2518.0,1617.0,940.0,1770.0,0.0,0.0,1.0,3.0,3.0,0.0
+Miss Fortune,Azir,Alistar,Gnar,Lee Sin,1,LTA S,1.0,0.0,9340.0,4077.0,4035.0,2536.0,1.0,1.0,4.0,0.0,3.0,0.0
+Pantheon,Kai'Sa,Nautilus,Xerath,Camille,0,LTA S,0.0,1.0,-9340.0,-4077.0,-4035.0,-2536.0,0.0,0.0,0.0,4.0,0.0,3.0
+Varus,Gwen,Taliyah,Viego,Nautilus,1,LTA N,0.0,1.0,-2103.0,1050.0,1342.0,1124.0,0.0,0.0,5.0,2.0,3.0,0.0
+Ezreal,Renekton,Ahri,Naafiri,Rell,0,LTA N,1.0,0.0,2103.0,-1050.0,-1342.0,-1124.0,1.0,1.0,2.0,5.0,0.0,3.0
+Jayce,Lillia,Kalista,Alistar,Ambessa,0,LTA N,1.0,0.0,2426.0,1908.0,1334.0,930.0,0.0,1.0,1.0,3.0,3.0,0.0
+Yone,Sejuani,Camille,Ziggs,Leona,1,LTA N,0.0,1.0,-2426.0,-1908.0,-1334.0,-930.0,1.0,0.0,3.0,1.0,0.0,3.0
+Rumble,Xin Zhao,Taliyah,Ashe,Braum,1,LTA N,1.0,0.0,754.0,1427.0,1875.0,1829.0,1.0,0.0,3.0,3.0,3.0,0.0
+Azir,Sejuani,Ambessa,Corki,Rakan,0,LTA N,0.0,1.0,-754.0,-1427.0,-1875.0,-1829.0,0.0,1.0,3.0,3.0,0.0,3.0
+Yone,Lillia,Gnar,Miss Fortune,Poppy,1,LTA N,0.0,1.0,-3839.0,1409.0,1315.0,-42.0,1.0,1.0,0.0,5.0,1.0,2.0
+Renekton,Maokai,Sylas,Kalista,Renata Glasc,0,LTA N,1.0,0.0,3839.0,-1409.0,-1315.0,42.0,0.0,0.0,5.0,0.0,2.0,1.0
+Naafiri,Viktor,Nautilus,Jhin,Wukong,0,LTA N,0.0,1.0,1599.0,1373.0,468.0,304.0,0.0,1.0,3.0,3.0,0.0,3.0
+Skarner,Alistar,Hwei,Camille,Sivir,1,LTA N,1.0,0.0,-1599.0,-1373.0,-468.0,-304.0,1.0,0.0,3.0,3.0,3.0,0.0
+Naafiri,Ambessa,Ahri,Kai'Sa,Neeko,0,LCKC,0.0,1.0,-2955.0,-2448.0,-767.0,-180.0,0.0,0.0,1.0,5.0,2.0,1.0
+Rumble,Varus,Wukong,Yone,Elise,1,LCKC,1.0,0.0,2955.0,2448.0,767.0,180.0,1.0,1.0,5.0,1.0,1.0,2.0
+Azir,Skarner,Gnar,Lucian,Braum,1,LCKC,1.0,0.0,7104.0,2731.0,645.0,476.0,1.0,1.0,2.0,2.0,3.0,0.0
+Gwen,Sejuani,Corki,Ashe,Renata Glasc,0,LCKC,0.0,1.0,-7104.0,-2731.0,-645.0,-476.0,0.0,0.0,2.0,2.0,0.0,3.0
+Taliyah,Pantheon,Aatrox,Xayah,Rakan,1,LCKC,1.0,0.0,5813.0,1629.0,1090.0,-36.0,1.0,0.0,4.0,0.0,3.0,0.0
+Xin Zhao,Sion,Viktor,Alistar,Ezreal,0,LCKC,0.0,1.0,-5813.0,-1629.0,-1090.0,36.0,0.0,1.0,0.0,4.0,0.0,3.0
+Naafiri,Ambessa,Taliyah,Miss Fortune,Leona,1,LCKC,1.0,0.0,4078.0,2714.0,1498.0,143.0,1.0,1.0,2.0,4.0,1.0,2.0
+Rumble,Varus,Xin Zhao,Viktor,Renata Glasc,0,LCKC,0.0,1.0,-4078.0,-2714.0,-1498.0,-143.0,0.0,0.0,4.0,2.0,2.0,1.0
+Azir,Skarner,Renekton,Caitlyn,Braum,0,LCKC,1.0,0.0,-164.0,320.0,-632.0,-676.0,1.0,0.0,2.0,3.0,0.0,3.0
+Sejuani,Sylas,Jax,Ashe,Rakan,1,LCKC,0.0,1.0,164.0,-320.0,632.0,676.0,0.0,1.0,3.0,2.0,3.0,0.0
+Taliyah,Pantheon,Aatrox,Xayah,Rakan,1,LCKC,1.0,0.0,10735.0,5816.0,1609.0,1262.0,1.0,1.0,3.0,1.0,3.0,0.0
+Azir,Xin Zhao,K'Sante,Alistar,Ezreal,0,LCKC,0.0,1.0,-10735.0,-5816.0,-1609.0,-1262.0,0.0,0.0,1.0,3.0,0.0,3.0
+Rumble,Viego,Ryze,Miss Fortune,Rell,0,LCKC,0.0,1.0,4567.0,1394.0,2389.0,1019.0,1.0,0.0,3.0,2.0,3.0,0.0
+Wukong,Gwen,Ahri,Nautilus,Lucian,1,LCKC,1.0,0.0,-4567.0,-1394.0,-2389.0,-1019.0,0.0,1.0,2.0,3.0,0.0,3.0
+Yone,Vi,Kai'Sa,Nautilus,Gragas,1,LEC,1.0,0.0,3085.0,4223.0,298.0,551.0,1.0,1.0,2.0,1.0,3.0,0.0
+Azir,Miss Fortune,Poppy,Sejuani,Ambessa,0,LEC,0.0,1.0,-3085.0,-4223.0,-298.0,-551.0,0.0,0.0,1.0,2.0,0.0,3.0
+Maokai,Rell,Gnar,Zeri,Mel,0,LEC,0.0,1.0,-8108.0,-4166.0,122.0,-454.0,0.0,1.0,1.0,2.0,0.0,3.0
+Dr. Mundo,Ezreal,Gwen,Viktor,Alistar,1,LEC,1.0,0.0,8108.0,4166.0,-122.0,454.0,1.0,0.0,2.0,1.0,3.0,0.0
+Taliyah,Xin Zhao,Rumble,Xayah,Rakan,1,LEC,1.0,0.0,13100.0,8864.0,4251.0,1196.0,1.0,1.0,4.0,1.0,0.0,3.0
+Pantheon,Ryze,Ezreal,Aatrox,Annie,0,LEC,0.0,1.0,-13100.0,-8864.0,-4251.0,-1196.0,0.0,0.0,1.0,4.0,3.0,0.0
+Naafiri,Sylas,Corki,Gwen,Gragas,0,LEC,0.0,1.0,-11187.0,-8661.0,-3602.0,-1288.0,0.0,0.0,0.0,4.0,2.0,1.0
+Poppy,Viktor,Rell,Zeri,Kennen,1,LEC,1.0,0.0,11187.0,8661.0,3602.0,1288.0,1.0,1.0,4.0,0.0,1.0,2.0
+Gwen,Naafiri,Aurora,Ashe,Braum,0,LCKC,0.0,1.0,-2021.0,1736.0,851.0,1216.0,1.0,1.0,2.0,3.0,3.0,0.0
+Xin Zhao,Azir,Ambessa,Kalista,Renata Glasc,1,LCKC,1.0,0.0,2021.0,-1736.0,-851.0,-1216.0,0.0,0.0,3.0,2.0,0.0,3.0
+Renekton,Skarner,Viktor,Xayah,Rakan,1,LCKC,1.0,0.0,-377.0,-2602.0,487.0,978.0,1.0,1.0,4.0,2.0,3.0,0.0
+K'Sante,Lillia,Corki,Jhin,Alistar,0,LCKC,0.0,1.0,377.0,2602.0,-487.0,-978.0,0.0,0.0,2.0,4.0,0.0,3.0
+Rumble,Nocturne,Ryze,Jinx,Rell,1,LCKC,1.0,0.0,4761.0,-118.0,-648.0,-381.0,1.0,1.0,2.0,2.0,0.0,3.0
+Taliyah,Pantheon,Galio,Miss Fortune,Leona,0,LCKC,0.0,1.0,-4761.0,118.0,648.0,381.0,0.0,0.0,2.0,2.0,3.0,0.0
+Rumble,Sejuani,Yone,Kai'Sa,Rakan,1,LCKC,1.0,0.0,-1465.0,-1314.0,-1573.0,133.0,1.0,1.0,3.0,3.0,0.0,3.0
+Jayce,Xin Zhao,Annie,Ezreal,Leona,0,LCKC,0.0,1.0,1465.0,1314.0,1573.0,-133.0,0.0,0.0,3.0,3.0,3.0,0.0
+Renekton,Zyra,Corki,Lucian,Nautilus,1,LCKC,1.0,0.0,7035.0,2981.0,1544.0,954.0,1.0,0.0,4.0,0.0,3.0,0.0
+Ahri,Pantheon,K'Sante,Rell,Zeri,0,LCKC,0.0,1.0,-7035.0,-2981.0,-1544.0,-954.0,0.0,1.0,0.0,4.0,0.0,3.0
+Varus,Viktor,Lee Sin,Sion,Elise,0,LCKC,0.0,1.0,-10021.0,-5489.0,-2869.0,-1019.0,0.0,0.0,0.0,4.0,2.0,1.0
+Viego,Orianna,Ashe,Aatrox,Bard,1,LCKC,1.0,0.0,10021.0,5489.0,2869.0,1019.0,1.0,1.0,4.0,0.0,1.0,2.0
+Naafiri,Rumble,Annie,Ezreal,Leona,1,LCK,1.0,0.0,9320.0,6575.0,2476.0,1490.0,1.0,1.0,3.0,1.0,3.0,0.0
+Gwen,Ahri,Wukong,Varus,Braum,0,LCK,0.0,1.0,-9320.0,-6575.0,-2476.0,-1490.0,0.0,0.0,1.0,3.0,0.0,3.0
+Vi,Viktor,Sion,Miss Fortune,Nautilus,1,LCK,1.0,0.0,1514.0,1203.0,-263.0,-138.0,0.0,0.0,1.0,3.0,1.0,2.0
+Taliyah,Xin Zhao,Xayah,Alistar,Ambessa,0,LCK,0.0,1.0,-1514.0,-1203.0,263.0,138.0,1.0,1.0,3.0,1.0,2.0,1.0
+Ryze,Jayce,Skarner,Jinx,Tahm Kench,1,LCK,1.0,0.0,-913.0,652.0,-346.0,372.0,1.0,1.0,4.0,0.0,2.0,1.0
+Nocturne,Orianna,Yorick,Kai'Sa,Neeko,0,LCK,0.0,1.0,913.0,-652.0,346.0,-372.0,0.0,0.0,0.0,4.0,1.0,2.0
+Azir,Ambessa,Pantheon,Miss Fortune,Rakan,0,LCK,1.0,0.0,1286.0,797.0,816.0,-85.0,0.0,0.0,1.0,5.0,0.0,3.0
+Rumble,Yone,Nidalee,Alistar,Varus,1,LCK,0.0,1.0,-1286.0,-797.0,-816.0,85.0,1.0,1.0,5.0,1.0,3.0,0.0
+Lillia,Jayce,Corki,Kai'Sa,Rell,0,LCK,0.0,1.0,-3857.0,-2958.0,-1131.0,-849.0,0.0,0.0,1.0,4.0,0.0,3.0
+Gwen,Ryze,Wukong,Leona,Jhin,1,LCK,1.0,0.0,3857.0,2958.0,1131.0,849.0,1.0,1.0,4.0,1.0,3.0,0.0
+Taliyah,Gwen,Wukong,Poppy,Miss Fortune,1,LCKC,0.0,1.0,1432.0,1411.0,-34.0,188.0,1.0,1.0,3.0,1.0,2.0,1.0
+Naafiri,Rumble,Ahri,Rell,Lucian,0,LCKC,1.0,0.0,-1432.0,-1411.0,34.0,-188.0,0.0,0.0,1.0,3.0,1.0,2.0
+Naafiri,Ambessa,Annie,Miss Fortune,Leona,0,LCKC,0.0,1.0,-9816.0,-6198.0,-4064.0,-1508.0,0.0,0.0,0.0,3.0,2.0,1.0
+Varus,Rumble,Xin Zhao,Viktor,Rell,1,LCKC,1.0,0.0,9816.0,6198.0,4064.0,1508.0,1.0,1.0,3.0,0.0,1.0,2.0
+Jayce,Viktor,Poppy,Miss Fortune,Rell,0,LCKC,0.0,1.0,7487.0,2857.0,776.0,614.0,1.0,1.0,2.0,3.0,3.0,0.0
+Rumble,Naafiri,Ahri,Ezreal,Alistar,1,LCKC,1.0,0.0,-7487.0,-2857.0,-776.0,-614.0,0.0,0.0,3.0,2.0,0.0,3.0
+Azir,K'Sante,Lillia,Sivir,Rakan,0,LCKC,0.0,1.0,-9069.0,-4551.0,-3521.0,-2468.0,0.0,0.0,1.0,2.0,1.0,2.0
+Jayce,Sejuani,Orianna,Ezreal,Nautilus,1,LCKC,1.0,0.0,9069.0,4551.0,3521.0,2468.0,1.0,1.0,2.0,1.0,2.0,1.0
+Azir,Skarner,Jayce,Alistar,Xayah,1,LCKC,1.0,0.0,7597.0,5484.0,3765.0,1324.0,1.0,0.0,3.0,1.0,0.0,3.0
+Yone,Sejuani,Sion,Rakan,Zeri,0,LCKC,0.0,1.0,-7597.0,-5484.0,-3765.0,-1324.0,0.0,1.0,1.0,3.0,3.0,0.0
+Gwen,Taliyah,Skarner,Jinx,Nautilus,0,LCKC,0.0,1.0,-10426.0,-4431.0,-3787.0,-637.0,0.0,0.0,0.0,5.0,1.0,2.0
+Pantheon,Ambessa,Xayah,Zoe,Leona,1,LCKC,1.0,0.0,10426.0,4431.0,3787.0,637.0,1.0,1.0,5.0,0.0,2.0,1.0
+Renekton,Viktor,Nidalee,Ezreal,Karma,1,LCKC,1.0,0.0,2787.0,1437.0,710.0,795.0,1.0,1.0,2.0,4.0,3.0,0.0
+Ashe,Braum,Viego,Hwei,Gragas,0,LCKC,0.0,1.0,-2787.0,-1437.0,-710.0,-795.0,0.0,0.0,4.0,2.0,0.0,3.0
+Viktor,Pantheon,Jayce,Xayah,Gragas,1,LCK,1.0,0.0,1221.0,1607.0,2747.0,1302.0,1.0,0.0,3.0,1.0,1.0,2.0
+Naafiri,Rumble,Annie,Alistar,Jhin,0,LCK,0.0,1.0,-1221.0,-1607.0,-2747.0,-1302.0,0.0,1.0,1.0,3.0,2.0,1.0
+Taliyah,Ezreal,Leona,Viego,Sion,0,LCK,1.0,0.0,-4730.0,-4837.0,-3504.0,-2001.0,0.0,0.0,1.0,3.0,1.0,2.0
+Ahri,Miss Fortune,Nocturne,Nautilus,Camille,1,LCK,0.0,1.0,4730.0,4837.0,3504.0,2001.0,1.0,1.0,3.0,1.0,2.0,1.0
+Azir,Poppy,Rumble,Zeri,Alistar,0,LCK,0.0,1.0,-5825.0,-1139.0,26.0,33.0,0.0,0.0,0.0,4.0,2.0,1.0
+Xin Zhao,Jayce,Ahri,Ezreal,Nautilus,1,LCK,1.0,0.0,5825.0,1139.0,-26.0,-33.0,1.0,1.0,4.0,0.0,1.0,2.0
+Naafiri,Jayce,Galio,Xayah,Braum,1,LCKC,1.0,0.0,2840.0,1529.0,532.0,208.0,1.0,1.0,3.0,2.0,2.0,1.0
+Viego,Annie,Sion,Nautilus,Lucian,0,LCKC,0.0,1.0,-2840.0,-1529.0,-532.0,-208.0,0.0,0.0,2.0,3.0,1.0,2.0
+Naafiri,Jayce,Varus,Galio,Nautilus,1,LCKC,0.0,1.0,981.0,3107.0,2734.0,1488.0,1.0,1.0,3.0,3.0,0.0,3.0
+Pantheon,Taliyah,Gwen,Miss Fortune,Rell,0,LCKC,1.0,0.0,-981.0,-3107.0,-2734.0,-1488.0,0.0,0.0,3.0,3.0,3.0,0.0
+Xin Zhao,Ambessa,Sylas,Kai'Sa,Alistar,0,LCKC,1.0,0.0,-4894.0,-3102.0,-1621.0,-436.0,0.0,1.0,2.0,3.0,0.0,3.0
+Rumble,Ahri,Wukong,Lucian,Braum,1,LCKC,0.0,1.0,4894.0,3102.0,1621.0,436.0,1.0,0.0,3.0,2.0,3.0,0.0
+Azir,Ezreal,Gnar,Volibear,Leona,1,LCKC,1.0,0.0,1617.0,1712.0,-406.0,-318.0,1.0,1.0,3.0,1.0,1.0,2.0
+Skarner,Taliyah,Kai'Sa,Jax,Alistar,0,LCKC,0.0,1.0,-1617.0,-1712.0,406.0,318.0,0.0,0.0,1.0,3.0,2.0,1.0
+Miss Fortune,Ambessa,Wukong,Viktor,Karma,0,LCKC,0.0,1.0,-10091.0,-4762.0,-3997.0,-1542.0,1.0,0.0,2.0,2.0,2.0,1.0
+Gwen,Ahri,Jhin,Poppy,Pyke,1,LCKC,1.0,0.0,10091.0,4762.0,3997.0,1542.0,0.0,1.0,2.0,2.0,1.0,2.0
+Rumble,Pantheon,Taliyah,Xayah,Rakan,0,LCK,0.0,1.0,-13923.0,-6496.0,-1411.0,-792.0,0.0,1.0,0.0,4.0,1.0,2.0
+Jayce,Yone,Nidalee,Alistar,Ashe,1,LCK,1.0,0.0,13923.0,6496.0,1411.0,792.0,1.0,0.0,4.0,0.0,2.0,1.0
+Azir,Ambessa,Varus,Trundle,Neeko,0,LCK,0.0,1.0,-2293.0,-2253.0,-2825.0,-1496.0,1.0,1.0,0.0,4.0,2.0,1.0
+Gwen,Pantheon,Taliyah,Kalista,Renata Glasc,1,LCK,1.0,0.0,2293.0,2253.0,2825.0,1496.0,0.0,0.0,4.0,0.0,1.0,2.0
+Naafiri,Ahri,Miss Fortune,Braum,Yorick,0,LCK,0.0,1.0,1203.0,2872.0,568.0,-779.0,1.0,1.0,3.0,2.0,2.0,1.0
+Sejuani,Nidalee,Yone,Ezreal,Karma,1,LCK,1.0,0.0,-1203.0,-2872.0,-568.0,779.0,0.0,0.0,2.0,3.0,1.0,2.0
+Naafiri,Ahri,Rumble,Kai'Sa,Leona,0,LCK,0.0,1.0,-4171.0,696.0,830.0,893.0,1.0,1.0,1.0,3.0,2.0,1.0
+Pantheon,Azir,Jhin,Gwen,Rell,1,LCK,1.0,0.0,4171.0,-696.0,-830.0,-893.0,0.0,0.0,3.0,1.0,1.0,2.0
+Varus,Ryze,Wukong,K'Sante,Braum,0,LCK,0.0,1.0,-8783.0,-4811.0,-2739.0,-1988.0,0.0,0.0,1.0,2.0,1.0,2.0
+Taliyah,Sejuani,Camille,Alistar,Miss Fortune,1,LCK,1.0,0.0,8783.0,4811.0,2739.0,1988.0,1.0,1.0,2.0,1.0,2.0,1.0
+Pantheon,Ahri,Jayce,Xayah,Rakan,1,LCK,1.0,0.0,4829.0,4970.0,3805.0,1245.0,1.0,1.0,3.0,2.0,2.0,1.0
+Azir,Gwen,Ezreal,Wukong,Leona,0,LCK,0.0,1.0,-4829.0,-4970.0,-3805.0,-1245.0,0.0,0.0,2.0,3.0,1.0,2.0
+Naafiri,Lucian,Nami,Sylas,Aurora,0,LCK,1.0,0.0,-194.0,157.0,-148.0,191.0,1.0,1.0,2.0,2.0,3.0,0.0
+Rumble,Zed,Galio,Zeri,Lulu,1,LCK,0.0,1.0,194.0,-157.0,148.0,-191.0,0.0,0.0,2.0,2.0,0.0,3.0
+Neeko,Nocturne,Kalista,Ryze,Gwen,1,LCP,1.0,0.0,5232.0,3263.0,1979.0,395.0,1.0,1.0,2.0,2.0,3.0,0.0
+Varus,Naafiri,Ahri,Nautilus,Jax,0,LCP,0.0,1.0,-5232.0,-3263.0,-1979.0,-395.0,0.0,0.0,2.0,2.0,0.0,3.0
+Sejuani,Yone,Kai'Sa,Leona,K'Sante,0,LCP,1.0,0.0,-1189.0,-3181.0,-1802.0,-2170.0,0.0,0.0,0.0,4.0,0.0,3.0
+Rumble,Skarner,Corki,Rakan,Xayah,1,LCP,0.0,1.0,1189.0,3181.0,1802.0,2170.0,1.0,1.0,4.0,0.0,3.0,0.0
+Pantheon,Taliyah,Yorick,Kai'Sa,Rell,1,LCP,1.0,0.0,4653.0,3140.0,2160.0,446.0,1.0,1.0,1.0,3.0,3.0,0.0
+Ezreal,Azir,Skarner,Renekton,Alistar,0,LCP,0.0,1.0,-4653.0,-3140.0,-2160.0,-446.0,0.0,0.0,3.0,1.0,0.0,3.0
+Rumble,Sejuani,Yone,Lucian,Nami,1,LCP,1.0,0.0,7945.0,3871.0,1181.0,-1001.0,1.0,1.0,4.0,0.0,2.0,1.0
+Varus,Wukong,Ornn,Braum,Akali,0,LCP,0.0,1.0,-7945.0,-3871.0,-1181.0,1001.0,0.0,0.0,0.0,4.0,1.0,2.0
+Miss Fortune,Nautilus,Ambessa,Nidalee,Hwei,1,LCP,0.0,1.0,7871.0,4175.0,1166.0,-355.0,1.0,1.0,4.0,0.0,0.0,3.0
+Lillia,Corki,Leona,Sion,Ryze,0,LCP,1.0,0.0,-7871.0,-4175.0,-1166.0,355.0,0.0,0.0,0.0,4.0,3.0,0.0
+Jayce,Ezreal,Karma,Pantheon,Azir,0,LTA S,0.0,1.0,1597.0,1438.0,1217.0,551.0,1.0,1.0,2.0,3.0,3.0,0.0
+Lucian,Sion,Nami,Xin Zhao,Ahri,1,LTA S,1.0,0.0,-1597.0,-1438.0,-1217.0,-551.0,0.0,0.0,3.0,2.0,0.0,3.0
+Jayce,Vi,Ahri,Corki,Rakan,0,LEC,0.0,1.0,-2627.0,-1106.0,-760.0,-28.0,0.0,0.0,2.0,3.0,0.0,3.0
+K'Sante,Pantheon,Taliyah,Kai'Sa,Alistar,1,LEC,1.0,0.0,2627.0,1106.0,760.0,28.0,1.0,1.0,3.0,2.0,3.0,0.0
+Miss Fortune,Lillia,Yone,Gnar,Nautilus,1,LTA S,1.0,0.0,7728.0,3455.0,-613.0,-619.0,1.0,1.0,2.0,2.0,0.0,3.0
+Taliyah,Jhin,Jax,Rell,Sejuani,0,LTA S,0.0,1.0,-7728.0,-3455.0,613.0,619.0,0.0,0.0,2.0,2.0,3.0,0.0
+Azir,Wukong,Jax,Caitlyn,Braum,1,LEC,1.0,0.0,2934.0,-262.0,696.0,840.0,0.0,1.0,2.0,3.0,0.0,3.0
+Xin Zhao,Miss Fortune,Gragas,Ryze,Rell,0,LEC,0.0,1.0,-2934.0,262.0,-696.0,-840.0,1.0,0.0,3.0,2.0,3.0,0.0
+Kalista,Naafiri,Galio,Soraka,Orianna,1,LTA S,0.0,1.0,4812.0,1275.0,-1122.0,324.0,1.0,1.0,2.0,2.0,1.0,2.0
+Rumble,Renata Glasc,Draven,Poppy,Akali,0,LTA S,1.0,0.0,-4812.0,-1275.0,1122.0,-324.0,0.0,0.0,2.0,2.0,2.0,1.0
+Rumble,Xin Zhao,Ashe,Neeko,Nautilus,0,LTA S,0.0,1.0,-5436.0,-1999.0,294.0,110.0,1.0,0.0,0.0,4.0,3.0,0.0
+Miss Fortune,Taliyah,Pantheon,Sion,Rell,1,LTA S,1.0,0.0,5436.0,1999.0,-294.0,-110.0,0.0,1.0,4.0,0.0,0.0,3.0
+Yone,Gwen,Neeko,Kai'Sa,Poppy,0,LEC,0.0,1.0,-2387.0,-383.0,-1140.0,-815.0,0.0,1.0,0.0,4.0,3.0,0.0
+Rumble,Vi,Varus,Sylas,Leona,1,LEC,1.0,0.0,2387.0,383.0,1140.0,815.0,1.0,0.0,4.0,0.0,0.0,3.0
+Vi,Lucian,Nami,Aatrox,Ryze,1,LTA S,0.0,0.0,8130.0,4357.0,1332.0,912.0,1.0,1.0,4.0,0.0,3.0,0.0
+Sejuani,Corki,Ambessa,Rakan,Cassiopeia,0,LTA S,0.0,0.0,-8130.0,-4357.0,-1332.0,-912.0,0.0,0.0,0.0,4.0,0.0,3.0
+Taliyah,Xin Zhao,Jhin,Gnar,Karma,1,LEC,1.0,0.0,844.0,2311.0,-747.0,-1960.0,1.0,1.0,3.0,4.0,3.0,0.0
+Miss Fortune,Naafiri,Ryze,Rell,Kennen,0,LEC,0.0,1.0,-844.0,-2311.0,747.0,1960.0,0.0,0.0,4.0,3.0,0.0,3.0
+Naafiri,Taliyah,Miss Fortune,Galio,Alistar,1,LTA N,1.0,0.0,6692.0,4270.0,977.0,251.0,1.0,1.0,4.0,1.0,3.0,0.0
+Azir,Ezreal,Pantheon,Rumble,Poppy,0,LTA N,0.0,1.0,-6692.0,-4270.0,-977.0,-251.0,0.0,0.0,1.0,4.0,0.0,3.0
+Pantheon,Viktor,Jax,Kog'Maw,Braum,1,LEC,1.0,0.0,7023.0,572.0,96.0,509.0,1.0,1.0,3.0,1.0,0.0,3.0
+Sejuani,Corki,Aurelion Sol,Aatrox,Nami,0,LEC,0.0,1.0,-7023.0,-572.0,-96.0,-509.0,0.0,0.0,1.0,3.0,3.0,0.0
+Skarner,Lucian,Milio,Ziggs,Yorick,0,LTA N,1.0,0.0,79.0,-1075.0,135.0,-1440.0,1.0,1.0,2.0,5.0,2.0,1.0
+Corki,Lillia,Nautilus,Gnar,Aurora,1,LTA N,0.0,1.0,-79.0,1075.0,-135.0,1440.0,0.0,0.0,5.0,2.0,1.0,2.0
+Taliyah,Pantheon,Rumble,Ezreal,Nautilus,0,LTA N,1.0,0.0,-1243.0,-1109.0,-89.0,-6.0,1.0,0.0,2.0,4.0,0.0,3.0
+Naafiri,Gwen,Viktor,Jhin,Leona,1,LTA N,0.0,1.0,1243.0,1109.0,89.0,6.0,0.0,1.0,4.0,2.0,3.0,0.0
+Xin Zhao,Ahri,Sion,Xayah,Rakan,1,LTA N,0.0,1.0,-1029.0,-148.0,-811.0,-1144.0,0.0,1.0,3.0,3.0,3.0,0.0
+Renekton,Nidalee,Yone,Alistar,Smolder,0,LTA N,1.0,0.0,1029.0,148.0,811.0,1144.0,1.0,0.0,3.0,3.0,0.0,3.0
+Azir,Miss Fortune,Rell,Irelia,Nocturne,0,LTA N,0.0,1.0,-627.0,1868.0,832.0,-79.0,1.0,0.0,2.0,4.0,0.0,3.0
+Gnar,Lucian,Milio,Xerath,Maokai,1,LTA N,1.0,0.0,627.0,-1868.0,-832.0,79.0,0.0,1.0,4.0,2.0,3.0,0.0
+Taliyah,Pantheon,Gwen,Ezreal,Leona,1,LCK,0.0,1.0,822.0,963.0,-1162.0,-747.0,1.0,1.0,2.0,4.0,1.0,2.0
+Yone,Sejuani,Ambessa,Miss Fortune,Neeko,0,LCK,1.0,0.0,-822.0,-963.0,1162.0,747.0,0.0,0.0,4.0,2.0,2.0,1.0
+Rumble,Wukong,Ryze,Lucian,Sett,1,LCK,1.0,0.0,6071.0,4323.0,1726.0,548.0,1.0,1.0,3.0,0.0,3.0,0.0
+Xin Zhao,Kai'Sa,Ahri,Nautilus,Anivia,0,LCK,0.0,1.0,-6071.0,-4323.0,-1726.0,-548.0,0.0,0.0,0.0,3.0,0.0,3.0
+Jayce,Lulu,Jinx,Sylas,Maokai,0,LCK,0.0,1.0,-3860.0,-4155.0,-2692.0,-333.0,0.0,0.0,0.0,4.0,2.0,1.0
+Xayah,Rakan,Nocturne,Annie,Sion,1,LCK,1.0,0.0,3860.0,4155.0,2692.0,333.0,1.0,1.0,4.0,0.0,1.0,2.0
+Xin Zhao,Gwen,Ahri,Jhin,Rell,1,LCK,1.0,0.0,5297.0,2276.0,1379.0,-538.0,1.0,1.0,3.0,1.0,3.0,0.0
+Pantheon,Ryze,Aurora,Miss Fortune,Neeko,0,LCK,0.0,1.0,-5297.0,-2276.0,-1379.0,538.0,0.0,0.0,1.0,3.0,0.0,3.0
+Vi,Aurora,Ezreal,Leona,Ambessa,1,LCP,1.0,0.0,7249.0,2727.0,-581.0,-1835.0,1.0,0.0,4.0,0.0,0.0,3.0
+Pantheon,Rumble,Jhin,Viktor,Alistar,0,LCP,0.0,1.0,-7249.0,-2727.0,581.0,1835.0,0.0,1.0,0.0,4.0,3.0,0.0
+Azir,Jayce,Varus,Poppy,Karma,0,LCK,0.0,1.0,-2055.0,-2181.0,-696.0,-249.0,1.0,1.0,2.0,3.0,3.0,0.0
+Kalista,Renata Glasc,Viktor,Skarner,Nidalee,1,LCK,1.0,0.0,2055.0,2181.0,696.0,249.0,0.0,0.0,3.0,2.0,0.0,3.0
+Gwen,Zyra,Corki,Senna,Ornn,0,LCP,0.0,1.0,-8585.0,-6271.0,-3046.0,-2718.0,0.0,0.0,0.0,4.0,0.0,3.0
+Jayce,Ryze,Viego,Ashe,Braum,1,LCP,1.0,0.0,8585.0,6271.0,3046.0,2718.0,1.0,1.0,4.0,0.0,3.0,0.0
+Rumble,Pantheon,Azir,Xayah,Rakan,1,LCP,0.0,1.0,2526.0,2363.0,1855.0,727.0,0.0,0.0,2.0,2.0,2.0,1.0
+Naafiri,Ornn,Taliyah,Lucian,Nami,0,LCP,1.0,0.0,-2526.0,-2363.0,-1855.0,-727.0,1.0,1.0,2.0,2.0,1.0,2.0
+Sion,Xin Zhao,Ryze,Miss Fortune,Leona,0,LCP,0.0,1.0,-15084.0,-8414.0,-3000.0,-1418.0,0.0,0.0,1.0,2.0,3.0,0.0
+Vi,Ahri,Sett,Ezreal,Braum,1,LCP,1.0,0.0,15084.0,8414.0,3000.0,1418.0,1.0,1.0,2.0,1.0,0.0,3.0
+Rumble,Pantheon,Ahri,Jhin,Nautilus,0,LTA S,0.0,0.0,-720.0,-1289.0,511.0,814.0,1.0,1.0,2.0,3.0,3.0,0.0
+Ryze,Ashe,Taliyah,Naafiri,Rell,1,LTA S,0.0,0.0,720.0,1289.0,-511.0,-814.0,0.0,0.0,3.0,2.0,0.0,3.0
+Taliyah,Vi,Ezreal,Leona,Gragas,0,LEC,0.0,1.0,-4797.0,-2026.0,-2251.0,-2436.0,1.0,1.0,2.0,3.0,0.0,3.0
+Viktor,Pantheon,Neeko,Jhin,Aatrox,1,LEC,1.0,0.0,4797.0,2026.0,2251.0,2436.0,0.0,0.0,3.0,2.0,3.0,0.0
+Jayce,Zeri,Lulu,Dr. Mundo,Akali,0,LTA S,0.0,1.0,-7464.0,-3605.0,-1681.0,-1038.0,0.0,0.0,0.0,4.0,0.0,3.0
+Lucian,Nami,Sion,Skarner,LeBlanc,1,LTA S,1.0,0.0,7464.0,3605.0,1681.0,1038.0,1.0,1.0,4.0,0.0,3.0,0.0
+Rumble,Naafiri,Kai'Sa,Poppy,Annie,1,LEC,1.0,0.0,10450.0,7311.0,3228.0,2456.0,0.0,1.0,4.0,1.0,3.0,0.0
+Corki,Sejuani,Gwen,Tristana,Alistar,0,LEC,0.0,1.0,-10450.0,-7311.0,-3228.0,-2456.0,1.0,0.0,1.0,4.0,0.0,3.0
+Neeko,Jax,Gwen,Corki,Sylas,0,LTA S,1.0,0.0,-4862.0,-5568.0,-4107.0,-823.0,1.0,0.0,0.0,5.0,3.0,0.0
+Xin Zhao,Ezreal,Shen,Leona,Cassiopeia,1,LTA S,0.0,1.0,4862.0,5568.0,4107.0,823.0,0.0,1.0,5.0,0.0,0.0,3.0
+Varus,Xin Zhao,Nautilus,Jax,Galio,1,LEC,1.0,0.0,4706.0,1848.0,1639.0,1075.0,1.0,1.0,2.0,3.0,3.0,0.0
+Vi,Neeko,Kai'Sa,Sylas,Gnar,0,LEC,0.0,1.0,-4706.0,-1848.0,-1639.0,-1075.0,0.0,0.0,3.0,2.0,0.0,3.0
+Taliyah,Pantheon,Miss Fortune,Nautilus,Ambessa,0,LTA S,0.0,1.0,-3800.0,-3941.0,-1772.0,-1001.0,1.0,1.0,0.0,5.0,2.0,1.0
+Rumble,Xin Zhao,Ahri,Ezreal,Rell,1,LTA S,1.0,0.0,3800.0,3941.0,1772.0,1001.0,0.0,0.0,5.0,0.0,1.0,2.0
+Taliyah,Naafiri,Ezreal,Alistar,Gwen,1,LEC,1.0,0.0,5664.0,3737.0,1548.0,276.0,1.0,1.0,3.0,2.0,1.0,2.0
+Viktor,Caitlyn,Braum,Lillia,Shen,0,LEC,0.0,1.0,-5664.0,-3737.0,-1548.0,-276.0,0.0,0.0,2.0,3.0,2.0,1.0
+Gwen,Lucian,Nami,Poppy,Syndra,1,LTA S,1.0,0.0,8101.0,5407.0,3824.0,1092.0,1.0,1.0,2.0,2.0,3.0,0.0
+Ryze,Vi,Renekton,Xayah,Rakan,0,LTA S,0.0,1.0,-8101.0,-5407.0,-3824.0,-1092.0,0.0,0.0,2.0,2.0,0.0,3.0
+Yone,Dr. Mundo,Kalista,Rell,Warwick,0,LEC,0.0,1.0,-4392.0,-2138.0,-1437.0,-789.0,0.0,0.0,1.0,3.0,3.0,0.0
+Miss Fortune,Sejuani,Azir,Rakan,Ambessa,1,LEC,1.0,0.0,4392.0,2138.0,1437.0,789.0,1.0,1.0,3.0,1.0,0.0,3.0
+Neeko,Skarner,Kai'Sa,Gnar,Viktor,0,LTA S,0.0,1.0,-1854.0,243.0,280.0,978.0,0.0,1.0,2.0,5.0,2.0,1.0
+Ashe,Nocturne,Alistar,Aatrox,Aurora,1,LTA S,1.0,0.0,1854.0,-243.0,-280.0,-978.0,1.0,0.0,5.0,2.0,1.0,2.0
+Varus,Xin Zhao,Azir,Neeko,Nidalee,1,LTA N,1.0,0.0,9226.0,3853.0,2297.0,1270.0,1.0,1.0,3.0,1.0,3.0,0.0
+Jayce,Ezreal,Sejuani,Viktor,Rakan,0,LTA N,0.0,1.0,-9226.0,-3853.0,-2297.0,-1270.0,0.0,0.0,1.0,3.0,0.0,3.0
+Rumble,Skarner,Jhin,Sylas,Poppy,0,LTA N,0.0,1.0,-6664.0,-3968.0,-1445.0,-1371.0,0.0,1.0,0.0,4.0,3.0,0.0
+Galio,Pantheon,Taliyah,Alistar,Sivir,1,LTA N,1.0,0.0,6664.0,3968.0,1445.0,1371.0,1.0,0.0,4.0,0.0,0.0,3.0
+Rumble,Pantheon,Tristana,Corki,Alistar,0,LTA N,1.0,0.0,-1822.0,1194.0,590.0,266.0,1.0,1.0,1.0,4.0,1.0,2.0
+Ambessa,Yone,Maokai,Kalista,Renata Glasc,1,LTA N,0.0,1.0,1822.0,-1194.0,-590.0,-266.0,0.0,0.0,4.0,1.0,2.0,1.0
+Xin Zhao,Ezreal,Taliyah,Nidalee,Leona,0,LTA N,1.0,0.0,-7.0,1266.0,3067.0,665.0,0.0,1.0,2.0,3.0,2.0,1.0
+Jayce,Skarner,Ahri,Ashe,Braum,1,LTA N,0.0,1.0,7.0,-1266.0,-3067.0,-665.0,1.0,0.0,3.0,2.0,1.0,2.0
+Azir,Naafiri,Galio,Lucian,Braum,1,LCKC,0.0,1.0,4168.0,2906.0,1720.0,550.0,1.0,0.0,4.0,0.0,3.0,0.0
+Rumble,Pantheon,Yone,Miss Fortune,Alistar,0,LCKC,1.0,0.0,-4168.0,-2906.0,-1720.0,-550.0,0.0,1.0,0.0,4.0,0.0,3.0
+Xin Zhao,Ambessa,Taliyah,Xayah,Rakan,1,LCKC,1.0,0.0,6299.0,1109.0,-860.0,345.0,1.0,1.0,3.0,1.0,3.0,0.0
+Ahri,Ezreal,Renekton,Trundle,Poppy,0,LCKC,0.0,1.0,-6299.0,-1109.0,860.0,-345.0,0.0,0.0,1.0,3.0,0.0,3.0
+Varus,Neeko,Gnar,Nidalee,Corki,1,LCKC,0.0,1.0,692.0,1996.0,2796.0,2761.0,1.0,1.0,5.0,1.0,1.0,2.0
+Kalista,Viktor,Renata Glasc,Yorick,Wukong,0,LCKC,1.0,0.0,-692.0,-1996.0,-2796.0,-2761.0,0.0,0.0,1.0,5.0,2.0,1.0
+Xin Zhao,Gwen,Ahri,Miss Fortune,Alistar,0,LCKC,0.0,1.0,-4467.0,-4637.0,-891.0,71.0,0.0,0.0,2.0,2.0,3.0,0.0
+Rumble,Pantheon,Yone,Lucian,Braum,1,LCKC,1.0,0.0,4467.0,4637.0,891.0,-71.0,1.0,1.0,2.0,2.0,0.0,3.0
+Viktor,Jayce,Skarner,Jhin,Leona,0,LCKC,0.0,1.0,-10663.0,-4484.0,-1377.0,-2665.0,0.0,0.0,0.0,4.0,3.0,0.0
+Renekton,Lillia,Diana,Kai'Sa,Nautilus,1,LCKC,1.0,0.0,10663.0,4484.0,1377.0,2665.0,1.0,1.0,4.0,0.0,0.0,3.0
+Naafiri,Varus,Sion,Galio,Neeko,0,LCKC,0.0,1.0,-7845.0,-2841.0,-130.0,4.0,1.0,1.0,2.0,2.0,2.0,1.0
+Jayce,Sejuani,Viktor,Kalista,Camille,1,LCKC,1.0,0.0,7845.0,2841.0,130.0,-4.0,0.0,0.0,2.0,2.0,1.0,2.0
+Renekton,Nidalee,Nautilus,Miss Fortune,Orianna,1,LCKC,1.0,0.0,4382.0,4715.0,1960.0,1152.0,1.0,1.0,2.0,1.0,3.0,0.0
+Gnar,Lillia,Leona,Corki,Jhin,0,LCKC,0.0,1.0,-4382.0,-4715.0,-1960.0,-1152.0,0.0,0.0,1.0,2.0,0.0,3.0
+Xin Zhao,Ryze,Jax,Zeri,Lulu,1,LCKC,1.0,0.0,11067.0,10801.0,7000.0,3483.0,1.0,1.0,2.0,2.0,3.0,0.0
+Ahri,Aatrox,Pantheon,Lucian,Nami,0,LCKC,0.0,1.0,-11067.0,-10801.0,-7000.0,-3483.0,0.0,0.0,2.0,2.0,0.0,3.0
+Maokai,Gwen,Tristana,Rell,Jhin,0,LEC,0.0,1.0,-8079.0,-6612.0,-4163.0,-2003.0,0.0,0.0,0.0,4.0,0.0,3.0
+Sion,Nidalee,Jax,Kai'Sa,Gragas,1,LEC,1.0,0.0,8079.0,6612.0,4163.0,2003.0,1.0,1.0,4.0,0.0,3.0,0.0
+Sejuani,Jayce,Ezreal,Viktor,Rakan,0,LEC,0.0,1.0,-4074.0,-2825.0,-556.0,863.0,0.0,1.0,1.0,3.0,0.0,3.0
+Miss Fortune,Xin Zhao,Nautilus,Ornn,Sylas,1,LEC,1.0,0.0,4074.0,2825.0,556.0,-863.0,1.0,0.0,3.0,1.0,3.0,0.0
+Taliyah,Pantheon,Kai'Sa,Yorick,Rell,0,LEC,1.0,0.0,-739.0,-1014.0,-1207.0,-1336.0,0.0,0.0,2.0,3.0,3.0,0.0
+Vi,Ahri,Ambessa,Rakan,Xayah,1,LEC,0.0,1.0,739.0,1014.0,1207.0,1336.0,1.0,1.0,3.0,2.0,0.0,3.0
+Varus,Xin Zhao,Aurora,Orianna,Karma,0,LEC,0.0,1.0,-2432.0,-322.0,-63.0,-355.0,0.0,0.0,3.0,2.0,3.0,0.0
+Rumble,Azir,Naafiri,Renata Glasc,Kalista,1,LEC,1.0,0.0,2432.0,322.0,63.0,355.0,1.0,1.0,2.0,3.0,0.0,3.0
+Pantheon,Taliyah,Rumble,Jinx,Nautilus,0,LCKC,0.0,1.0,-5635.0,-3167.0,-479.0,-1001.0,0.0,0.0,0.0,4.0,3.0,0.0
+Xin Zhao,Jayce,Ahri,Xayah,Leona,1,LCKC,1.0,0.0,5635.0,3167.0,479.0,1001.0,1.0,1.0,4.0,0.0,0.0,3.0
+Varus,Gwen,Wukong,Rell,Annie,1,LCKC,1.0,0.0,4754.0,2428.0,-322.0,21.0,1.0,0.0,3.0,2.0,0.0,3.0
+Viktor,Skarner,Ezreal,Ambessa,Braum,0,LCKC,0.0,1.0,-4754.0,-2428.0,322.0,-21.0,0.0,1.0,2.0,3.0,3.0,0.0
+Miss Fortune,Nidalee,Alistar,Renekton,Corki,0,LCKC,1.0,0.0,-3798.0,-2323.0,-1265.0,-1430.0,1.0,1.0,3.0,3.0,2.0,1.0
+Tristana,Ivern,Gragas,Jhin,K'Sante,1,LCKC,0.0,1.0,3798.0,2323.0,1265.0,1430.0,0.0,0.0,3.0,3.0,1.0,2.0
+Naafiri,Ambessa,Ahri,Xayah,Rakan,0,LCKC,1.0,0.0,2349.0,721.0,717.0,146.0,1.0,1.0,4.0,3.0,2.0,1.0
+Gwen,Azir,Xin Zhao,Kalista,Renata Glasc,1,LCKC,0.0,1.0,-2349.0,-721.0,-717.0,-146.0,0.0,0.0,3.0,4.0,1.0,2.0
+Jayce,Zyra,Corki,Alistar,Jhin,0,LCKC,0.0,1.0,-1386.0,994.0,-860.0,57.0,0.0,1.0,1.0,3.0,0.0,3.0
+Tristana,Ivern,Sion,Miss Fortune,Nautilus,1,LCKC,1.0,0.0,1386.0,-994.0,860.0,-57.0,1.0,0.0,3.0,1.0,3.0,0.0
+Varus,Naafiri,Nautilus,Ahri,Aatrox,1,LEC,0.0,1.0,-3789.0,-1890.0,301.0,-165.0,0.0,1.0,3.0,2.0,0.0,3.0
+Azir,Jhin,Xin Zhao,Renata Glasc,Gnar,0,LEC,1.0,0.0,3789.0,1890.0,-301.0,165.0,1.0,0.0,2.0,3.0,3.0,0.0
+Azir,Rumble,Xin Zhao,Kai'Sa,Neeko,1,LCK,1.0,0.0,1141.0,-2140.0,-2522.0,-1732.0,0.0,0.0,2.0,3.0,3.0,0.0
+Jayce,Pantheon,Ahri,Kalista,Shen,0,LCK,0.0,1.0,-1141.0,2140.0,2522.0,1732.0,1.0,1.0,3.0,2.0,0.0,3.0
+Yone,Sejuani,Elise,Miss Fortune,Aatrox,1,LCK,1.0,0.0,3117.0,432.0,3265.0,2356.0,1.0,1.0,4.0,0.0,3.0,0.0
+Sion,Lucian,Milio,Maokai,Tristana,0,LCK,0.0,1.0,-3117.0,-432.0,-3265.0,-2356.0,0.0,0.0,0.0,4.0,0.0,3.0
+Gwen,Nocturne,Annie,Jinx,Lulu,0,LCK,0.0,1.0,-3914.0,-1728.0,-869.0,-311.0,1.0,1.0,1.0,2.0,3.0,0.0
+Poppy,Ryze,Ambessa,Xayah,Blitzcrank,1,LCK,1.0,0.0,3914.0,1728.0,869.0,311.0,0.0,0.0,2.0,1.0,0.0,3.0
+Pantheon,Gnar,Azir,Kai'Sa,Neeko,0,LCK,0.0,1.0,1041.0,784.0,104.0,-650.0,0.0,0.0,1.0,6.0,1.0,2.0
+Gwen,Sejuani,Yone,Miss Fortune,Fiddlesticks,1,LCK,1.0,0.0,-1041.0,-784.0,-104.0,650.0,1.0,1.0,6.0,1.0,2.0,1.0
+Xin Zhao,Sion,Taliyah,Lucian,Braum,1,LCK,1.0,0.0,-3299.0,-969.0,-659.0,-968.0,1.0,1.0,4.0,1.0,3.0,0.0
+Jayce,Annie,Lee Sin,Ezreal,Rell,0,LCK,0.0,1.0,3299.0,969.0,659.0,968.0,0.0,0.0,1.0,4.0,0.0,3.0
+Naafiri,Varus,Alistar,Galio,Camille,1,LCK,1.0,0.0,2832.0,812.0,182.0,561.0,1.0,1.0,2.0,2.0,1.0,2.0
+Rumble,Ahri,Wukong,Gragas,Xayah,0,LCK,0.0,1.0,-2832.0,-812.0,-182.0,-561.0,0.0,0.0,2.0,2.0,2.0,1.0
+Pantheon,Azir,Sion,Xayah,Alistar,1,LCKC,1.0,0.0,6520.0,2285.0,206.0,480.0,1.0,0.0,2.0,1.0,2.0,1.0
+Taliyah,Xin Zhao,Ambessa,Rakan,Lucian,0,LCKC,0.0,1.0,-6520.0,-2285.0,-206.0,-480.0,0.0,1.0,1.0,2.0,1.0,2.0
+Jayce,Pantheon,Ahri,Lucian,Nami,0,LCKC,0.0,1.0,-583.0,1551.0,424.0,2155.0,1.0,1.0,1.0,3.0,0.0,3.0
+Taliyah,Gwen,Varus,Skarner,Karma,1,LCKC,1.0,0.0,583.0,-1551.0,-424.0,-2155.0,0.0,0.0,3.0,1.0,3.0,0.0
+Pantheon,Jayce,Ryze,Xayah,Rakan,1,LCKC,1.0,0.0,7485.0,4506.0,4334.0,1821.0,1.0,1.0,4.0,0.0,1.0,2.0
+Taliyah,Gwen,Naafiri,Lucian,Nautilus,0,LCKC,0.0,1.0,-7485.0,-4506.0,-4334.0,-1821.0,0.0,0.0,0.0,4.0,2.0,1.0
+Jayce,Sejuani,Yone,Ezreal,Leona,1,LCKC,1.0,0.0,3818.0,3988.0,351.0,-38.0,1.0,0.0,4.0,2.0,1.0,2.0
+Yorick,Ahri,Wukong,Kai'Sa,Nautilus,0,LCKC,0.0,1.0,-3818.0,-3988.0,-351.0,38.0,0.0,1.0,2.0,4.0,2.0,1.0
+Xin Zhao,Sylas,Kai'Sa,Leona,Aatrox,0,LCKC,1.0,0.0,-4349.0,-2819.0,167.0,-128.0,0.0,0.0,0.0,4.0,3.0,0.0
+Viktor,Sejuani,Ambessa,Ezreal,Rell,1,LCKC,0.0,1.0,4349.0,2819.0,-167.0,128.0,1.0,1.0,4.0,0.0,0.0,3.0
+Rumble,Viktor,Nautilus,Jhin,Lee Sin,1,LCKC,1.0,0.0,1729.0,-1912.0,728.0,711.0,1.0,0.0,4.0,0.0,1.0,2.0
+Azir,Galio,Ezreal,Rell,Jarvan IV,0,LCKC,0.0,1.0,-1729.0,1912.0,-728.0,-711.0,0.0,1.0,0.0,4.0,2.0,1.0
+Nidalee,Gnar,Corki,Zeri,Alistar,1,LCKC,1.0,0.0,6006.0,4271.0,640.0,-186.0,0.0,1.0,3.0,1.0,2.0,1.0
+Renekton,Orianna,Lillia,Rakan,Aphelios,0,LCKC,0.0,1.0,-6006.0,-4271.0,-640.0,186.0,1.0,0.0,1.0,3.0,1.0,2.0
+Gwen,Nidalee,Corki,Jhin,Karma,0,LCKC,0.0,1.0,-6073.0,-2966.0,-174.0,-699.0,0.0,0.0,0.0,4.0,2.0,1.0
+Rumble,Miss Fortune,Ryze,Viego,Blitzcrank,1,LCKC,1.0,0.0,6073.0,2966.0,174.0,699.0,1.0,1.0,4.0,0.0,1.0,2.0
+Gwen,Wukong,Ahri,Jhin,Leona,0,LCK,1.0,0.0,-4199.0,-3693.0,-3798.0,-1410.0,0.0,0.0,0.0,5.0,3.0,0.0
+Taliyah,Pantheon,Kennen,Ezreal,Rell,1,LCK,0.0,1.0,4199.0,3693.0,3798.0,1410.0,1.0,1.0,5.0,0.0,0.0,3.0
+Nidalee,Sion,Corki,Ashe,Braum,1,LCK,1.0,0.0,1123.0,1244.0,516.0,501.0,1.0,1.0,5.0,0.0,3.0,0.0
+Jayce,Viktor,Skarner,Varus,Bard,0,LCK,0.0,1.0,-1123.0,-1244.0,-516.0,-501.0,0.0,0.0,0.0,5.0,0.0,3.0
+Azir,Sejuani,Ambessa,Lucian,Elise,0,LCK,1.0,0.0,477.0,1350.0,-320.0,-508.0,1.0,1.0,0.0,6.0,1.0,2.0
+Kalista,Annie,Yorick,Neeko,Jarvan IV,1,LCK,0.0,1.0,-477.0,-1350.0,320.0,508.0,0.0,0.0,6.0,0.0,2.0,1.0
+Gwen,Xin Zhao,Sylas,Jhin,Rell,1,LCK,1.0,0.0,-497.0,872.0,1809.0,50.0,1.0,1.0,3.0,3.0,3.0,0.0
+Viktor,Pantheon,Ambessa,Miss Fortune,Braum,0,LCK,0.0,1.0,497.0,-872.0,-1809.0,-50.0,0.0,0.0,3.0,3.0,0.0,3.0
+Taliyah,Yorick,Wukong,Ashe,Poppy,1,LCK,1.0,0.0,5296.0,2609.0,1726.0,884.0,1.0,1.0,3.0,2.0,2.0,1.0
+Ahri,Jayce,Naafiri,Alistar,Ezreal,0,LCK,0.0,1.0,-5296.0,-2609.0,-1726.0,-884.0,0.0,0.0,2.0,3.0,1.0,2.0
+Azir,Xayah,Rakan,Jax,Talon,1,LCK,1.0,0.0,3499.0,1857.0,1292.0,738.0,0.0,1.0,2.0,2.0,0.0,3.0
+Lucian,Nami,Trundle,Zoe,Shen,0,LCK,0.0,1.0,-3499.0,-1857.0,-1292.0,-738.0,1.0,0.0,2.0,2.0,3.0,0.0
+Xin Zhao,Gwen,Ahri,Jhin,Poppy,1,LCKC,1.0,0.0,10297.0,2821.0,-530.0,227.0,1.0,1.0,2.0,1.0,1.0,2.0
+Rumble,Miss Fortune,Orianna,Naafiri,Neeko,0,LCKC,0.0,1.0,-10297.0,-2821.0,530.0,-227.0,0.0,0.0,1.0,2.0,2.0,1.0
+Jayce,Sejuani,Viktor,Jhin,Alistar,1,LCKC,1.0,0.0,5055.0,1935.0,916.0,1277.0,1.0,1.0,3.0,1.0,3.0,0.0
+Pantheon,Ryze,Gwen,Miss Fortune,Rell,0,LCKC,0.0,1.0,-5055.0,-1935.0,-916.0,-1277.0,0.0,0.0,1.0,3.0,0.0,3.0
+Varus,Viego,Nautilus,Viktor,Sion,1,LCKC,1.0,0.0,2089.0,916.0,125.0,-53.0,1.0,1.0,4.0,1.0,3.0,0.0
+Renekton,Lillia,Ezreal,Ryze,Rell,0,LCKC,0.0,1.0,-2089.0,-916.0,-125.0,53.0,0.0,0.0,1.0,4.0,0.0,3.0
+Taliyah,Ambessa,Naafiri,Corki,Leona,0,LCKC,0.0,1.0,-3389.0,-4804.0,-2352.0,-1658.0,0.0,0.0,2.0,3.0,2.0,1.0
+Rumble,Ahri,Poppy,Lucian,Braum,1,LCKC,1.0,0.0,3389.0,4804.0,2352.0,1658.0,1.0,1.0,3.0,2.0,1.0,2.0
+Pantheon,Kai'Sa,Annie,Aatrox,Alistar,1,LCKC,1.0,0.0,3070.0,1553.0,-553.0,-908.0,1.0,1.0,3.0,2.0,0.0,3.0
+Xayah,Rakan,Galio,Jax,Zed,0,LCKC,0.0,1.0,-3070.0,-1553.0,553.0,908.0,0.0,0.0,2.0,3.0,3.0,0.0
+Naafiri,Ahri,Ambessa,Lucian,Braum,1,LCK,1.0,0.0,2004.0,352.0,-1034.0,-851.0,0.0,1.0,2.0,3.0,0.0,3.0
+Rumble,Taliyah,Wukong,Ezreal,Neeko,0,LCK,0.0,1.0,-2004.0,-352.0,1034.0,851.0,1.0,0.0,3.0,2.0,3.0,0.0
+Gwen,Skarner,Ryze,Xayah,Nautilus,0,LCK,0.0,1.0,-11339.0,-8526.0,-2393.0,-350.0,0.0,0.0,1.0,3.0,3.0,0.0
+Azir,Pantheon,Jax,Alistar,Zeri,1,LCK,1.0,0.0,11339.0,8526.0,2393.0,350.0,1.0,1.0,3.0,1.0,0.0,3.0
+Rumble,Sejuani,Yone,Lucian,Nami,1,LCP,1.0,0.0,3076.0,2742.0,1138.0,1028.0,1.0,1.0,4.0,1.0,3.0,0.0
+Pantheon,Taliyah,Ornn,Xayah,Rakan,0,LCP,0.0,1.0,-3076.0,-2742.0,-1138.0,-1028.0,0.0,0.0,1.0,4.0,0.0,3.0
+Xin Zhao,Ambessa,Taliyah,Zeri,Rakan,0,LCK,0.0,1.0,-11234.0,-3266.0,-1289.0,-1669.0,0.0,0.0,2.0,1.0,1.0,2.0
+Skarner,Gwen,Corki,Xayah,Alistar,1,LCK,1.0,0.0,11234.0,3266.0,1289.0,1669.0,1.0,1.0,1.0,2.0,2.0,1.0
+Naafiri,Ahri,Ezreal,Sion,Pyke,0,LCP,0.0,1.0,-1825.0,-1030.0,646.0,1089.0,0.0,1.0,1.0,4.0,2.0,1.0
+Varus,Wukong,Sylas,Rell,Ambessa,1,LCP,1.0,0.0,1825.0,1030.0,-646.0,-1089.0,1.0,0.0,4.0,1.0,1.0,2.0
+Azir,Wukong,Sion,Lucian,Braum,0,LCK,0.0,1.0,-13431.0,-5991.0,-3901.0,-1940.0,0.0,0.0,0.0,3.0,1.0,2.0
+Naafiri,Ahri,Nidalee,Ezreal,Rell,1,LCK,1.0,0.0,13431.0,5991.0,3901.0,1940.0,1.0,1.0,3.0,0.0,2.0,1.0
+Ezreal,Ambessa,Karma,Aurora,Viego,0,LCP,0.0,1.0,-1578.0,738.0,591.0,539.0,0.0,0.0,0.0,4.0,2.0,1.0
+Neeko,Yorick,Kai'Sa,Ahri,Wukong,1,LCP,1.0,0.0,1578.0,-738.0,-591.0,-539.0,1.0,1.0,4.0,0.0,1.0,2.0
+Pantheon,Taliyah,Ashe,Seraphine,Sion,1,LCP,1.0,0.0,-2617.0,-394.0,-599.0,174.0,1.0,0.0,3.0,2.0,1.0,2.0
+Kalista,Renata Glasc,Ryze,Xin Zhao,Nidalee,0,LCP,0.0,1.0,2617.0,394.0,599.0,-174.0,0.0,1.0,2.0,3.0,2.0,1.0
+Vi,Xayah,Rakan,Galio,Camille,0,LCP,0.0,1.0,-1225.0,-2625.0,875.0,-771.0,0.0,0.0,1.0,3.0,2.0,1.0
+Nocturne,Senna,Alistar,Aatrox,Malzahar,1,LCP,1.0,0.0,1225.0,2625.0,-875.0,771.0,1.0,1.0,3.0,1.0,1.0,2.0
+Xin Zhao,Kalista,Renata Glasc,Yorick,Ahri,0,LCK,1.0,0.0,-4440.0,-3677.0,-2312.0,-69.0,0.0,0.0,1.0,3.0,3.0,0.0
+Pantheon,Ryze,Elise,Jayce,Draven,1,LCK,0.0,1.0,4440.0,3677.0,2312.0,69.0,1.0,1.0,3.0,1.0,0.0,3.0
+Poppy,Gnar,Viktor,Lucian,Braum,1,LCK,1.0,0.0,5315.0,-493.0,-3776.0,-751.0,1.0,1.0,3.0,1.0,3.0,0.0
+Gwen,Varus,Nocturne,Sylas,Shen,0,LCK,0.0,1.0,-5315.0,493.0,3776.0,751.0,0.0,0.0,1.0,3.0,0.0,3.0
+Rumble,Azir,Miss Fortune,Viego,Leona,1,LCK,0.0,1.0,5154.0,4537.0,1768.0,1977.0,0.0,0.0,1.0,1.0,3.0,0.0
+Taliyah,Alistar,Aurora,Skarner,Jhin,0,LCK,1.0,0.0,-5154.0,-4537.0,-1768.0,-1977.0,1.0,1.0,1.0,1.0,0.0,3.0
+Rumble,Wukong,Taliyah,Xayah,Rakan,1,LCK,1.0,0.0,5097.0,5606.0,2052.0,443.0,1.0,0.0,4.0,1.0,3.0,0.0
+Xin Zhao,Ambessa,Ahri,Renata Glasc,Kalista,0,LCK,0.0,1.0,-5097.0,-5606.0,-2052.0,-443.0,0.0,1.0,1.0,4.0,0.0,3.0
+Pantheon,Ahri,Rumble,Xayah,Rakan,1,LCP,1.0,0.0,12586.0,8943.0,3153.0,2602.0,1.0,1.0,3.0,0.0,3.0,0.0
+Lucian,Xin Zhao,Nami,Ornn,Azir,0,LCP,0.0,1.0,-12586.0,-8943.0,-3153.0,-2602.0,0.0,0.0,0.0,3.0,0.0,3.0
+Azir,Sion,Jhin,Nocturne,Nautilus,1,LCK,1.0,0.0,9433.0,5849.0,3846.0,1094.0,1.0,1.0,1.0,2.0,0.0,3.0
+Varus,Annie,Viego,Alistar,Gnar,0,LCK,0.0,1.0,-9433.0,-5849.0,-3846.0,-1094.0,0.0,0.0,2.0,1.0,3.0,0.0
+Varus,Sejuani,Viktor,Jax,Rell,0,LCP,0.0,1.0,-13604.0,-8253.0,-4785.0,-2105.0,0.0,0.0,0.0,3.0,1.0,2.0
+Nidalee,Corki,Sylas,Leona,Jarvan IV,1,LCP,1.0,0.0,13604.0,8253.0,4785.0,2105.0,1.0,1.0,3.0,0.0,2.0,1.0
+Jayce,Ryze,Trundle,Leona,Caitlyn,1,LCK,1.0,0.0,6270.0,2249.0,76.0,-21.0,1.0,1.0,3.0,2.0,3.0,0.0
+Viktor,Pantheon,Ornn,Braum,Miss Fortune,0,LCK,0.0,1.0,-6270.0,-2249.0,-76.0,21.0,0.0,0.0,2.0,3.0,0.0,3.0
+Rumble,Sejuani,Corki,Xayah,Alistar,1,LCP,1.0,0.0,5660.0,5860.0,2952.0,636.0,1.0,0.0,3.0,1.0,3.0,0.0
+Taliyah,Pantheon,K'Sante,Rakan,Kai'Sa,0,LCP,0.0,1.0,-5660.0,-5860.0,-2952.0,-636.0,0.0,1.0,1.0,3.0,0.0,3.0
+Vi,Ahri,Yorick,Ashe,Elise,0,LCP,0.0,1.0,-2682.0,-3489.0,-2369.0,-1101.0,0.0,0.0,0.0,4.0,2.0,1.0
+Wukong,Annie,Nidalee,Renata Glasc,Kalista,1,LCP,1.0,0.0,2682.0,3489.0,2369.0,1101.0,1.0,1.0,4.0,0.0,1.0,2.0
+Gwen,Kalista,Neeko,Azir,Naafiri,1,LTA S,1.0,0.0,2922.0,2259.0,423.0,1891.0,1.0,0.0,4.0,3.0,2.0,1.0
+Xin Zhao,Jayce,Jhin,Alistar,LeBlanc,0,LTA S,0.0,1.0,-2922.0,-2259.0,-423.0,-1891.0,0.0,1.0,3.0,4.0,1.0,2.0
+Vi,Xayah,Rakan,Rumble,Galio,0,LTA S,1.0,0.0,-3156.0,-659.0,269.0,764.0,0.0,0.0,0.0,5.0,0.0,3.0
+Wukong,Taliyah,Ezreal,Bard,Aatrox,1,LTA S,0.0,1.0,3156.0,659.0,-269.0,-764.0,1.0,1.0,5.0,0.0,3.0,0.0
+Miss Fortune,Rell,Ambessa,Sejuani,Viktor,1,LTA S,1.0,0.0,4606.0,4782.0,2576.0,936.0,1.0,1.0,3.0,1.0,1.0,2.0
+Skarner,Zeri,Poppy,Renekton,Ahri,0,LTA S,0.0,1.0,-4606.0,-4782.0,-2576.0,-936.0,0.0,0.0,1.0,3.0,2.0,1.0
+Taliyah,Xin Zhao,Rumble,Jhin,Rell,0,LTA S,0.0,1.0,-6917.0,-3410.0,-1877.0,-732.0,0.0,0.0,1.0,4.0,1.0,2.0
+Pantheon,Ahri,Gwen,Ashe,Alistar,1,LTA S,1.0,0.0,6917.0,3410.0,1877.0,732.0,1.0,1.0,4.0,1.0,2.0,1.0
+Naafiri,Jayce,Annie,Senna,Leona,1,LTA S,1.0,0.0,3858.0,3015.0,3109.0,1386.0,1.0,1.0,1.0,4.0,0.0,3.0
+Miss Fortune,Wukong,Yorick,Galio,Rakan,0,LTA S,0.0,1.0,-3858.0,-3015.0,-3109.0,-1386.0,0.0,0.0,4.0,1.0,3.0,0.0
+Vi,Taliyah,Ambessa,Ezreal,Alistar,0,LTA N,0.0,1.0,-8260.0,-2043.0,-1500.0,225.0,0.0,0.0,0.0,3.0,3.0,0.0
+Rumble,Naafiri,Annie,Volibear,Jhin,1,LTA N,1.0,0.0,8260.0,2043.0,1500.0,-225.0,1.0,1.0,3.0,0.0,0.0,3.0
+Xin Zhao,Lucian,Milio,Ornn,Ahri,0,LTA N,0.0,1.0,-12579.0,-7467.0,-2857.0,-1312.0,0.0,0.0,0.0,4.0,1.0,2.0
+Neeko,Pantheon,Kai'Sa,Renekton,Sylas,1,LTA N,1.0,0.0,12579.0,7467.0,2857.0,1312.0,1.0,1.0,4.0,0.0,2.0,1.0
+Varus,Gwen,Sejuani,Neeko,Ahri,0,LTA N,1.0,0.0,-875.0,903.0,1283.0,1069.0,0.0,0.0,3.0,2.0,3.0,0.0
+Ezreal,Xin Zhao,Jax,Taliyah,Alistar,1,LTA N,0.0,1.0,875.0,-903.0,-1283.0,-1069.0,1.0,1.0,2.0,3.0,0.0,3.0
+Pantheon,Jayce,Viktor,Xayah,Rakan,0,LTA N,0.0,1.0,1314.0,3320.0,2092.0,395.0,1.0,1.0,1.0,4.0,3.0,0.0
+Rumble,Corki,Maokai,Jhin,Rell,1,LTA N,1.0,0.0,-1314.0,-3320.0,-2092.0,-395.0,0.0,0.0,4.0,1.0,0.0,3.0
+Renekton,Lillia,Nautilus,Zeri,Annie,0,LTA N,0.0,1.0,-1154.0,-1721.0,-1179.0,-350.0,0.0,0.0,1.0,4.0,3.0,0.0
+K'Sante,Miss Fortune,Braum,Ryze,Olaf,1,LTA N,1.0,0.0,1154.0,1721.0,1179.0,350.0,1.0,1.0,4.0,1.0,0.0,3.0
+Azir,Poppy,Kennen,Jhin,Rell,1,LCK,1.0,0.0,445.0,237.0,-589.0,-728.0,1.0,1.0,4.0,1.0,2.0,1.0
+Gwen,Pantheon,Ahri,Miss Fortune,Neeko,0,LCK,0.0,1.0,-445.0,-237.0,589.0,728.0,0.0,0.0,1.0,4.0,1.0,2.0
+Sion,Varus,Renata Glasc,Viktor,Wukong,0,LCK,1.0,0.0,-2902.0,-1313.0,-797.0,363.0,1.0,1.0,0.0,5.0,1.0,2.0
+Kalista,Xin Zhao,Soraka,Vladimir,Galio,1,LCK,0.0,1.0,2902.0,1313.0,797.0,-363.0,0.0,0.0,5.0,0.0,2.0,1.0
+Azir,Skarner,Jayce,Xayah,Rakan,1,LCK,1.0,0.0,1947.0,2014.0,2086.0,153.0,0.0,0.0,2.0,4.0,1.0,2.0
+Xin Zhao,Ahri,Sion,Varus,Renata Glasc,0,LCK,0.0,1.0,-1947.0,-2014.0,-2086.0,-153.0,1.0,1.0,4.0,2.0,2.0,1.0
+Rumble,Orianna,Wukong,Ashe,Braum,0,LCK,1.0,0.0,-3714.0,-884.0,77.0,477.0,0.0,0.0,2.0,3.0,3.0,0.0
+Pantheon,Ornn,Galio,Jhin,Alistar,1,LCK,0.0,1.0,3714.0,884.0,-77.0,-477.0,1.0,1.0,3.0,2.0,0.0,3.0
+Vi,Ezreal,Leona,Ahri,Aatrox,1,LCP,1.0,0.0,767.0,717.0,122.0,-74.0,0.0,0.0,1.0,4.0,1.0,2.0
+Varus,Xin Zhao,Ambessa,Azir,Maokai,0,LCP,0.0,1.0,-767.0,-717.0,-122.0,74.0,1.0,1.0,4.0,1.0,2.0,1.0
+Rumble,Miss Fortune,Rell,Skarner,Viktor,0,LCP,0.0,1.0,-13651.0,-5577.0,-1238.0,-197.0,0.0,0.0,0.0,4.0,3.0,0.0
+Ryze,Viego,Alistar,Senna,Galio,1,LCP,1.0,0.0,13651.0,5577.0,1238.0,197.0,1.0,1.0,4.0,0.0,0.0,3.0
+Gwen,Kalista,Renata Glasc,Maokai,Corki,1,LCP,1.0,0.0,-371.0,-516.0,339.0,258.0,1.0,1.0,2.0,3.0,3.0,0.0
+Varus,Pantheon,Karma,Gnar,Ahri,0,LCP,0.0,1.0,371.0,516.0,-339.0,-258.0,0.0,0.0,3.0,2.0,0.0,3.0
+Wukong,Yorick,Sylas,Zeri,Lulu,1,LCP,1.0,0.0,4249.0,669.0,52.0,-299.0,1.0,1.0,3.0,2.0,3.0,0.0
+Sejuani,Rakan,Xayah,Smolder,Sion,0,LCP,0.0,1.0,-4249.0,-669.0,-52.0,299.0,0.0,0.0,2.0,3.0,0.0,3.0
+Vi,Jhin,Jayce,Syndra,Alistar,0,LCP,1.0,0.0,-3428.0,-3010.0,-187.0,67.0,0.0,0.0,0.0,4.0,3.0,0.0
+Skarner,Miss Fortune,Ambessa,Hwei,Rell,1,LCP,0.0,1.0,3428.0,3010.0,187.0,-67.0,1.0,1.0,4.0,0.0,0.0,3.0
+Vi,Ahri,Jax,Lucian,Nami,1,LTA S,0.0,1.0,4230.0,785.0,991.0,-88.0,1.0,0.0,3.0,1.0,0.0,3.0
+Xin Zhao,Miss Fortune,K'Sante,Veigar,Rell,0,LTA S,1.0,0.0,-4230.0,-785.0,-991.0,88.0,0.0,1.0,1.0,3.0,3.0,0.0
+Gwen,Naafiri,Annie,Ezreal,Poppy,1,LTA S,1.0,0.0,3098.0,1550.0,729.0,752.0,0.0,1.0,3.0,1.0,1.0,2.0
+Pantheon,Taliyah,Gnar,Alistar,Xayah,0,LTA S,0.0,1.0,-3098.0,-1550.0,-729.0,-752.0,1.0,0.0,1.0,3.0,2.0,1.0
+Sejuani,Corki,Nautilus,Cassiopeia,Camille,0,LTA S,0.0,1.0,-5026.0,-4978.0,-2147.0,-635.0,1.0,1.0,1.0,3.0,0.0,3.0
+Ashe,Nidalee,Braum,Ryze,Fiora,1,LTA S,1.0,0.0,5026.0,4978.0,2147.0,635.0,0.0,0.0,3.0,1.0,3.0,0.0
+Gwen,Naafiri,Ahri,Kai'Sa,Rakan,0,LTA S,0.0,1.0,-1022.0,-660.0,-2444.0,-1806.0,1.0,0.0,0.0,4.0,1.0,2.0
+Rumble,Xin Zhao,Annie,Ezreal,Poppy,1,LTA S,1.0,0.0,1022.0,660.0,2444.0,1806.0,0.0,1.0,4.0,0.0,2.0,1.0
+Jayce,Ashe,Rell,Viktor,Maokai,1,LTA S,1.0,0.0,6410.0,3532.0,-915.0,-241.0,1.0,1.0,2.0,2.0,1.0,2.0
+Pantheon,Kalista,Sion,Renata Glasc,Akali,0,LTA S,0.0,1.0,-6410.0,-3532.0,915.0,241.0,0.0,0.0,2.0,2.0,2.0,1.0
+Taliyah,Pantheon,Rumble,Jhin,Poppy,1,LTA N,1.0,0.0,11097.0,7793.0,3468.0,1295.0,1.0,1.0,4.0,0.0,3.0,0.0
+Xin Zhao,Ahri,Ryze,Alistar,Kai'Sa,0,LTA N,0.0,1.0,-11097.0,-7793.0,-3468.0,-1295.0,0.0,0.0,0.0,4.0,0.0,3.0
+Varus,Jayce,Nautilus,Galio,Kha'Zix,0,LTA N,0.0,1.0,-2654.0,-1911.0,-2233.0,-1107.0,0.0,1.0,2.0,3.0,3.0,0.0
+Ezreal,Neeko,Sion,Viego,Rell,1,LTA N,1.0,0.0,2654.0,1911.0,2233.0,1107.0,1.0,0.0,3.0,2.0,0.0,3.0
+Naafiri,Varus,Ahri,Nautilus,Riven,1,LTA N,1.0,0.0,11316.0,8033.0,2920.0,2207.0,1.0,1.0,4.0,0.0,3.0,0.0
+Taliyah,Pantheon,Ambessa,Ziggs,Leona,0,LTA N,0.0,1.0,-11316.0,-8033.0,-2920.0,-2207.0,0.0,0.0,0.0,4.0,0.0,3.0
+Xin Zhao,Annie,Sion,Caitlyn,Ashe,0,LTA N,0.0,1.0,-7228.0,-5169.0,-1362.0,-1002.0,0.0,1.0,1.0,2.0,3.0,0.0
+Kalista,Renata Glasc,Aatrox,Viktor,Trundle,1,LTA N,1.0,0.0,7228.0,5169.0,1362.0,1002.0,1.0,0.0,2.0,1.0,0.0,3.0
+Varus,Viego,Nautilus,Sion,Viktor,1,LCKC,1.0,0.0,-14.0,-722.0,-459.0,-39.0,1.0,1.0,3.0,2.0,3.0,0.0
+Xin Zhao,Miss Fortune,Rell,Ahri,Aatrox,0,LCKC,0.0,1.0,14.0,722.0,459.0,39.0,0.0,0.0,2.0,3.0,0.0,3.0
+Gwen,Sejuani,Yone,Xayah,Rakan,1,LCKC,1.0,0.0,6137.0,3450.0,2749.0,1291.0,1.0,0.0,5.0,0.0,3.0,0.0
+Ezreal,Orianna,Jax,Wukong,Alistar,0,LCKC,0.0,1.0,-6137.0,-3450.0,-2749.0,-1291.0,0.0,1.0,0.0,5.0,0.0,3.0
+Jayce,Nocturne,Galio,Kai'Sa,Shen,0,LCKC,1.0,0.0,-2220.0,-1745.0,-1995.0,-531.0,0.0,0.0,0.0,4.0,2.0,1.0
+Yorick,Aurora,Leona,Naafiri,Zeri,1,LCKC,0.0,1.0,2220.0,1745.0,1995.0,531.0,1.0,1.0,4.0,0.0,1.0,2.0
+Gwen,Ezreal,Jayce,Skarner,Karma,1,LCKC,0.0,1.0,6105.0,2009.0,3256.0,1072.0,1.0,1.0,2.0,3.0,3.0,0.0
+Sejuani,Azir,Gnar,Kalista,Nautilus,0,LCKC,1.0,0.0,-6105.0,-2009.0,-3256.0,-1072.0,0.0,0.0,3.0,2.0,0.0,3.0
+Xin Zhao,Ryze,Sion,Miss Fortune,Rell,0,LCKC,0.0,1.0,-5374.0,-4570.0,-1856.0,-828.0,0.0,0.0,1.0,4.0,1.0,2.0
+Renekton,Ahri,Nidalee,Lucian,Braum,1,LCKC,1.0,0.0,5374.0,4570.0,1856.0,828.0,1.0,1.0,4.0,1.0,2.0,1.0
+Azir,Gnar,Skarner,Jhin,Poppy,0,LCKC,0.0,1.0,-2376.0,-774.0,139.0,312.0,1.0,0.0,1.0,5.0,3.0,0.0
+Gwen,Taliyah,Naafiri,Ezreal,Leona,1,LCKC,1.0,0.0,2376.0,774.0,-139.0,-312.0,0.0,1.0,5.0,1.0,0.0,3.0
+Rumble,Xin Zhao,Viktor,Zeri,Alistar,1,LCKC,1.0,0.0,3845.0,-261.0,1624.0,326.0,1.0,1.0,2.0,3.0,3.0,0.0
+Pantheon,Ryze,Miss Fortune,Ornn,Rell,0,LCKC,0.0,1.0,-3845.0,261.0,-1624.0,-326.0,0.0,0.0,3.0,2.0,0.0,3.0
+Yone,Sejuani,Renekton,Lucian,Braum,0,LCKC,1.0,0.0,355.0,-1598.0,457.0,433.0,0.0,0.0,1.0,4.0,0.0,3.0
+Xayah,Rakan,Akali,K'Sante,Viego,1,LCKC,0.0,1.0,-355.0,1598.0,-457.0,-433.0,1.0,1.0,4.0,1.0,3.0,0.0
+Taliyah,Sejuani,Ambessa,Xayah,Nautilus,1,LCKC,0.0,1.0,-3235.0,-3324.0,1621.0,1313.0,0.0,0.0,3.0,4.0,0.0,3.0
+Rumble,LeBlanc,Wukong,Rakan,Jinx,0,LCKC,1.0,0.0,3235.0,3324.0,-1621.0,-1313.0,1.0,1.0,4.0,3.0,3.0,0.0
+Naafiri,Ahri,Sion,Miss Fortune,Rell,1,LCKC,1.0,0.0,800.0,-797.0,835.0,-152.0,1.0,1.0,3.0,2.0,1.0,2.0
+Azir,Pantheon,Yorick,Ezreal,Braum,0,LCKC,0.0,1.0,-800.0,797.0,-835.0,152.0,0.0,0.0,2.0,3.0,2.0,1.0
+Gwen,Skarner,Ryze,Jhin,Pyke,0,LCKC,0.0,1.0,-613.0,2237.0,1029.0,1218.0,0.0,0.0,0.0,5.0,2.0,1.0
+Gnar,Lee Sin,Orianna,Kalista,Renata Glasc,1,LCKC,1.0,0.0,613.0,-2237.0,-1029.0,-1218.0,1.0,1.0,5.0,0.0,1.0,2.0
+Taliyah,Wukong,Ambessa,Xayah,Rakan,1,LCKC,1.0,0.0,7099.0,5528.0,883.0,-56.0,1.0,1.0,4.0,0.0,0.0,2.0
+Naafiri,Sion,Ezreal,Azir,Neeko,0,LCKC,0.0,1.0,-7099.0,-5528.0,-883.0,56.0,0.0,0.0,0.0,4.0,2.0,0.0
+Gwen,Xin Zhao,Ryze,Leona,Miss Fortune,1,LCKC,1.0,0.0,5718.0,2775.0,3200.0,1200.0,1.0,1.0,4.0,0.0,3.0,0.0
+Jayce,Pantheon,Viktor,Lucian,Nautilus,0,LCKC,0.0,1.0,-5718.0,-2775.0,-3200.0,-1200.0,0.0,0.0,0.0,4.0,0.0,3.0
+Renekton,Tristana,Ivern,Mel,Rell,1,LCKC,1.0,0.0,10849.0,5931.0,1753.0,214.0,1.0,0.0,3.0,2.0,3.0,0.0
+Ornn,Lillia,Corki,Alistar,Kai'Sa,0,LCKC,0.0,1.0,-10849.0,-5931.0,-1753.0,-214.0,0.0,1.0,2.0,3.0,0.0,3.0
+Azir,Skarner,Nidalee,Lucian,Braum,1,LCK,1.0,0.0,6622.0,2897.0,-1542.0,-565.0,1.0,0.0,2.0,2.0,2.0,1.0
+Xin Zhao,Gwen,Ahri,Alistar,Senna,0,LCK,0.0,1.0,-6622.0,-2897.0,1542.0,565.0,0.0,1.0,2.0,2.0,1.0,2.0
+Taliyah,Sejuani,Jayce,Ezreal,Rell,1,LCK,1.0,0.0,-1021.0,-19.0,1166.0,1328.0,0.0,0.0,4.0,3.0,3.0,0.0
+Naafiri,Hwei,Ornn,Miss Fortune,Nautilus,0,LCK,0.0,1.0,1021.0,19.0,-1166.0,-1328.0,1.0,1.0,3.0,4.0,0.0,3.0
+Vi,Varus,Renata Glasc,Renekton,Aurora,1,LCK,1.0,0.0,4181.0,6045.0,1898.0,932.0,1.0,1.0,4.0,0.0,3.0,0.0
+Xayah,Rakan,Pantheon,Galio,Gnar,0,LCK,0.0,1.0,-4181.0,-6045.0,-1898.0,-932.0,0.0,0.0,0.0,4.0,0.0,3.0
+Taliyah,Wukong,Gwen,Lucian,Braum,0,LCK,0.0,1.0,-2881.0,-1468.0,-944.0,-148.0,1.0,1.0,1.0,3.0,3.0,0.0
+Xin Zhao,Ryze,Jayce,Alistar,Senna,1,LCK,1.0,0.0,2881.0,1468.0,944.0,148.0,0.0,0.0,3.0,1.0,0.0,3.0
+Azir,Pantheon,Neeko,Ezreal,Sion,1,LCK,0.0,1.0,595.0,3264.0,-797.0,58.0,1.0,1.0,1.0,4.0,2.0,1.0
+Kalista,Renata Glasc,Ambessa,Hwei,Trundle,0,LCK,1.0,0.0,-595.0,-3264.0,797.0,-58.0,0.0,0.0,4.0,1.0,1.0,2.0
+Varus,Taliyah,Nautilus,Nidalee,Poppy,1,LCKC,1.0,0.0,5791.0,4159.0,3417.0,1492.0,1.0,1.0,4.0,0.0,3.0,0.0
+Azir,Xin Zhao,Ambessa,Kalista,Renata Glasc,0,LCKC,0.0,1.0,-5791.0,-4159.0,-3417.0,-1492.0,0.0,0.0,0.0,4.0,0.0,3.0
+Nidalee,Sion,Azir,Miss Fortune,Alistar,0,LCKC,0.0,1.0,4012.0,6796.0,5132.0,2700.0,1.0,1.0,2.0,2.0,0.0,3.0
+Jayce,Lee Sin,Akali,Ezreal,Braum,1,LCKC,1.0,0.0,-4012.0,-6796.0,-5132.0,-2700.0,0.0,0.0,2.0,2.0,3.0,0.0
+Pantheon,Ryze,Galio,Jhin,Nautilus,0,LCKC,0.0,1.0,-5969.0,-1503.0,-2098.0,647.0,0.0,1.0,2.0,2.0,3.0,0.0
+Rumble,Ahri,Wukong,Lucian,Braum,1,LCKC,1.0,0.0,5969.0,1503.0,2098.0,-647.0,1.0,0.0,2.0,2.0,0.0,3.0
+Jayce,Ryze,Skarner,Kai'Sa,Rell,1,LCKC,1.0,0.0,12079.0,5218.0,3653.0,829.0,1.0,1.0,3.0,0.0,3.0,0.0
+Rumble,Sejuani,Yone,Ezreal,Braum,0,LCKC,0.0,1.0,-12079.0,-5218.0,-3653.0,-829.0,0.0,0.0,0.0,3.0,0.0,3.0
+Jayce,Nidalee,Ezreal,Corki,Maokai,1,LCKC,0.0,1.0,3024.0,90.0,1095.0,1919.0,0.0,1.0,4.0,0.0,3.0,0.0
+Taliyah,Xin Zhao,Miss Fortune,Rell,Irelia,0,LCKC,1.0,0.0,-3024.0,-90.0,-1095.0,-1919.0,1.0,0.0,0.0,4.0,0.0,3.0
+Pantheon,Gwen,Ahri,Jhin,Leona,0,LCKC,0.0,1.0,-786.0,1505.0,1701.0,425.0,1.0,1.0,0.0,5.0,2.0,1.0
+Rumble,Naafiri,Orianna,Rakan,Xayah,1,LCKC,1.0,0.0,786.0,-1505.0,-1701.0,-425.0,0.0,0.0,5.0,0.0,1.0,2.0
+Ahri,Xayah,Rakan,Lee Sin,Sion,0,LCKC,0.0,1.0,-11022.0,-3620.0,-2549.0,-1321.0,0.0,0.0,0.0,4.0,0.0,3.0
+Renekton,Viego,Aurora,Miss Fortune,Neeko,1,LCKC,1.0,0.0,11022.0,3620.0,2549.0,1321.0,1.0,1.0,4.0,0.0,3.0,0.0
+Varus,Naafiri,Ambessa,Alistar,Twisted Fate,1,LCKC,0.0,1.0,6689.0,4830.0,1532.0,693.0,1.0,1.0,3.0,2.0,3.0,0.0
+Hwei,Gnar,Skarner,Senna,Tahm Kench,0,LCKC,1.0,0.0,-6689.0,-4830.0,-1532.0,-693.0,0.0,0.0,2.0,3.0,0.0,3.0
+Rumble,Sejuani,Yone,Varus,Poppy,1,LCK,0.0,1.0,5133.0,4408.0,32.0,31.0,1.0,1.0,4.0,0.0,2.0,1.0
+Naafiri,Taliyah,Ambessa,Miss Fortune,Nautilus,0,LCK,1.0,0.0,-5133.0,-4408.0,-32.0,-31.0,0.0,0.0,0.0,4.0,1.0,2.0
+Azir,Skarner,Aatrox,Lucian,Rakan,0,LCK,0.0,1.0,-3840.0,-1510.0,1110.0,763.0,0.0,0.0,2.0,2.0,1.0,2.0
+Sion,Wukong,Ahri,Rell,Ezreal,1,LCK,1.0,0.0,3840.0,1510.0,-1110.0,-763.0,1.0,1.0,2.0,2.0,2.0,1.0
+Viktor,Kalista,Renata Glasc,Yorick,Nocturne,1,LCK,1.0,0.0,6251.0,3436.0,1332.0,692.0,1.0,0.0,3.0,1.0,3.0,0.0
+Xin Zhao,Neeko,Ezreal,Annie,Olaf,0,LCK,0.0,1.0,-6251.0,-3436.0,-1332.0,-692.0,0.0,1.0,1.0,3.0,0.0,3.0
+Azir,Poppy,Jayce,Lucian,Braum,0,LCK,0.0,1.0,96.0,482.0,-1188.0,316.0,0.0,1.0,0.0,5.0,3.0,0.0
+Rumble,Skarner,Smolder,Senna,Nautilus,1,LCK,1.0,0.0,-96.0,-482.0,1188.0,-316.0,1.0,0.0,5.0,0.0,0.0,3.0
+Azir,Rumble,Wukong,Varus,Nautilus,0,LCKC,0.0,1.0,-9558.0,-6642.0,-1311.0,-107.0,0.0,0.0,1.0,3.0,1.0,2.0
+Pantheon,Viktor,Jayce,Neeko,Kalista,1,LCKC,1.0,0.0,9558.0,6642.0,1311.0,107.0,1.0,1.0,3.0,1.0,2.0,1.0
+Pantheon,Rumble,Orianna,Nautilus,Kai'Sa,1,LCKC,1.0,0.0,62.0,-2196.0,-1509.0,-1284.0,0.0,0.0,2.0,3.0,0.0,3.0
+Xin Zhao,Ryze,Ornn,Ezreal,Leona,0,LCKC,0.0,1.0,-62.0,2196.0,1509.0,1284.0,1.0,1.0,3.0,2.0,3.0,0.0
+Xin Zhao,Ryze,Miss Fortune,K'Sante,Rell,0,LCKC,0.0,1.0,-13518.0,-9000.0,-4044.0,-1455.0,0.0,0.0,1.0,3.0,0.0,3.0
+Taliyah,Skarner,Ezreal,Jax,Alistar,1,LCKC,1.0,0.0,13518.0,9000.0,4044.0,1455.0,1.0,1.0,3.0,1.0,3.0,0.0
+Gwen,Wukong,Sylas,Zeri,Rakan,1,LCKC,1.0,0.0,3420.0,-1053.0,961.0,579.0,0.0,0.0,1.0,3.0,3.0,0.0
+Jayce,Ahri,Skarner,Xayah,Rell,0,LCKC,0.0,1.0,-3420.0,1053.0,-961.0,-579.0,1.0,1.0,3.0,1.0,0.0,3.0
+Viktor,Senna,Alistar,Viego,Aatrox,1,LCKC,1.0,0.0,1313.0,735.0,254.0,35.0,0.0,1.0,4.0,1.0,0.0,3.0
+Nidalee,Sion,Corki,Smolder,Braum,0,LCKC,0.0,1.0,-1313.0,-735.0,-254.0,-35.0,1.0,0.0,1.0,4.0,3.0,0.0
+Xin Zhao,Jayce,Ahri,Lucian,Braum,1,LCK,1.0,0.0,10231.0,7006.0,1239.0,1112.0,1.0,1.0,4.0,0.0,3.0,0.0
+Ryze,Trundle,Yorick,Varus,Rell,0,LCK,0.0,1.0,-10231.0,-7006.0,-1239.0,-1112.0,0.0,0.0,0.0,4.0,0.0,3.0
+Viktor,Poppy,Gnar,Gragas,Senna,0,LCK,0.0,1.0,2353.0,214.0,933.0,622.0,1.0,1.0,3.0,3.0,1.0,2.0
+Gwen,Galio,Nocturne,Alistar,Tristana,1,LCK,1.0,0.0,-2353.0,-214.0,-933.0,-622.0,0.0,0.0,3.0,3.0,2.0,1.0
+Xin Zhao,Taliyah,Varus,Nautilus,Sion,1,LCP,1.0,0.0,4410.0,2040.0,1047.0,-552.0,1.0,1.0,4.0,1.0,1.0,2.0
+Vi,Ahri,Rumble,Neeko,Kai'Sa,0,LCP,0.0,1.0,-4410.0,-2040.0,-1047.0,552.0,0.0,0.0,1.0,4.0,2.0,1.0
+Pantheon,Galio,Nidalee,Ezreal,Leona,0,LCK,0.0,1.0,-378.0,-1140.0,63.0,-97.0,0.0,0.0,2.0,3.0,1.0,2.0
+Rumble,Taliyah,Xin Zhao,Alistar,Jhin,1,LCK,1.0,0.0,378.0,1140.0,-63.0,97.0,1.0,1.0,3.0,2.0,2.0,1.0
+Nidalee,Corki,Leona,Miss Fortune,Renekton,1,LCP,1.0,0.0,9155.0,5507.0,3040.0,1604.0,1.0,1.0,4.0,0.0,3.0,0.0
+Ezreal,Viego,Rell,Aurora,Jayce,0,LCP,0.0,1.0,-9155.0,-5507.0,-3040.0,-1604.0,0.0,0.0,0.0,4.0,0.0,3.0
+Azir,Sejuani,Varus,Camille,Shen,1,LCK,1.0,0.0,5691.0,3132.0,1520.0,391.0,1.0,1.0,1.0,2.0,3.0,0.0
+Sion,Ahri,Wukong,Miss Fortune,Rell,0,LCK,0.0,1.0,-5691.0,-3132.0,-1520.0,-391.0,0.0,0.0,2.0,1.0,0.0,3.0
+Ashe,Wukong,Galio,Ornn,Rakan,0,LCP,0.0,1.0,-5049.0,-2107.0,14.0,27.0,0.0,0.0,1.0,3.0,3.0,0.0
+Ambessa,Annie,Jarvan IV,Jhin,Alistar,1,LCP,1.0,0.0,5049.0,2107.0,-14.0,-27.0,1.0,1.0,3.0,1.0,0.0,3.0
+Ryze,Yorick,Trundle,Jinx,Lulu,1,LCK,0.0,1.0,7793.0,5107.0,1961.0,487.0,1.0,0.0,2.0,1.0,3.0,0.0
+Viego,Orianna,Xayah,Braum,Aurora,0,LCK,1.0,0.0,-7793.0,-5107.0,-1961.0,-487.0,0.0,1.0,1.0,2.0,0.0,3.0
+Rumble,Xin Zhao,Azir,Xayah,Rakan,1,LCP,1.0,0.0,7017.0,3152.0,3002.0,1588.0,1.0,1.0,2.0,1.0,2.0,1.0
+Pantheon,Gwen,Hwei,Alistar,Senna,0,LCP,0.0,1.0,-7017.0,-3152.0,-3002.0,-1588.0,0.0,0.0,1.0,2.0,1.0,2.0
+Wukong,Kalista,Renata Glasc,Galio,Shyvana,1,LCP,1.0,0.0,7167.0,5674.0,2172.0,1564.0,1.0,1.0,2.0,1.0,2.0,1.0
+Lucian,Yorick,Nami,Viktor,Poppy,0,LCP,0.0,1.0,-7167.0,-5674.0,-2172.0,-1564.0,0.0,0.0,1.0,2.0,1.0,2.0
+Azir,Sejuani,Jayce,Varus,Rell,0,LCK,0.0,1.0,-4385.0,-2226.0,-623.0,57.0,0.0,0.0,1.0,3.0,2.0,1.0
+Gwen,Xin Zhao,Ahri,Senna,Nautilus,1,LCK,1.0,0.0,4385.0,2226.0,623.0,-57.0,1.0,1.0,3.0,1.0,1.0,2.0
+Taliyah,Wukong,Sion,Jhin,Leona,1,LCK,1.0,0.0,8424.0,1460.0,-125.0,-1530.0,0.0,0.0,3.0,2.0,3.0,0.0
+Pantheon,Ryze,Cho'Gath,Ezreal,Neeko,0,LCK,0.0,1.0,-8424.0,-1460.0,125.0,1530.0,1.0,1.0,2.0,3.0,0.0,3.0
+Nidalee,Corki,K'Sante,Xayah,Rakan,0,LCK,1.0,0.0,-189.0,-276.0,557.0,183.0,0.0,0.0,2.0,3.0,1.0,2.0
+Yorick,Kindred,Alistar,Viktor,Jinx,1,LCK,0.0,1.0,189.0,276.0,-557.0,-183.0,1.0,1.0,3.0,2.0,2.0,1.0
+Rumble,Sejuani,Yone,Senna,Nautilus,0,LCK,0.0,1.0,-6393.0,-6902.0,-3789.0,-449.0,0.0,1.0,2.0,1.0,0.0,3.0
+Gwen,Taliyah,Skarner,Miss Fortune,Rell,1,LCK,1.0,0.0,6393.0,6902.0,3789.0,449.0,1.0,0.0,1.0,2.0,3.0,0.0
+Rumble,Vi,Ahri,Lucian,Braum,1,LCP,1.0,0.0,7314.0,4541.0,1393.0,355.0,1.0,1.0,3.0,1.0,1.0,2.0
+Ezreal,Xin Zhao,Ambessa,Alistar,Annie,0,LCP,0.0,1.0,-7314.0,-4541.0,-1393.0,-355.0,0.0,0.0,1.0,3.0,2.0,1.0
+Viktor,Trundle,Sion,Ezreal,Braum,0,LCK,0.0,1.0,-1133.0,-104.0,-692.0,198.0,1.0,1.0,4.0,3.0,3.0,0.0
+Orianna,Nocturne,Nidalee,Lucian,Bard,1,LCK,1.0,0.0,1133.0,104.0,692.0,-198.0,0.0,0.0,3.0,4.0,0.0,3.0
+Sion,Xayah,Rakan,Aurora,Viego,0,LCP,1.0,0.0,-3925.0,-1471.0,751.0,-1374.0,0.0,0.0,3.0,2.0,2.0,1.0
+Cho'Gath,Taliyah,Nocturne,Lulu,Kog'Maw,1,LCP,0.0,1.0,3925.0,1471.0,-751.0,1374.0,1.0,1.0,2.0,3.0,1.0,2.0
+Yorick,Senna,Nautilus,Hwei,Wukong,0,LCP,0.0,1.0,-4881.0,-4022.0,-1765.0,-479.0,0.0,0.0,0.0,4.0,2.0,1.0
+Renekton,Azir,Sejuani,Varus,Renata Glasc,1,LCP,1.0,0.0,4881.0,4022.0,1765.0,479.0,1.0,1.0,4.0,0.0,1.0,2.0
+Gwen,Skarner,Viktor,Ashe,Alistar,1,LCP,1.0,0.0,2377.0,2860.0,715.0,1648.0,1.0,1.0,4.0,0.0,3.0,0.0
+Corki,Maokai,Aurora,Jhin,Rell,0,LCP,0.0,1.0,-2377.0,-2860.0,-715.0,-1648.0,0.0,0.0,0.0,4.0,0.0,3.0
+Taliyah,Xin Zhao,Ambessa,Kai'Sa,Neeko,1,LCP,1.0,0.0,1536.0,2663.0,1938.0,-470.0,1.0,1.0,4.0,1.0,2.0,1.0
+Sion,Ezreal,Karma,Viego,Leona,0,LCP,0.0,1.0,-1536.0,-2663.0,-1938.0,470.0,0.0,0.0,1.0,4.0,1.0,2.0
+Azir,Vi,Rumble,Corki,Rell,1,LEC,1.0,0.0,6288.0,3595.0,1209.0,231.0,1.0,1.0,3.0,2.0,1.0,2.0
+Varus,Akali,Ornn,Xin Zhao,Alistar,0,LEC,0.0,1.0,-6288.0,-3595.0,-1209.0,-231.0,0.0,0.0,2.0,3.0,2.0,1.0
+Senna,Wukong,Nautilus,Ahri,Gnar,1,LEC,1.0,0.0,2522.0,-727.0,-117.0,236.0,0.0,1.0,2.0,1.0,0.0,3.0
+Taliyah,Pantheon,Renata Glasc,Zeri,Yorick,0,LEC,0.0,1.0,-2522.0,727.0,117.0,-236.0,1.0,0.0,1.0,2.0,3.0,0.0
+Gwen,Ezreal,Neeko,Galio,Nocturne,1,LTA S,0.0,1.0,1982.0,-296.0,-1103.0,-1027.0,1.0,1.0,3.0,2.0,3.0,0.0
+Vi,Rumble,Rell,Jhin,Viktor,0,LTA S,1.0,0.0,-1982.0,296.0,1103.0,1027.0,0.0,0.0,2.0,3.0,0.0,3.0
+Kalista,Gwen,Taric,Skarner,Hwei,0,LEC,1.0,0.0,4590.0,2683.0,2708.0,1396.0,1.0,1.0,3.0,2.0,3.0,0.0
+Xayah,Poppy,Jax,Rakan,Annie,1,LEC,0.0,1.0,-4590.0,-2683.0,-2708.0,-1396.0,0.0,0.0,2.0,3.0,0.0,3.0
+Lucian,Milio,Azir,Skarner,Renekton,1,LTA S,1.0,0.0,-29.0,275.0,1645.0,267.0,1.0,1.0,3.0,3.0,1.0,2.0
+Nami,Corki,Xin Zhao,Annie,Gnar,0,LTA S,0.0,1.0,29.0,-275.0,-1645.0,-267.0,0.0,0.0,3.0,3.0,2.0,1.0
+Neeko,Tristana,Sejuani,Orianna,Camille,0,LEC,0.0,1.0,729.0,1031.0,433.0,-933.0,1.0,1.0,2.0,3.0,0.0,3.0
+Kai'Sa,Leona,Ambessa,Trundle,Galio,1,LEC,1.0,0.0,-729.0,-1031.0,-433.0,933.0,0.0,0.0,3.0,2.0,3.0,0.0
+Caitlyn,Lillia,Jayce,K'Sante,Alistar,1,LTA S,1.0,0.0,9998.0,8179.0,3957.0,1605.0,1.0,0.0,3.0,1.0,3.0,0.0
+Sejuani,Jinx,Nautilus,Aatrox,Syndra,0,LTA S,0.0,1.0,-9998.0,-8179.0,-3957.0,-1605.0,0.0,1.0,1.0,3.0,0.0,3.0
+Taliyah,Poppy,Ashe,Olaf,Seraphine,0,LTA S,0.0,1.0,2353.0,2664.0,1122.0,1187.0,1.0,1.0,4.0,2.0,3.0,0.0
+Kalista,Ahri,Maokai,Yorick,Blitzcrank,1,LTA S,1.0,0.0,-2353.0,-2664.0,-1122.0,-1187.0,0.0,0.0,2.0,4.0,0.0,3.0
+Varus,Pantheon,Galio,Ornn,Alistar,1,LTA N,1.0,0.0,4693.0,3907.0,980.0,-126.0,1.0,1.0,4.0,0.0,1.0,2.0
+Rumble,Naafiri,Jhin,Annie,Braum,0,LTA N,0.0,1.0,-4693.0,-3907.0,-980.0,126.0,0.0,0.0,0.0,4.0,2.0,1.0
+Azir,Skarner,Ezreal,Leona,Yorick,0,LTA N,1.0,0.0,4322.0,1195.0,1598.0,-1328.0,1.0,1.0,4.0,4.0,3.0,0.0
+Taliyah,Xin Zhao,Senna,Rell,Mordekaiser,1,LTA N,0.0,1.0,-4322.0,-1195.0,-1598.0,1328.0,0.0,0.0,4.0,4.0,0.0,3.0
+Sion,Xayah,Rakan,Orianna,Dr. Mundo,0,LTA N,1.0,0.0,-756.0,475.0,1614.0,-499.0,0.0,1.0,3.0,4.0,0.0,3.0
+Renekton,Sejuani,Hwei,Lucian,Nami,1,LTA N,0.0,1.0,756.0,-475.0,-1614.0,499.0,1.0,0.0,4.0,3.0,3.0,0.0
+Rumble,Wukong,Taliyah,Jhin,Rell,1,LCK,1.0,0.0,5466.0,2931.0,2669.0,540.0,1.0,1.0,4.0,1.0,0.0,3.0
+Azir,Sejuani,Jayce,Varus,Nautilus,0,LCK,0.0,1.0,-5466.0,-2931.0,-2669.0,-540.0,0.0,0.0,1.0,4.0,3.0,0.0
+Kalista,Xin Zhao,Akali,Rakan,Camille,1,LCK,1.0,0.0,2890.0,1982.0,-48.0,-560.0,1.0,1.0,2.0,2.0,1.0,2.0
+Sion,Viktor,Ezreal,Alistar,Naafiri,0,LCK,0.0,1.0,-2890.0,-1982.0,48.0,560.0,0.0,0.0,2.0,2.0,2.0,1.0
+Yone,Lillia,Poppy,Miss Fortune,Aatrox,0,LCK,0.0,1.0,-1941.0,1952.0,918.0,-90.0,1.0,1.0,0.0,4.0,0.0,3.0
+Nidalee,Corki,Leona,Renekton,Senna,1,LCK,1.0,0.0,1941.0,-1952.0,-918.0,90.0,0.0,0.0,4.0,0.0,3.0,0.0
+Rumble,Varus,Ahri,Nautilus,Naafiri,1,LCK,0.0,1.0,3167.0,2210.0,1181.0,361.0,1.0,0.0,2.0,2.0,0.0,3.0
+Nidalee,Azir,Jayce,Jhin,Rell,0,LCK,1.0,0.0,-3167.0,-2210.0,-1181.0,-361.0,0.0,1.0,2.0,2.0,3.0,0.0
+Pantheon,Jhin,Rumble,Rell,Corki,0,LCP,1.0,0.0,-2417.0,-3215.0,-579.0,410.0,1.0,1.0,4.0,2.0,3.0,0.0
+Varus,Ahri,Wukong,Neeko,Sion,1,LCP,0.0,1.0,2417.0,3215.0,579.0,-410.0,0.0,0.0,2.0,4.0,0.0,3.0
+Ryze,Trundle,Jax,Ashe,Poppy,1,LCK,1.0,0.0,-8.0,-595.0,35.0,-252.0,1.0,1.0,3.0,3.0,2.0,1.0
+Yorick,Xin Zhao,Akali,Leona,Kai'Sa,0,LCK,0.0,1.0,8.0,595.0,-35.0,252.0,0.0,0.0,3.0,3.0,1.0,2.0
+Xin Zhao,Ezreal,Yorick,Rakan,Viktor,1,LCP,1.0,0.0,9166.0,4483.0,2247.0,1484.0,1.0,1.0,3.0,1.0,1.0,2.0
+Annie,Miss Fortune,Viego,Alistar,Sett,0,LCP,0.0,1.0,-9166.0,-4483.0,-2247.0,-1484.0,0.0,0.0,1.0,3.0,2.0,1.0
+Taliyah,Pantheon,K'Sante,Lucian,Braum,0,LCK,0.0,1.0,-3103.0,117.0,735.0,-57.0,1.0,1.0,0.0,3.0,2.0,1.0
+Wukong,Renekton,Alistar,Ezreal,Syndra,1,LCK,1.0,0.0,3103.0,-117.0,-735.0,57.0,0.0,0.0,3.0,0.0,1.0,2.0
+Taliyah,Skarner,Nautilus,Tristana,Aatrox,0,LCP,0.0,1.0,837.0,1075.0,-983.0,-1253.0,0.0,0.0,1.0,3.0,0.0,3.0
+Kai'Sa,Sejuani,Leona,Sylas,Renekton,1,LCP,1.0,0.0,-837.0,-1075.0,983.0,1253.0,1.0,1.0,3.0,1.0,3.0,0.0
+Vi,Xayah,Rakan,Sylas,Sion,1,LCP,1.0,0.0,17656.0,9820.0,5176.0,-158.0,1.0,1.0,4.0,0.0,1.0,2.0
+Nocturne,Rumble,Ahri,Ashe,Braum,0,LCP,0.0,1.0,-17656.0,-9820.0,-5176.0,158.0,0.0,0.0,0.0,4.0,2.0,1.0
+Yorick,Viego,Annie,Ezreal,Rell,1,LCP,1.0,0.0,2064.0,239.0,1449.0,677.0,1.0,1.0,4.0,1.0,2.0,1.0
+Wukong,Gwen,Galio,Alistar,Kai'Sa,0,LCP,0.0,1.0,-2064.0,-239.0,-1449.0,-677.0,0.0,0.0,1.0,4.0,1.0,2.0
+Taliyah,Kalista,Renata Glasc,Sejuani,Jax,1,LCP,1.0,0.0,5357.0,3749.0,27.0,735.0,1.0,1.0,3.0,1.0,0.0,3.0
+Miss Fortune,Leona,Orianna,Ambessa,Poppy,0,LCP,0.0,1.0,-5357.0,-3749.0,-27.0,-735.0,0.0,0.0,1.0,3.0,3.0,0.0
+Rumble,Xin Zhao,Sylas,Ezreal,Rakan,0,LEC,0.0,1.0,-297.0,5.0,561.0,125.0,1.0,1.0,0.0,4.0,2.0,1.0
+Vi,Ahri,Galio,Xayah,Rell,1,LEC,1.0,0.0,297.0,-5.0,-561.0,-125.0,0.0,0.0,4.0,0.0,1.0,2.0
+Yone,Sejuani,Ambessa,Kalista,Leona,1,LEC,1.0,0.0,4976.0,4627.0,1895.0,-580.0,1.0,1.0,4.0,2.0,3.0,0.0
+Kai'Sa,Pantheon,Akali,Neeko,Jax,0,LEC,0.0,1.0,-4976.0,-4627.0,-1895.0,580.0,0.0,0.0,2.0,4.0,0.0,3.0
+Gwen,Nocturne,Annie,Zeri,Lulu,0,LTA S,0.0,1.0,-1092.0,-1446.0,-2600.0,-1157.0,0.0,0.0,1.0,4.0,0.0,3.0
+Naafiri,Taliyah,Olaf,Lucian,Nami,1,LTA S,1.0,0.0,1092.0,1446.0,2600.0,1157.0,1.0,1.0,4.0,1.0,3.0,0.0
+Taliyah,Senna,Nautilus,Trundle,Nidalee,1,LEC,1.0,0.0,3849.0,1246.0,1571.0,993.0,0.0,1.0,4.0,2.0,3.0,0.0
+Varus,Skarner,Viktor,Alistar,Gnar,0,LEC,0.0,1.0,-3849.0,-1246.0,-1571.0,-993.0,1.0,0.0,2.0,4.0,0.0,3.0
+Miss Fortune,Xin Zhao,Ahri,Neeko,Ambessa,1,LTA S,1.0,0.0,9152.0,6234.0,2846.0,1458.0,1.0,1.0,1.0,2.0,3.0,0.0
+Vi,Jhin,Ryze,Alistar,Renekton,0,LTA S,0.0,1.0,-9152.0,-6234.0,-2846.0,-1458.0,0.0,0.0,2.0,1.0,0.0,3.0
+Maokai,Hwei,Miss Fortune,Camille,Gragas,1,LEC,1.0,0.0,1615.0,-435.0,-2980.0,-1867.0,0.0,0.0,3.0,2.0,3.0,0.0
+Lucian,Naafiri,Sion,Aurora,Karma,0,LEC,0.0,1.0,-1615.0,435.0,2980.0,1867.0,1.0,1.0,2.0,3.0,0.0,3.0
+Rumble,Yasuo,Rakan,Azir,Viego,1,LTA S,1.0,0.0,-951.0,-819.0,-1330.0,-980.0,1.0,1.0,1.0,3.0,3.0,0.0
+Sion,Varus,Galio,Pantheon,Akali,0,LTA S,0.0,1.0,951.0,819.0,1330.0,980.0,0.0,0.0,3.0,1.0,0.0,3.0
+Ryze,Poppy,Braum,Tristana,Ornn,1,LEC,1.0,0.0,750.0,-668.0,-952.0,-670.0,1.0,0.0,3.0,3.0,0.0,3.0
+Wukong,Zoe,Jhin,Pyke,Aatrox,0,LEC,0.0,1.0,-750.0,668.0,952.0,670.0,0.0,1.0,3.0,3.0,3.0,0.0
+Vi,Azir,Varus,Renekton,Rell,1,LTA N,1.0,0.0,1136.0,618.0,536.0,273.0,0.0,1.0,3.0,2.0,1.0,2.0
+Taliyah,Naafiri,Sion,Jhin,Rakan,0,LTA N,0.0,1.0,-1136.0,-618.0,-536.0,-273.0,1.0,0.0,2.0,3.0,2.0,1.0
+Xin Zhao,Galio,Ahri,Smolder,Braum,0,LTA N,0.0,1.0,-8073.0,-4433.0,-2932.0,-383.0,0.0,0.0,1.0,3.0,2.0,1.0
+Rumble,Skarner,Corki,Ezreal,Alistar,1,LTA N,1.0,0.0,8073.0,4433.0,2932.0,383.0,1.0,1.0,3.0,1.0,1.0,2.0
+Neeko,Yorick,Nocturne,Zeri,Leona,0,LTA N,1.0,0.0,433.0,2127.0,-580.0,-450.0,1.0,0.0,3.0,2.0,3.0,0.0
+Maokai,Tristana,Gnar,Senna,Nautilus,1,LTA N,0.0,1.0,-433.0,-2127.0,580.0,450.0,0.0,1.0,2.0,3.0,0.0,3.0
+Naafiri,Sion,Varus,Nautilus,Ekko,0,LCKC,0.0,1.0,-3705.0,-1916.0,-77.0,230.0,1.0,0.0,0.0,4.0,3.0,0.0
+Jayce,Taliyah,Wukong,Ezreal,Braum,1,LCKC,1.0,0.0,3705.0,1916.0,77.0,-230.0,0.0,1.0,4.0,0.0,0.0,3.0
+Pantheon,Renekton,Akali,Rakan,Jinx,0,LCKC,0.0,1.0,2534.0,2568.0,1389.0,-29.0,1.0,1.0,2.0,3.0,2.0,1.0
+Azir,Skarner,Nidalee,Xayah,Alistar,1,LCKC,1.0,0.0,-2534.0,-2568.0,-1389.0,29.0,0.0,0.0,3.0,2.0,1.0,2.0
+Ryze,Wukong,Gwen,Xayah,Rell,1,LCKC,0.0,1.0,51.0,-1100.0,-464.0,-145.0,0.0,0.0,3.0,2.0,0.0,3.0
+Ahri,Xin Zhao,Rumble,Rakan,Kai'Sa,0,LCKC,1.0,0.0,-51.0,1100.0,464.0,145.0,1.0,1.0,2.0,3.0,3.0,0.0
+Azir,Trundle,Jayce,Miss Fortune,Leona,1,LCKC,1.0,0.0,-1039.0,-1614.0,-2975.0,-704.0,1.0,1.0,3.0,2.0,1.0,2.0
+Viktor,Sejuani,Yorick,Jhin,Poppy,0,LCKC,0.0,1.0,1039.0,1614.0,2975.0,704.0,0.0,0.0,2.0,3.0,2.0,1.0
+Pantheon,Ezreal,Alistar,LeBlanc,Jax,1,LCKC,1.0,0.0,3446.0,5287.0,2859.0,1658.0,1.0,1.0,2.0,1.0,2.0,1.0
+Sion,Nidalee,Yone,Caitlyn,Braum,0,LCKC,0.0,1.0,-3446.0,-5287.0,-2859.0,-1658.0,0.0,0.0,1.0,2.0,1.0,2.0
+Rumble,Xin Zhao,Ahri,Xayah,Rakan,1,LCKC,0.0,1.0,4392.0,-82.0,635.0,-619.0,1.0,1.0,1.0,2.0,0.0,3.0
+Gwen,Taliyah,Trundle,Kalista,Alistar,0,LCKC,1.0,0.0,-4392.0,82.0,-635.0,619.0,0.0,0.0,2.0,1.0,3.0,0.0
+Pantheon,Jayce,Orianna,Ashe,Renata Glasc,1,LCKC,1.0,0.0,3009.0,1351.0,885.0,724.0,0.0,1.0,2.0,2.0,3.0,0.0
+Ryze,Wukong,Sion,Kai'Sa,Neeko,0,LCKC,0.0,1.0,-3009.0,-1351.0,-885.0,-724.0,1.0,0.0,2.0,2.0,0.0,3.0
+Naafiri,Sylas,Renekton,Jhin,Leona,1,LCKC,1.0,0.0,-206.0,1130.0,-1440.0,-984.0,0.0,1.0,3.0,2.0,2.0,1.0
+Viktor,Skarner,Nidalee,Lucian,Shen,0,LCKC,0.0,1.0,206.0,-1130.0,1440.0,984.0,1.0,0.0,2.0,3.0,1.0,2.0
+Pantheon,Smolder,Rell,Ambessa,Ryze,0,LEC,0.0,1.0,-4951.0,-3483.0,-161.0,568.0,0.0,0.0,2.0,3.0,1.0,2.0
+Senna,Nautilus,Wukong,Ahri,Camille,1,LEC,1.0,0.0,4951.0,3483.0,161.0,-568.0,1.0,1.0,3.0,2.0,2.0,1.0
+Azir,Ezreal,Leona,Ivern,Jayce,0,LEC,0.0,1.0,-5892.0,-6228.0,-2386.0,7.0,0.0,0.0,2.0,4.0,2.0,1.0
+Taliyah,Varus,Alistar,Naafiri,Sion,1,LEC,1.0,0.0,5892.0,6228.0,2386.0,-7.0,1.0,1.0,4.0,2.0,1.0,2.0
+Kai'Sa,Yone,Rumble,Lillia,Renata Glasc,1,LEC,0.0,1.0,-1891.0,-1318.0,-503.0,139.0,1.0,1.0,4.0,2.0,3.0,0.0
+Braum,Xayah,Gwen,Trundle,Annie,0,LEC,1.0,0.0,1891.0,1318.0,503.0,-139.0,0.0,0.0,2.0,4.0,0.0,3.0
+Maokai,Blitzcrank,Draven,Tristana,Swain,1,LEC,1.0,0.0,5303.0,3100.0,1982.0,532.0,1.0,1.0,4.0,1.0,3.0,0.0
+Neeko,Miss Fortune,Sejuani,K'Sante,Viktor,0,LEC,0.0,1.0,-5303.0,-3100.0,-1982.0,-532.0,0.0,0.0,1.0,4.0,0.0,3.0
+Gwen,Lillia,Corki,Alistar,Lucian,1,LCKC,1.0,0.0,2255.0,1685.0,-1372.0,-1860.0,0.0,0.0,2.0,2.0,1.0,2.0
+Nidalee,Sejuani,Ryze,Nautilus,Senna,0,LCKC,0.0,1.0,-2255.0,-1685.0,1372.0,1860.0,1.0,1.0,2.0,2.0,2.0,1.0
+Taliyah,Naafiri,Jayce,Kai'Sa,Leona,1,LCKC,0.0,1.0,2759.0,720.0,2091.0,1048.0,0.0,0.0,2.0,3.0,2.0,1.0
+Rumble,Azir,Poppy,Ezreal,Braum,0,LCKC,1.0,0.0,-2759.0,-720.0,-2091.0,-1048.0,1.0,1.0,3.0,2.0,1.0,2.0
+Ahri,Yorick,Xin Zhao,Ziggs,Pyke,1,LCKC,1.0,0.0,8141.0,4377.0,3334.0,1865.0,1.0,1.0,3.0,0.0,3.0,0.0
+Varus,Viktor,Rell,Cho'Gath,Jax,0,LCKC,0.0,1.0,-8141.0,-4377.0,-3334.0,-1865.0,0.0,0.0,0.0,3.0,0.0,3.0
+Rumble,Xin Zhao,Ahri,Senna,Alistar,1,LCKC,0.0,1.0,1216.0,935.0,474.0,884.0,1.0,1.0,4.0,1.0,3.0,0.0
+Sejuani,Jayce,Ryze,Lucian,Braum,0,LCKC,1.0,0.0,-1216.0,-935.0,-474.0,-884.0,0.0,0.0,1.0,4.0,0.0,3.0
+Gwen,Naafiri,Yone,Rell,Varus,0,LCKC,1.0,0.0,-1119.0,-1873.0,-1829.0,-681.0,0.0,0.0,1.0,4.0,2.0,1.0
+Ambessa,Wukong,Aurora,Ezreal,Leona,1,LCKC,0.0,1.0,1119.0,1873.0,1829.0,681.0,1.0,1.0,4.0,1.0,1.0,2.0
+Rumble,Xin Zhao,Ahri,Kai'Sa,Alistar,1,LCK,0.0,1.0,-2412.0,-476.0,608.0,719.0,0.0,0.0,4.0,1.0,1.0,2.0
+Azir,Pantheon,Ambessa,Miss Fortune,Gragas,0,LCK,1.0,0.0,2412.0,476.0,-608.0,-719.0,1.0,1.0,1.0,4.0,2.0,1.0
+Vi,Orianna,Jax,Ashe,Renata Glasc,1,LCK,1.0,0.0,6181.0,5649.0,1146.0,-303.0,1.0,1.0,3.0,1.0,3.0,0.0
+Ryze,Yorick,Wukong,Rakan,Jhin,0,LCK,0.0,1.0,-6181.0,-5649.0,-1146.0,303.0,0.0,0.0,1.0,3.0,0.0,3.0
+Varus,Naafiri,Annie,Rell,K'Sante,1,LCK,1.0,0.0,2974.0,785.0,2200.0,319.0,1.0,1.0,4.0,1.0,2.0,1.0
+Lucian,Jayce,Galio,Braum,Kindred,0,LCK,0.0,1.0,-2974.0,-785.0,-2200.0,-319.0,0.0,0.0,1.0,4.0,1.0,2.0
+Viktor,Miss Fortune,Neeko,Yorick,Pantheon,0,LCK,0.0,1.0,829.0,1139.0,3081.0,922.0,1.0,0.0,1.0,3.0,3.0,0.0
+Xin Zhao,Kalista,Sylas,Leona,Jax,1,LCK,1.0,0.0,-829.0,-1139.0,-3081.0,-922.0,0.0,1.0,3.0,1.0,0.0,3.0
+Rumble,Senna,Alistar,Galio,Kindred,0,LCK,1.0,0.0,-1332.0,-895.0,-1214.0,-258.0,0.0,1.0,0.0,5.0,2.0,1.0
+Naafiri,Ahri,Ornn,Smolder,Poppy,1,LCK,0.0,1.0,1332.0,895.0,1214.0,258.0,1.0,0.0,5.0,0.0,1.0,2.0
+Rumble,Wukong,Akali,Xayah,Alistar,1,LCKC,1.0,0.0,1903.0,1434.0,421.0,322.0,1.0,1.0,3.0,2.0,3.0,0.0
+Ahri,Naafiri,Ornn,Rakan,Zeri,0,LCKC,0.0,1.0,-1903.0,-1434.0,-421.0,-322.0,0.0,0.0,2.0,3.0,0.0,3.0
+Rumble,Naafiri,Azir,Senna,Poppy,1,LCKC,1.0,0.0,1999.0,2696.0,2825.0,2666.0,1.0,1.0,3.0,2.0,2.0,1.0
+Ahri,Galio,Kindred,Ezreal,Neeko,0,LCKC,0.0,1.0,-1999.0,-2696.0,-2825.0,-2666.0,0.0,0.0,2.0,3.0,1.0,2.0
+Ryze,Jayce,Sejuani,Senna,Nautilus,1,LCKC,0.0,1.0,-155.0,140.0,-1136.0,113.0,0.0,1.0,4.0,1.0,0.0,3.0
+Corki,Nidalee,Yorick,Leona,Smolder,0,LCKC,1.0,0.0,155.0,-140.0,1136.0,-113.0,1.0,0.0,1.0,4.0,3.0,0.0
+Pantheon,Orianna,Sion,Xayah,Nautilus,1,LCKC,1.0,0.0,4183.0,-303.0,2214.0,873.0,0.0,0.0,3.0,1.0,3.0,0.0
+Ryze,Xin Zhao,Camille,Rakan,Kai'Sa,0,LCKC,0.0,1.0,-4183.0,303.0,-2214.0,-873.0,1.0,1.0,1.0,3.0,0.0,3.0
+Azir,Sion,Viego,Senna,Nautilus,0,LCKC,0.0,1.0,-940.0,912.0,-1279.0,49.0,0.0,0.0,1.0,4.0,3.0,0.0
+Pantheon,Ryze,Ambessa,Ezreal,Leona,1,LCKC,1.0,0.0,940.0,-912.0,1279.0,-49.0,1.0,1.0,4.0,1.0,0.0,3.0
+Rumble,Xin Zhao,Ahri,Xayah,Rakan,0,LCKC,1.0,0.0,-1288.0,-1815.0,-1104.0,-437.0,0.0,0.0,2.0,4.0,2.0,1.0
+Taliyah,Varus,Viego,Alistar,Ornn,1,LCKC,0.0,1.0,1288.0,1815.0,1104.0,437.0,1.0,1.0,4.0,2.0,1.0,2.0
+Varus,Wukong,Taliyah,Renekton,Elise,1,LCKC,1.0,0.0,4092.0,4614.0,1492.0,1017.0,1.0,1.0,3.0,1.0,3.0,0.0
+Jayce,Lucian,Lillia,Yorick,Leona,0,LCKC,0.0,1.0,-4092.0,-4614.0,-1492.0,-1017.0,0.0,0.0,1.0,3.0,0.0,3.0
+Taliyah,Wukong,Sion,Neeko,Kai'Sa,1,LCK,1.0,0.0,3154.0,-124.0,-1193.0,-168.0,1.0,0.0,3.0,2.0,3.0,0.0
+Azir,Xin Zhao,Yorick,Kalista,Renata Glasc,0,LCK,0.0,1.0,-3154.0,124.0,1193.0,168.0,0.0,1.0,2.0,3.0,0.0,3.0
+Viktor,Rumble,Varus,Rell,Zed,1,LCK,0.0,1.0,-558.0,-1949.0,-495.0,-265.0,1.0,1.0,4.0,3.0,1.0,2.0
+Trundle,Jayce,Sylas,Ezreal,Leona,0,LCK,1.0,0.0,558.0,1949.0,495.0,265.0,0.0,0.0,3.0,4.0,2.0,1.0
+Ahri,Nocturne,Senna,Ambessa,Nautilus,1,LCK,1.0,0.0,-1150.0,-145.0,-1908.0,-1860.0,0.0,0.0,2.0,3.0,1.0,2.0
+Gwen,Poppy,Draven,Corki,Sejuani,0,LCK,0.0,1.0,1150.0,145.0,1908.0,1860.0,1.0,1.0,3.0,2.0,2.0,1.0
+Nidalee,Ornn,Yone,Xayah,Rakan,0,LCK,0.0,1.0,-12463.0,-4379.0,62.0,598.0,0.0,0.0,0.0,4.0,0.0,3.0
+Xin Zhao,Rumble,Ahri,Jhin,Rell,1,LCK,1.0,0.0,12463.0,4379.0,-62.0,-598.0,1.0,1.0,4.0,0.0,3.0,0.0
+Ryze,Trundle,Sion,Neeko,Ezreal,1,LCK,1.0,0.0,-1260.0,2862.0,1222.0,1401.0,1.0,0.0,4.0,1.0,2.0,1.0
+Jayce,Sejuani,Corki,Kai'Sa,Nautilus,0,LCK,0.0,1.0,1260.0,-2862.0,-1222.0,-1401.0,0.0,1.0,1.0,4.0,1.0,2.0
+Viktor,Skarner,Alistar,Renekton,Lucian,1,LCK,0.0,1.0,-1478.0,-1659.0,-296.0,-818.0,1.0,0.0,3.0,3.0,2.0,1.0
+Yorick,Wukong,Sylas,Varus,Renata Glasc,0,LCK,1.0,0.0,1478.0,1659.0,296.0,818.0,0.0,1.0,3.0,3.0,1.0,2.0
+Gwen,Skarner,Azir,Lucian,Alistar,0,LCKC,1.0,0.0,-201.0,206.0,-368.0,-307.0,1.0,1.0,2.0,5.0,3.0,0.0
+Wukong,Ahri,Rumble,Miss Fortune,Rakan,1,LCKC,0.0,1.0,201.0,-206.0,368.0,307.0,0.0,0.0,5.0,2.0,0.0,3.0
+Vi,Ambessa,Taliyah,Senna,Nautilus,1,LCKC,1.0,0.0,4611.0,3610.0,1072.0,585.0,1.0,1.0,4.0,2.0,1.0,2.0
+Wukong,Gwen,Ahri,Alistar,Xayah,0,LCKC,0.0,1.0,-4611.0,-3610.0,-1072.0,-585.0,0.0,0.0,2.0,4.0,2.0,1.0
+Rumble,Orianna,Trundle,Jhin,Rell,0,LCKC,0.0,1.0,-11044.0,-8495.0,-3412.0,-2838.0,0.0,0.0,1.0,3.0,0.0,3.0
+Xin Zhao,Ryze,Galio,Miss Fortune,Rakan,1,LCKC,1.0,0.0,11044.0,8495.0,3412.0,2838.0,1.0,1.0,3.0,1.0,3.0,0.0
+Ryze,Naafiri,Sion,Kai'Sa,Rell,1,LCKC,1.0,0.0,10381.0,4196.0,1707.0,1696.0,1.0,1.0,4.0,0.0,3.0,0.0
+Tristana,Ivern,Ornn,Leona,Xayah,0,LCKC,0.0,1.0,-10381.0,-4196.0,-1707.0,-1696.0,0.0,0.0,0.0,4.0,0.0,3.0
+Ambessa,Nocturne,Aurora,Ziggs,Shen,1,LCKC,1.0,0.0,1324.0,546.0,-718.0,108.0,0.0,0.0,2.0,3.0,2.0,1.0
+Varus,Xin Zhao,Aatrox,Sylas,Nautilus,0,LCKC,0.0,1.0,-1324.0,-546.0,718.0,-108.0,1.0,1.0,3.0,2.0,1.0,2.0
+Rumble,Sejuani,Yone,Xayah,Rakan,1,LCK,1.0,0.0,5507.0,1990.0,-239.0,-76.0,1.0,1.0,2.0,1.0,0.0,3.0
+Ornn,Pantheon,Akali,Alistar,Jhin,0,LCK,0.0,1.0,-5507.0,-1990.0,239.0,76.0,0.0,0.0,1.0,2.0,3.0,0.0
+Gwen,Skarner,Viktor,Lucian,Braum,0,LCK,0.0,1.0,-2557.0,-196.0,-216.0,-1776.0,0.0,1.0,1.0,3.0,3.0,0.0
+Jayce,Poppy,Ryze,Nautilus,Varus,1,LCK,1.0,0.0,2557.0,196.0,216.0,1776.0,1.0,0.0,3.0,1.0,0.0,3.0
+Rumble,Sejuani,Yone,Senna,Alistar,1,LCP,1.0,0.0,1229.0,-410.0,1117.0,-346.0,0.0,1.0,3.0,1.0,2.0,1.0
+Pantheon,Azir,Ambessa,Miss Fortune,Rell,0,LCP,0.0,1.0,-1229.0,410.0,-1117.0,346.0,1.0,0.0,1.0,3.0,1.0,2.0
+Gwen,Sejuani,Yone,Senna,Braum,1,LCK,0.0,1.0,-2344.0,-62.0,-152.0,588.0,1.0,1.0,3.0,3.0,3.0,0.0
+Azir,Poppy,Ambessa,Lucian,Rell,0,LCK,1.0,0.0,2344.0,62.0,152.0,-588.0,0.0,0.0,3.0,3.0,0.0,3.0
+Yorick,Naafiri,Ahri,Jhin,Leona,0,LCP,0.0,1.0,955.0,2514.0,3080.0,2416.0,0.0,0.0,2.0,3.0,3.0,0.0
+Skarner,Taliyah,Renekton,Nautilus,Xayah,1,LCP,1.0,0.0,-955.0,-2514.0,-3080.0,-2416.0,1.0,1.0,3.0,2.0,0.0,3.0
+Taliyah,Trundle,Sion,Kai'Sa,Nautilus,1,LCK,1.0,0.0,2733.0,1053.0,559.0,-347.0,1.0,1.0,2.0,3.0,1.0,2.0
+Wukong,Yorick,Ahri,Leona,Miss Fortune,0,LCK,0.0,1.0,-2733.0,-1053.0,-559.0,347.0,0.0,0.0,3.0,2.0,2.0,1.0
+Pantheon,Taliyah,Nautilus,Kai'Sa,Aatrox,1,LCP,1.0,0.0,1194.0,88.0,-2601.0,-1335.0,1.0,0.0,4.0,3.0,1.0,2.0
+Sion,Neeko,Viktor,Wukong,Ashe,0,LCP,0.0,1.0,-1194.0,-88.0,2601.0,1335.0,0.0,1.0,3.0,4.0,2.0,1.0
+Jayce,Skarner,Ryze,Varus,Renata Glasc,1,LCK,1.0,0.0,8200.0,3842.0,2753.0,824.0,1.0,1.0,4.0,0.0,2.0,1.0
+Alistar,Xin Zhao,K'Sante,Hwei,Zeri,0,LCK,0.0,1.0,-8200.0,-3842.0,-2753.0,-824.0,0.0,0.0,0.0,4.0,1.0,2.0
+Vi,Ryze,Ambessa,Jhin,Zilean,1,LCP,0.0,1.0,2615.0,2477.0,1600.0,627.0,1.0,1.0,3.0,4.0,3.0,0.0
+Ahri,Yorick,Xin Zhao,Miss Fortune,Rell,0,LCP,1.0,0.0,-2615.0,-2477.0,-1600.0,-627.0,0.0,0.0,4.0,3.0,0.0,3.0
+Varus,Rakan,Jayce,Akali,Naafiri,1,LCP,1.0,0.0,4248.0,1223.0,504.0,362.0,0.0,1.0,2.0,3.0,2.0,1.0
+Ezreal,Sejuani,K'Sante,Annie,Malzahar,0,LCP,0.0,1.0,-4248.0,-1223.0,-504.0,-362.0,1.0,0.0,3.0,2.0,1.0,2.0
+Gwen,Taliyah,Xin Zhao,Jhin,Leona,1,LCK,1.0,0.0,6106.0,4566.0,2827.0,-252.0,1.0,1.0,5.0,0.0,3.0,0.0
+Azir,Trundle,Gnar,Varus,Rell,0,LCK,0.0,1.0,-6106.0,-4566.0,-2827.0,252.0,0.0,0.0,0.0,5.0,0.0,3.0
+Sion,Viktor,Poppy,Zeri,Nautilus,0,LCK,0.0,1.0,-629.0,-1634.0,-1712.0,894.0,0.0,1.0,2.0,3.0,1.0,2.0
+Ornn,Ahri,Wukong,Senna,Rakan,1,LCK,1.0,0.0,629.0,1634.0,1712.0,-894.0,1.0,0.0,3.0,2.0,2.0,1.0
+Rumble,Sejuani,Yone,Poppy,Varus,0,LCK,0.0,1.0,-2425.0,-1677.0,947.0,850.0,0.0,0.0,2.0,3.0,1.0,2.0
+Nidalee,K'Sante,Sett,Rell,Ezreal,1,LCK,1.0,0.0,2425.0,1677.0,-947.0,-850.0,1.0,1.0,3.0,2.0,2.0,1.0
+Taliyah,Jax,Nocturne,Nautilus,Lucian,0,LCK,0.0,1.0,-7697.0,-4969.0,-742.0,440.0,0.0,0.0,1.0,3.0,1.0,2.0
+Gwen,Wukong,Ahri,Neeko,Kai'Sa,1,LCK,1.0,0.0,7697.0,4969.0,742.0,-440.0,1.0,1.0,3.0,1.0,2.0,1.0
+Vi,Sion,Viktor,Smolder,Alistar,1,LCP,0.0,1.0,1394.0,2679.0,398.0,371.0,1.0,0.0,3.0,1.0,0.0,3.0
+Ahri,Senna,Ambessa,Wukong,Rakan,0,LCP,1.0,0.0,-1394.0,-2679.0,-398.0,-371.0,0.0,1.0,1.0,3.0,3.0,0.0
+Taliyah,Nocturne,Renekton,Varus,Nautilus,1,LCP,1.0,0.0,6217.0,2617.0,-69.0,13.0,1.0,1.0,3.0,2.0,3.0,0.0
+Yorick,Xin Zhao,Akali,Kai'Sa,Rell,0,LCP,0.0,1.0,-6217.0,-2617.0,69.0,-13.0,0.0,0.0,2.0,3.0,0.0,3.0
+Kalista,Skarner,Leona,Gragas,Vladimir,1,LCP,1.0,0.0,6662.0,6220.0,187.0,-515.0,1.0,1.0,3.0,1.0,2.0,1.0
+Renata Glasc,Aurora,Ashe,Zed,K'Sante,0,LCP,0.0,1.0,-6662.0,-6220.0,-187.0,515.0,0.0,0.0,1.0,3.0,1.0,2.0
+Pantheon,Ahri,Renekton,Xayah,Rakan,0,LCP,0.0,1.0,2043.0,4004.0,3700.0,1569.0,1.0,1.0,2.0,2.0,3.0,0.0
+Yorick,Skarner,Sylas,Senna,Alistar,1,LCP,1.0,0.0,-2043.0,-4004.0,-3700.0,-1569.0,0.0,0.0,2.0,2.0,0.0,3.0
+Rumble,Maokai,Corki,Lucian,Nami,1,LCP,1.0,0.0,6527.0,3402.0,947.0,354.0,1.0,0.0,3.0,1.0,0.0,3.0
+Gwen,Wukong,Ryze,Kalista,Neeko,0,LCP,0.0,1.0,-6527.0,-3402.0,-947.0,-354.0,0.0,1.0,1.0,3.0,3.0,0.0
+Taliyah,Gwen,Skarner,Kalista,Renata Glasc,1,LEC,1.0,0.0,1867.0,2753.0,1032.0,1808.0,1.0,1.0,4.0,0.0,3.0,0.0
+Senna,Pantheon,Ahri,Vladimir,Alistar,0,LEC,0.0,1.0,-1867.0,-2753.0,-1032.0,-1808.0,0.0,0.0,0.0,4.0,0.0,3.0
+Varus,Nocturne,Orianna,Jax,Gragas,0,LEC,0.0,1.0,1358.0,1386.0,2117.0,625.0,1.0,1.0,0.0,4.0,3.0,0.0
+Jhin,Xin Zhao,Aurelion Sol,Rell,Cho'Gath,1,LEC,1.0,0.0,-1358.0,-1386.0,-2117.0,-625.0,0.0,0.0,4.0,0.0,0.0,3.0
+Azir,Skarner,Gwen,Nautilus,Tristana,0,LTA S,0.0,1.0,-3335.0,-2335.0,-1908.0,-506.0,0.0,0.0,1.0,4.0,3.0,0.0
+Taliyah,Xin Zhao,Ambessa,Senna,Alistar,1,LTA S,1.0,0.0,3335.0,2335.0,1908.0,506.0,1.0,1.0,4.0,1.0,0.0,3.0
+Rumble,Corki,Sejuani,Yorick,Viktor,1,LEC,0.0,1.0,1806.0,1294.0,1206.0,340.0,1.0,0.0,3.0,2.0,3.0,0.0
+Ornn,Lucian,Maokai,Milio,Sylas,0,LEC,1.0,0.0,-1806.0,-1294.0,-1206.0,-340.0,0.0,1.0,2.0,3.0,0.0,3.0
+Rumble,Nocturne,Orianna,Ezreal,Braum,1,LTA S,1.0,0.0,970.0,2800.0,3086.0,2443.0,1.0,1.0,2.0,2.0,3.0,0.0
+Jayce,Viktor,Wukong,Rell,Kai'Sa,0,LTA S,0.0,1.0,-970.0,-2800.0,-3086.0,-2443.0,0.0,0.0,2.0,2.0,0.0,3.0
+Vi,Zeri,Lulu,Aurora,Sion,1,LTA S,1.0,0.0,-1305.0,-839.0,-1057.0,-58.0,0.0,0.0,4.0,3.0,0.0,3.0
+Lucian,Nami,Poppy,Renekton,Hwei,0,LTA S,0.0,1.0,1305.0,839.0,1057.0,58.0,1.0,1.0,3.0,4.0,3.0,0.0
+Ryze,Xayah,Rakan,Sion,Wukong,1,LEC,1.0,0.0,5759.0,3716.0,-481.0,1739.0,1.0,1.0,4.0,0.0,3.0,0.0
+Miss Fortune,Gnar,Nautilus,Nidalee,Syndra,0,LEC,0.0,1.0,-5759.0,-3716.0,481.0,-1739.0,0.0,0.0,0.0,4.0,0.0,3.0
+Varus,Leona,Annie,Trundle,Aatrox,0,LTA S,0.0,1.0,-5570.0,-3081.0,-1256.0,-604.0,1.0,1.0,2.0,2.0,2.0,1.0
+Neeko,Kalista,Ahri,Lee Sin,Ornn,1,LTA S,1.0,0.0,5570.0,3081.0,1256.0,604.0,0.0,0.0,2.0,2.0,1.0,2.0
+Taliyah,Xin Zhao,Ornn,Kalista,Renata Glasc,1,LTA N,1.0,0.0,2599.0,2166.0,671.0,985.0,1.0,1.0,4.0,0.0,3.0,0.0
+Varus,Rumble,Azir,Skarner,Gwen,0,LTA N,0.0,1.0,-2599.0,-2166.0,-671.0,-985.0,0.0,0.0,0.0,4.0,0.0,3.0
+Neeko,Maokai,Jayce,Sivir,Aatrox,1,LTA N,0.0,1.0,-962.0,-1094.0,275.0,816.0,0.0,0.0,5.0,2.0,3.0,0.0
+Pantheon,Kai'Sa,Sion,Rakan,Viktor,0,LTA N,1.0,0.0,962.0,1094.0,-275.0,-816.0,1.0,1.0,2.0,5.0,0.0,3.0
+Vi,Ziggs,Renekton,Senna,Nautilus,1,LTA N,1.0,0.0,8087.0,6472.0,396.0,872.0,1.0,1.0,1.0,3.0,1.0,2.0
+Ezreal,Ahri,K'Sante,Viego,Leona,0,LTA N,0.0,1.0,-8087.0,-6472.0,-396.0,-872.0,0.0,0.0,3.0,1.0,2.0,1.0
+Lucian,Milio,Gnar,Corki,Lillia,0,LTA N,0.0,1.0,-2152.0,-3781.0,-1207.0,-214.0,0.0,0.0,2.0,2.0,0.0,3.0
+Sejuani,Aphelios,Lulu,Sylas,Tristana,1,LTA N,1.0,0.0,2152.0,3781.0,1207.0,214.0,1.0,1.0,2.0,2.0,3.0,0.0
+Azir,Sion,Trundle,Lucian,Braum,1,LCK,1.0,0.0,3973.0,3932.0,880.0,-617.0,1.0,1.0,2.0,2.0,0.0,3.0
+Xin Zhao,Varus,Ahri,Ambessa,Renata Glasc,0,LCK,0.0,1.0,-3973.0,-3932.0,-880.0,617.0,0.0,0.0,2.0,2.0,3.0,0.0
+Wukong,Rumble,Alistar,Kai'Sa,Galio,0,LCK,0.0,1.0,-11406.0,-4769.0,-2004.0,-65.0,0.0,0.0,1.0,3.0,1.0,2.0
+Gwen,Pantheon,Viktor,Shen,Xayah,1,LCK,1.0,0.0,11406.0,4769.0,2004.0,65.0,1.0,1.0,3.0,1.0,2.0,1.0
+Taliyah,Xin Zhao,Ornn,Kalista,Renata Glasc,1,LCK,1.0,0.0,843.0,994.0,830.0,844.0,1.0,1.0,4.0,0.0,2.0,1.0
+Rumble,Wukong,Sylas,Nautilus,Senna,0,LCK,0.0,1.0,-843.0,-994.0,-830.0,-844.0,0.0,0.0,0.0,4.0,1.0,2.0
+Azir,Sejuani,Jayce,Miss Fortune,Morgana,1,LCK,1.0,0.0,2068.0,-1652.0,-114.0,97.0,0.0,0.0,1.0,2.0,3.0,0.0
+Ahri,Yorick,Trundle,Rakan,Kai'Sa,0,LCK,0.0,1.0,-2068.0,1652.0,114.0,-97.0,1.0,1.0,2.0,1.0,0.0,3.0
+Azir,Vi,Ornn,Jhin,Alistar,0,LCP,0.0,1.0,1027.0,714.0,1065.0,805.0,1.0,1.0,4.0,2.0,0.0,3.0
+Rumble,Skarner,Corki,Lucian,Braum,1,LCP,1.0,0.0,-1027.0,-714.0,-1065.0,-805.0,0.0,0.0,2.0,4.0,3.0,0.0
+Pantheon,Braum,Lucian,Gnar,Annie,1,LCK,1.0,0.0,3195.0,1834.0,181.0,-477.0,1.0,1.0,2.0,1.0,0.0,3.0
+Nidalee,Corki,Alistar,Renekton,Nilah,0,LCK,0.0,1.0,-3195.0,-1834.0,-181.0,477.0,0.0,0.0,1.0,2.0,3.0,0.0
+Taliyah,Kalista,Renata Glasc,Poppy,Jax,0,LCP,0.0,1.0,-8102.0,-382.0,-1301.0,565.0,1.0,1.0,1.0,2.0,2.0,1.0
+Gwen,Wukong,Orianna,Neeko,Kai'Sa,1,LCP,1.0,0.0,8102.0,382.0,1301.0,-565.0,0.0,0.0,2.0,1.0,1.0,2.0
+Jayce,Smolder,Leona,Aurelion Sol,Jarvan IV,1,LCP,0.0,1.0,-1374.0,-6215.0,-3935.0,-1673.0,0.0,0.0,2.0,3.0,0.0,3.0
+Senna,Nautilus,Yorick,Ryze,Lee Sin,0,LCP,1.0,0.0,1374.0,6215.0,3935.0,1673.0,1.0,1.0,3.0,2.0,3.0,0.0
+Pantheon,Ambessa,Sylas,Zeri,Gragas,0,LCP,1.0,0.0,-6897.0,-4530.0,-2472.0,-1464.0,0.0,0.0,0.0,4.0,3.0,0.0
+Ezreal,Rell,Shen,Lillia,Camille,1,LCP,0.0,1.0,6897.0,4530.0,2472.0,1464.0,1.0,1.0,4.0,0.0,0.0,3.0
+Maokai,Tristana,Kennen,Ashe,Seraphine,0,LCP,0.0,1.0,-1022.0,-1078.0,1357.0,256.0,0.0,1.0,2.0,3.0,2.0,1.0
+Viktor,Kindred,K'Sante,Caitlyn,Bard,1,LCP,1.0,0.0,1022.0,1078.0,-1357.0,-256.0,1.0,0.0,3.0,2.0,1.0,2.0
+Varus,Jayce,Wukong,Alistar,Ryze,1,LEC,1.0,0.0,11955.0,5145.0,1283.0,1138.0,1.0,1.0,2.0,2.0,1.0,2.0
+Rumble,Naafiri,Jhin,Rakan,Orianna,0,LEC,0.0,1.0,-11955.0,-5145.0,-1283.0,-1138.0,0.0,0.0,2.0,2.0,2.0,1.0
+Taliyah,Varus,Nautilus,Sion,Pantheon,0,LTA S,0.0,1.0,-4650.0,-3161.0,-1658.0,-1054.0,0.0,1.0,0.0,4.0,2.0,1.0
+Lucian,Sejuani,Nami,Sylas,Olaf,1,LTA S,1.0,0.0,4650.0,3161.0,1658.0,1054.0,1.0,0.0,4.0,0.0,1.0,2.0
+Vi,Jax,Ahri,Miss Fortune,Neeko,1,LEC,1.0,0.0,956.0,-1274.0,-1605.0,-1250.0,0.0,0.0,4.0,3.0,3.0,0.0
+Gwen,Azir,Poppy,Ezreal,Rell,0,LEC,0.0,1.0,-956.0,1274.0,1605.0,1250.0,1.0,1.0,3.0,4.0,0.0,3.0
+Azir,Trundle,Ambessa,Smolder,Braum,1,LTA S,1.0,0.0,-8773.0,-5661.0,-3388.0,-2090.0,0.0,0.0,2.0,2.0,0.0,3.0
+Xin Zhao,Rell,Renekton,Senna,Ziggs,0,LTA S,0.0,1.0,8773.0,5661.0,3388.0,2090.0,1.0,1.0,2.0,2.0,3.0,0.0
+Senna,Xin Zhao,Braum,Hwei,Ambessa,1,LEC,1.0,0.0,1004.0,-384.0,-302.0,-222.0,1.0,1.0,4.0,0.0,0.0,3.0
+Nautilus,Tristana,Ziggs,Lillia,Renekton,0,LEC,0.0,1.0,-1004.0,384.0,302.0,222.0,0.0,0.0,0.0,4.0,3.0,0.0
+Yone,Lillia,Miss Fortune,Rakan,K'Sante,1,LTA S,1.0,0.0,-3637.0,-2089.0,-790.0,202.0,0.0,0.0,3.0,2.0,1.0,2.0
+Annie,Naafiri,Ezreal,Leona,Gnar,0,LTA S,0.0,1.0,3637.0,2089.0,790.0,-202.0,1.0,1.0,2.0,3.0,2.0,1.0
+Sejuani,Gnar,Sylas,Ashe,Seraphine,0,LEC,0.0,1.0,-10494.0,-6189.0,-2408.0,-166.0,0.0,0.0,1.0,3.0,3.0,0.0
+Leona,Corki,Ivern,Xayah,Sion,1,LEC,1.0,0.0,10494.0,6189.0,2408.0,166.0,1.0,1.0,3.0,1.0,0.0,3.0
+Rumble,Maokai,Tristana,Jhin,Gragas,1,LTA S,1.0,0.0,6840.0,2462.0,4147.0,2029.0,1.0,1.0,2.0,1.0,3.0,0.0
+Ahri,Wukong,Alistar,Ashe,Nidalee,0,LTA S,0.0,1.0,-6840.0,-2462.0,-4147.0,-2029.0,0.0,0.0,1.0,2.0,0.0,3.0
+Taliyah,Naafiri,Gwen,Jhin,Leona,0,LTA N,0.0,1.0,1706.0,2456.0,429.0,-731.0,1.0,0.0,2.0,5.0,0.0,3.0
+Senna,Nautilus,Xin Zhao,Gnar,Ryze,1,LTA N,1.0,0.0,-1706.0,-2456.0,-429.0,731.0,0.0,1.0,5.0,2.0,3.0,0.0
+Azir,Sejuani,Renekton,Xayah,Rakan,0,LTA N,0.0,1.0,-5962.0,-1517.0,250.0,225.0,0.0,0.0,0.0,4.0,0.0,3.0
+Lucian,Annie,Trundle,Yorick,Milio,1,LTA N,1.0,0.0,5962.0,1517.0,-250.0,-225.0,1.0,1.0,4.0,0.0,3.0,0.0
+Varus,Dr. Mundo,Ornn,Neeko,Viktor,1,LTA N,1.0,0.0,7771.0,5848.0,2869.0,1769.0,1.0,1.0,2.0,2.0,3.0,0.0
+Jayce,Maokai,Riven,Alistar,Smolder,0,LTA N,0.0,1.0,-7771.0,-5848.0,-2869.0,-1769.0,0.0,0.0,2.0,2.0,0.0,3.0
+Jayce,Draven,Wukong,Nautilus,Hwei,1,LEC,1.0,0.0,4842.0,1207.0,302.0,-499.0,1.0,1.0,4.0,1.0,3.0,0.0
+Kalista,Pantheon,Sion,Viktor,Rell,0,LEC,0.0,1.0,-4842.0,-1207.0,-302.0,499.0,0.0,0.0,1.0,4.0,0.0,3.0
+Rumble,Skarner,Ryze,Xayah,Rakan,0,LEC,1.0,0.0,-2991.0,-2562.0,-1881.0,105.0,0.0,0.0,0.0,4.0,1.0,2.0
+Lucian,Xin Zhao,Nami,Galio,Zoe,1,LEC,0.0,1.0,2991.0,2562.0,1881.0,-105.0,1.0,1.0,4.0,0.0,2.0,1.0
+Yone,Neeko,Ezreal,Ornn,Naafiri,0,LEC,0.0,1.0,-3276.0,-70.0,-403.0,515.0,1.0,1.0,0.0,4.0,1.0,2.0
+Azir,Miss Fortune,Maokai,Karma,Renekton,1,LEC,1.0,0.0,3276.0,70.0,403.0,-515.0,0.0,0.0,4.0,0.0,2.0,1.0
+Taliyah,Poppy,Ambessa,Kai'Sa,Neeko,1,LCK,1.0,0.0,4905.0,1753.0,1521.0,1122.0,1.0,1.0,4.0,2.0,2.0,1.0
+Sion,Wukong,Ryze,Ezreal,Alistar,0,LCK,0.0,1.0,-4905.0,-1753.0,-1521.0,-1122.0,0.0,0.0,2.0,4.0,1.0,2.0
+Rumble,Trundle,Azir,Varus,Leona,1,LCK,1.0,0.0,3691.0,2400.0,1592.0,980.0,1.0,1.0,4.0,1.0,3.0,0.0
+Ornn,Naafiri,Ahri,Jhin,Rell,0,LCK,0.0,1.0,-3691.0,-2400.0,-1592.0,-980.0,0.0,0.0,1.0,4.0,0.0,3.0
+Gwen,Senna,Nautilus,Nocturne,Annie,0,LCK,0.0,1.0,-2865.0,199.0,-288.0,-445.0,1.0,1.0,2.0,3.0,0.0,3.0
+Viktor,Jayce,Caitlyn,Jarvan IV,Tahm Kench,1,LCK,1.0,0.0,2865.0,-199.0,288.0,445.0,0.0,0.0,3.0,2.0,3.0,0.0
+Rumble,Senna,Nautilus,Maokai,Tristana,1,LCP,0.0,1.0,-3772.0,-2150.0,-1461.0,-94.0,0.0,1.0,3.0,3.0,0.0,3.0
+Taliyah,Vi,Ambessa,Kalista,Renata Glasc,0,LCP,1.0,0.0,3772.0,2150.0,1461.0,94.0,1.0,0.0,3.0,3.0,3.0,0.0
+Nocturne,Ahri,Kai'Sa,Neeko,Shen,0,LCP,0.0,1.0,-5042.0,-667.0,-126.0,-502.0,0.0,0.0,1.0,3.0,2.0,1.0
+Xayah,Rakan,Sion,Xin Zhao,Sylas,1,LCP,1.0,0.0,5042.0,667.0,126.0,502.0,1.0,1.0,3.0,1.0,1.0,2.0
+Azir,Skarner,Renekton,Jhin,Rell,0,LCP,0.0,1.0,1241.0,1882.0,612.0,383.0,0.0,0.0,0.0,4.0,0.0,3.0
+Annie,Viego,K'Sante,Miss Fortune,Alistar,1,LCP,1.0,0.0,-1241.0,-1882.0,-612.0,-383.0,1.0,1.0,4.0,0.0,3.0,0.0
+Pantheon,Aurora,Aatrox,Varus,Tahm Kench,1,LCP,0.0,1.0,1936.0,1127.0,2952.0,563.0,1.0,1.0,3.0,1.0,3.0,0.0
+Corki,Naafiri,Leona,Galio,Jax,0,LCP,1.0,0.0,-1936.0,-1127.0,-2952.0,-563.0,0.0,0.0,1.0,3.0,0.0,3.0
+Rumble,Jarvan IV,Ryze,Varus,Braum,1,LCK,1.0,0.0,-194.0,-666.0,393.0,915.0,0.0,0.0,3.0,2.0,3.0,0.0
+Gwen,Trundle,Galio,Lucian,Milio,0,LCK,0.0,1.0,194.0,666.0,-393.0,-915.0,1.0,1.0,2.0,3.0,0.0,3.0
+Azir,Kalista,Renata Glasc,Sejuani,Jax,0,LCK,0.0,1.0,-3247.0,-3759.0,-2492.0,-98.0,0.0,0.0,1.0,3.0,3.0,0.0
+Ahri,Pantheon,Yorick,Rakan,Xayah,1,LCK,1.0,0.0,3247.0,3759.0,2492.0,98.0,1.0,1.0,3.0,1.0,0.0,3.0
+Viktor,Smolder,Nautilus,Ornn,Kindred,0,LCK,0.0,1.0,-5515.0,-1533.0,615.0,-506.0,1.0,0.0,0.0,4.0,0.0,3.0
+Senna,Xin Zhao,Sion,Alistar,Cassiopeia,1,LCK,1.0,0.0,5515.0,1533.0,-615.0,506.0,0.0,1.0,4.0,0.0,3.0,0.0
+Azir,Sejuani,Yorick,Jhin,Alistar,1,LCP,1.0,0.0,5011.0,2806.0,1094.0,492.0,1.0,0.0,2.0,3.0,3.0,0.0
+Taliyah,Pantheon,Renekton,Senna,Rakan,0,LCP,0.0,1.0,-5011.0,-2806.0,-1094.0,-492.0,0.0,1.0,3.0,2.0,0.0,3.0
+Rumble,Xin Zhao,Varus,Braum,Sylas,1,LCP,0.0,1.0,1697.0,-263.0,527.0,349.0,0.0,1.0,3.0,4.0,3.0,0.0
+Gwen,Maokai,Corki,Rell,Miss Fortune,0,LCP,1.0,0.0,-1697.0,263.0,-527.0,-349.0,1.0,0.0,4.0,3.0,0.0,3.0
+Neeko,Xayah,Poppy,Aatrox,Hwei,0,LCP,0.0,1.0,-2697.0,-2106.0,259.0,194.0,0.0,0.0,2.0,2.0,3.0,0.0
+Kai'Sa,Wukong,Nautilus,Orianna,Gnar,1,LCP,1.0,0.0,2697.0,2106.0,-259.0,-194.0,1.0,1.0,2.0,2.0,0.0,3.0
+Leona,Ezreal,Lillia,K'Sante,Smolder,0,LCP,0.0,1.0,-1651.0,-2162.0,-142.0,-896.0,0.0,1.0,1.0,6.0,3.0,0.0
+Sion,Caitlyn,Bard,Tristana,Zyra,1,LCP,1.0,0.0,1651.0,2162.0,142.0,896.0,1.0,0.0,6.0,1.0,0.0,3.0
+Senna,Ahri,Gwen,Wukong,Rell,0,LEC,0.0,1.0,-3491.0,-2311.0,319.0,468.0,0.0,0.0,0.0,5.0,1.0,2.0
+Pantheon,Kalista,Ryze,Akali,Rakan,1,LEC,1.0,0.0,3491.0,2311.0,-319.0,-468.0,1.0,1.0,5.0,0.0,2.0,1.0
+Yone,Kai'Sa,Neeko,Naafiri,Nautilus,1,LEC,1.0,0.0,391.0,-155.0,1617.0,581.0,0.0,1.0,3.0,3.0,3.0,0.0
+Azir,Lucian,Nami,Skarner,Nidalee,0,LEC,0.0,1.0,-391.0,155.0,-1617.0,-581.0,1.0,0.0,3.0,3.0,0.0,3.0
+Vi,Sion,Azir,Xayah,Rakan,1,LTA S,1.0,0.0,6948.0,5282.0,1735.0,-62.0,1.0,1.0,2.0,3.0,0.0,3.0
+Taliyah,Xin Zhao,Ambessa,Varus,Neeko,0,LTA S,0.0,1.0,-6948.0,-5282.0,-1735.0,62.0,0.0,0.0,3.0,2.0,3.0,0.0
+Rumble,Jhin,Nocturne,Viktor,Gragas,0,LEC,0.0,1.0,-453.0,-1054.0,-1929.0,-2310.0,1.0,1.0,2.0,2.0,0.0,3.0
+Varus,Xin Zhao,Alistar,Tristana,Kassadin,1,LEC,1.0,0.0,453.0,1054.0,1929.0,2310.0,0.0,0.0,2.0,2.0,3.0,0.0
+Rumble,Viktor,Miss Fortune,Skarner,Rell,0,LTA S,0.0,1.0,-4713.0,-3051.0,-2101.0,-1575.0,0.0,0.0,3.0,3.0,1.0,2.0
+K'Sante,Ryze,Wukong,Ezreal,Alistar,1,LTA S,1.0,0.0,4713.0,3051.0,2101.0,1575.0,1.0,1.0,3.0,3.0,2.0,1.0
+Leona,Lillia,Corki,Sivir,Sion,1,LEC,1.0,0.0,10108.0,3586.0,1029.0,486.0,1.0,1.0,3.0,0.0,2.0,1.0
+Ambessa,Ezreal,Poppy,Ivern,Smolder,0,LEC,0.0,1.0,-10108.0,-3586.0,-1029.0,-486.0,0.0,0.0,0.0,3.0,1.0,2.0
+Lucian,Nami,Cho'Gath,Tristana,Maokai,0,LTA S,0.0,1.0,-8950.0,-2326.0,-1506.0,-667.0,0.0,0.0,0.0,4.0,1.0,2.0
+Senna,Yorick,Nautilus,Aurora,Trundle,1,LTA S,1.0,0.0,8950.0,2326.0,1506.0,667.0,1.0,1.0,4.0,0.0,2.0,1.0
+Maokai,Jinx,Blitzcrank,K'Sante,Cassiopeia,1,LEC,1.0,0.0,1053.0,28.0,-828.0,-944.0,1.0,0.0,3.0,2.0,3.0,0.0
+Miss Fortune,Sejuani,Sylas,Galio,Renekton,0,LEC,0.0,1.0,-1053.0,-28.0,828.0,944.0,0.0,1.0,2.0,3.0,0.0,3.0
+Varus,Cassiopeia,Alistar,Cho'Gath,Xin Zhao,1,LTA N,1.0,0.0,-327.0,2828.0,345.0,442.0,1.0,1.0,3.0,2.0,3.0,0.0
+Ryze,Pantheon,Senna,Yorick,Rell,0,LTA N,0.0,1.0,327.0,-2828.0,-345.0,-442.0,0.0,0.0,2.0,3.0,0.0,3.0
+Gwen,Lucian,Milio,Maokai,Corki,0,LTA N,0.0,1.0,219.0,920.0,-977.0,136.0,1.0,1.0,1.0,3.0,0.0,3.0
+Kalista,Renata Glasc,Sett,Wukong,Annie,1,LTA N,1.0,0.0,-219.0,-920.0,977.0,-136.0,0.0,0.0,3.0,1.0,3.0,0.0
+Azir,Trundle,Renekton,Kai'Sa,Nautilus,1,LTA N,0.0,1.0,611.0,2060.0,4.0,-322.0,1.0,1.0,3.0,3.0,1.0,2.0
+Taliyah,Ezreal,Nidalee,Poppy,Bard,0,LTA N,1.0,0.0,-611.0,-2060.0,-4.0,322.0,0.0,0.0,3.0,3.0,2.0,1.0
+Naafiri,Shen,Viktor,Braum,Kog'Maw,0,LTA N,0.0,1.0,-8553.0,-1320.0,-654.0,822.0,1.0,1.0,1.0,3.0,3.0,0.0
+Ambessa,Skarner,Sivir,Sylas,Rakan,1,LTA N,1.0,0.0,8553.0,1320.0,654.0,-822.0,0.0,0.0,3.0,1.0,0.0,3.0
+Leona,Ziggs,Tristana,Lee Sin,Gragas,1,LTA N,1.0,0.0,3654.0,3412.0,1016.0,886.0,1.0,1.0,3.0,2.0,3.0,0.0
+Gnar,Sejuani,Akali,Zeri,Lulu,0,LTA N,0.0,1.0,-3654.0,-3412.0,-1016.0,-886.0,0.0,0.0,2.0,3.0,0.0,3.0
+Gwen,Sejuani,Yone,Jhin,Rell,0,LCK,0.0,1.0,-6087.0,-3161.0,-2246.0,-958.0,0.0,1.0,0.0,4.0,3.0,0.0
+Taliyah,Trundle,Rumble,Varus,Alistar,1,LCK,1.0,0.0,6087.0,3161.0,2246.0,958.0,1.0,0.0,4.0,0.0,0.0,3.0
+Viktor,Wukong,Camille,Caitlyn,Morgana,0,LCK,0.0,1.0,-6092.0,-5035.0,-647.0,-69.0,0.0,0.0,0.0,4.0,2.0,1.0
+Sion,Xin Zhao,Ryze,Senna,Tahm Kench,1,LCK,1.0,0.0,6092.0,5035.0,647.0,69.0,1.0,1.0,4.0,0.0,1.0,2.0
+Pantheon,Annie,Elise,Ezreal,Kennen,0,LCK,0.0,1.0,-8550.0,-2023.0,875.0,1093.0,0.0,0.0,1.0,3.0,3.0,0.0
+Renekton,Ahri,Nocturne,Xayah,Rakan,1,LCK,1.0,0.0,8550.0,2023.0,-875.0,-1093.0,1.0,1.0,3.0,1.0,0.0,3.0
+Vi,Azir,Yorick,Lucian,Alistar,1,LCP,1.0,0.0,1734.0,3286.0,2536.0,299.0,1.0,1.0,4.0,1.0,1.0,2.0
+Taliyah,Pantheon,Renekton,Rakan,Xayah,0,LCP,0.0,1.0,-1734.0,-3286.0,-2536.0,-299.0,0.0,0.0,1.0,4.0,2.0,1.0
+Neeko,Nocturne,Kai'Sa,Sion,Aurora,1,LCP,0.0,1.0,-2382.0,-890.0,-1252.0,791.0,1.0,1.0,3.0,3.0,3.0,0.0
+Kalista,Xin Zhao,Renata Glasc,Ahri,Shen,0,LCP,1.0,0.0,2382.0,890.0,1252.0,-791.0,0.0,0.0,3.0,3.0,0.0,3.0
+Jayce,Ezreal,Leona,Zyra,Corki,1,LCP,1.0,0.0,7523.0,3952.0,3355.0,1143.0,1.0,1.0,4.0,0.0,3.0,0.0
+Tristana,Lillia,Ambessa,Braum,Ashe,0,LCP,0.0,1.0,-7523.0,-3952.0,-3355.0,-1143.0,0.0,0.0,0.0,4.0,0.0,3.0
+Gwen,Maokai,Yone,Jinx,Poppy,1,LCP,1.0,0.0,2473.0,21.0,101.0,687.0,1.0,1.0,4.0,2.0,1.0,2.0
+Gragas,Kindred,Annie,Rell,Twitch,0,LCP,0.0,1.0,-2473.0,-21.0,-101.0,-687.0,0.0,0.0,2.0,4.0,2.0,1.0
+Nautilus,Miss Fortune,Akali,Nidalee,Dr. Mundo,1,LCP,0.0,0.0,3669.0,3054.0,130.0,-85.0,1.0,1.0,3.0,1.0,0.0,3.0
+Orianna,Caitlyn,Sejuani,K'Sante,Heimerdinger,0,LCP,0.0,0.0,-3669.0,-3054.0,-130.0,85.0,0.0,0.0,1.0,3.0,3.0,0.0
+Taliyah,Wukong,Neeko,Gnar,Kalista,0,LEC,1.0,0.0,-1843.0,-1134.0,-235.0,-1488.0,0.0,0.0,2.0,4.0,3.0,0.0
+Ahri,Xin Zhao,Gwen,Xayah,Rakan,1,LEC,0.0,1.0,1843.0,1134.0,235.0,1488.0,1.0,1.0,4.0,2.0,0.0,3.0
+Vi,Ahri,Miss Fortune,Galio,Alistar,0,LTA S,0.0,1.0,-1954.0,-1498.0,-369.0,-779.0,0.0,0.0,3.0,5.0,1.0,2.0
+Taliyah,Xin Zhao,Rumble,Jhin,Rakan,1,LTA S,1.0,0.0,1954.0,1498.0,369.0,779.0,1.0,1.0,5.0,3.0,2.0,1.0
+Senna,Nautilus,Trundle,Ryze,Camille,0,LEC,0.0,1.0,-4815.0,-4622.0,-1873.0,-1278.0,0.0,0.0,1.0,5.0,0.0,3.0
+Pantheon,Varus,Rell,Ambessa,Galio,1,LEC,1.0,0.0,4815.0,4622.0,1873.0,1278.0,1.0,1.0,5.0,1.0,3.0,0.0
+Vi,Kai'Sa,Alistar,Sion,Annie,1,LEC,1.0,0.0,1357.0,1716.0,102.0,-646.0,0.0,1.0,4.0,1.0,0.0,3.0
+Poppy,Nidalee,Braum,Zeri,Sylas,0,LEC,0.0,1.0,-1357.0,-1716.0,-102.0,646.0,1.0,0.0,1.0,4.0,3.0,0.0
+Varus,Trundle,Ambessa,Orianna,Renata Glasc,1,LTA S,1.0,0.0,5664.0,2864.0,3054.0,754.0,1.0,1.0,3.0,1.0,1.0,2.0
+Sion,Ryze,Naafiri,Rell,Senna,0,LTA S,0.0,1.0,-5664.0,-2864.0,-3054.0,-754.0,0.0,0.0,1.0,3.0,2.0,1.0
+Leona,Ezreal,Naafiri,K'Sante,Kassadin,1,LEC,1.0,0.0,2608.0,-1121.0,-1631.0,-514.0,0.0,0.0,3.0,2.0,3.0,0.0
+Jinx,Thresh,Skarner,Orianna,Dr. Mundo,0,LEC,0.0,1.0,-2608.0,1121.0,1631.0,514.0,1.0,1.0,2.0,3.0,0.0,3.0
+Neeko,Kai'Sa,Yorick,Akali,Wukong,0,LTA S,0.0,1.0,4727.0,4164.0,3058.0,1010.0,1.0,1.0,2.0,4.0,2.0,1.0
+Kalista,Nautilus,Gnar,Sylas,Poppy,1,LTA S,1.0,0.0,-4727.0,-4164.0,-3058.0,-1010.0,0.0,0.0,4.0,2.0,1.0,2.0
+Ezreal,Bard,Pantheon,K'Sante,Syndra,0,LTA S,0.0,1.0,-3561.0,-26.0,-362.0,-29.0,1.0,1.0,0.0,4.0,3.0,0.0
+Karma,Caitlyn,Sejuani,Aurora,Aatrox,1,LTA S,1.0,0.0,3561.0,26.0,362.0,29.0,0.0,0.0,4.0,0.0,0.0,3.0
+Azir,Rumble,Trundle,Senna,Nautilus,0,LTA N,1.0,0.0,-2367.0,-1560.0,642.0,-421.0,0.0,0.0,0.0,4.0,3.0,0.0
+Varus,Ahri,Ryze,Jarvan IV,Rell,1,LTA N,0.0,1.0,2367.0,1560.0,-642.0,421.0,1.0,1.0,4.0,0.0,0.0,3.0
+Neeko,Xin Zhao,Sion,Aphelios,Lulu,0,LTA N,0.0,1.0,2508.0,833.0,540.0,544.0,1.0,1.0,3.0,5.0,0.0,3.0
+Lucian,Sejuani,Nami,Aatrox,Orianna,1,LTA N,1.0,0.0,-2508.0,-833.0,-540.0,-544.0,0.0,0.0,5.0,3.0,3.0,0.0
+Taliyah,Jax,Kai'Sa,Wukong,Rakan,1,LTA N,0.0,1.0,8159.0,5803.0,4047.0,1707.0,1.0,1.0,3.0,1.0,3.0,0.0
+Yorick,Viktor,Poppy,Alistar,Corki,0,LTA N,1.0,0.0,-8159.0,-5803.0,-4047.0,-1707.0,0.0,0.0,1.0,3.0,0.0,3.0
+Naafiri,Sivir,Braum,Jayce,LeBlanc,1,LTA N,1.0,0.0,4377.0,2263.0,1950.0,1320.0,1.0,0.0,3.0,1.0,3.0,0.0
+Ezreal,Leona,Ziggs,Viego,K'Sante,0,LTA N,0.0,1.0,-4377.0,-2263.0,-1950.0,-1320.0,0.0,1.0,1.0,3.0,0.0,3.0
+Taliyah,Xin Zhao,Gwen,Jhin,Nautilus,0,LCK,1.0,0.0,-915.0,-441.0,-2255.0,-1996.0,0.0,0.0,3.0,5.0,0.0,3.0
+Rumble,Azir,Poppy,Varus,Rell,1,LCK,0.0,1.0,915.0,441.0,2255.0,1996.0,1.0,1.0,5.0,3.0,3.0,0.0
+Trundle,Sion,Ryze,Ezreal,Karma,0,LCK,0.0,1.0,-2996.0,-2313.0,-129.0,177.0,0.0,1.0,1.0,4.0,3.0,0.0
+Kalista,Renata Glasc,Ahri,Jarvan IV,Camille,1,LCK,1.0,0.0,2996.0,2313.0,129.0,-177.0,1.0,0.0,4.0,1.0,0.0,3.0
+Neeko,Skarner,Kai'Sa,K'Sante,Aurora,1,LCK,0.0,1.0,6976.0,5851.0,4571.0,1780.0,0.0,1.0,3.0,1.0,3.0,0.0
+Jax,Sejuani,Sylas,Corki,Leona,0,LCK,1.0,0.0,-6976.0,-5851.0,-4571.0,-1780.0,1.0,0.0,1.0,3.0,0.0,3.0
+Yone,Maokai,Yorick,Jinx,Lulu,0,LCK,0.0,1.0,-2145.0,-2015.0,-1749.0,-1097.0,1.0,1.0,1.0,4.0,1.0,2.0
+Twisted Fate,Alistar,Senna,Cho'Gath,Lee Sin,1,LCK,1.0,0.0,2145.0,2015.0,1749.0,1097.0,0.0,0.0,4.0,1.0,2.0,1.0
+Jayce,Xayah,Rakan,Lillia,Gnar,0,LCK,0.0,1.0,-1368.0,-1213.0,1632.0,789.0,0.0,1.0,2.0,3.0,0.0,3.0
+Lucian,Wukong,Braum,Aatrox,Zoe,1,LCK,1.0,0.0,1368.0,1213.0,-1632.0,-789.0,1.0,0.0,3.0,2.0,3.0,0.0
+Sion,Xin Zhao,Viktor,Corki,Elise,0,LCK,0.0,1.0,2748.0,-955.0,1456.0,1221.0,0.0,0.0,2.0,4.0,1.0,2.0
+Neeko,Ryze,Ornn,Kalista,Wukong,1,LCK,1.0,0.0,-2748.0,955.0,-1456.0,-1221.0,1.0,1.0,4.0,2.0,2.0,1.0
+Gwen,Jhin,Nocturne,Akali,Rakan,1,LCK,1.0,0.0,7562.0,2632.0,347.0,103.0,1.0,1.0,3.0,2.0,0.0,3.0
+Rumble,Varus,Ahri,Alistar,Jarvan IV,0,LCK,0.0,1.0,-7562.0,-2632.0,-347.0,-103.0,0.0,0.0,2.0,3.0,3.0,0.0
+Taliyah,Yorick,Sejuani,Leona,Ezreal,0,LCK,1.0,0.0,-1569.0,-1111.0,-474.0,-65.0,1.0,1.0,1.0,4.0,3.0,0.0
+Azir,Skarner,Renekton,Lucian,Bard,1,LCK,0.0,1.0,1569.0,1111.0,474.0,65.0,0.0,0.0,4.0,1.0,0.0,3.0
+Ambessa,Pantheon,Aurora,Xayah,Braum,0,LCK,0.0,1.0,711.0,1768.0,-741.0,-422.0,1.0,1.0,1.0,3.0,3.0,0.0
+Twisted Fate,Trundle,Camille,Rell,Ziggs,1,LCK,1.0,0.0,-711.0,-1768.0,741.0,422.0,0.0,0.0,3.0,1.0,0.0,3.0
+Vi,Ahri,Jhin,Rakan,Gnar,0,LTA S,0.0,1.0,-5399.0,-3312.0,-1746.0,-569.0,0.0,1.0,0.0,5.0,0.0,3.0
+Taliyah,Varus,Xin Zhao,Sion,Renata Glasc,1,LTA S,1.0,0.0,5399.0,3312.0,1746.0,569.0,1.0,0.0,5.0,0.0,3.0,0.0
+Ryze,Viego,Yorick,Ezreal,Alistar,0,LTA S,0.0,1.0,-243.0,-1079.0,1091.0,692.0,1.0,1.0,0.0,4.0,3.0,0.0
+Wukong,Orianna,Jax,Miss Fortune,Rell,1,LTA S,1.0,0.0,243.0,1079.0,-1091.0,-692.0,0.0,0.0,4.0,0.0,0.0,3.0
+Gwen,Karma,Ashe,Galio,Naafiri,0,LTA S,1.0,0.0,-4641.0,-1216.0,-971.0,482.0,0.0,0.0,0.0,4.0,3.0,0.0
+Neeko,Ambessa,Kai'Sa,Annie,Nocturne,1,LTA S,0.0,1.0,4641.0,1216.0,971.0,-482.0,1.0,1.0,4.0,0.0,0.0,3.0
+Aurora,Smolder,Leona,Skarner,K'Sante,1,LTA S,1.0,0.0,5852.0,1504.0,1492.0,162.0,1.0,0.0,2.0,2.0,3.0,0.0
+Nautilus,Senna,Sylas,Renekton,Poppy,0,LTA S,0.0,1.0,-5852.0,-1504.0,-1492.0,-162.0,0.0,1.0,2.0,2.0,0.0,3.0
+Taliyah,Poppy,Rell,Renekton,Ziggs,1,LTA N,1.0,0.0,1104.0,-35.0,-814.0,-1849.0,0.0,0.0,4.0,1.0,3.0,0.0
+Pantheon,Senna,Nautilus,Orianna,Cho'Gath,0,LTA N,0.0,1.0,-1104.0,35.0,814.0,1849.0,1.0,1.0,1.0,4.0,0.0,3.0
+Azir,Kai'Sa,Neeko,Aatrox,Skarner,0,LTA N,0.0,1.0,-8328.0,-3211.0,-1450.0,-274.0,0.0,0.0,0.0,4.0,3.0,0.0
+Varus,Wukong,Sylas,Sion,Bard,1,LTA N,1.0,0.0,8328.0,3211.0,1450.0,274.0,1.0,1.0,4.0,0.0,0.0,3.0
+Yone,Galio,Maokai,Ezreal,Karma,1,LTA N,1.0,0.0,11433.0,7582.0,3434.0,518.0,1.0,1.0,2.0,1.0,3.0,0.0
+Aurora,Rumble,Trundle,Kalista,Renata Glasc,0,LTA N,0.0,1.0,-11433.0,-7582.0,-3434.0,-518.0,0.0,0.0,1.0,2.0,0.0,3.0
+Vi,Ahri,Jayce,Miss Fortune,Rell,0,LCK,0.0,1.0,-5060.0,-2278.0,-835.0,617.0,0.0,0.0,1.0,4.0,0.0,3.0
+Gwen,Neeko,Kalista,Wukong,Sylas,1,LCK,1.0,0.0,5060.0,2278.0,835.0,-617.0,1.0,1.0,4.0,1.0,3.0,0.0
+Sion,Xin Zhao,Viktor,Jhin,Nautilus,0,LCK,1.0,0.0,2647.0,912.0,2237.0,517.0,1.0,1.0,1.0,4.0,3.0,0.0
+Ryze,Varus,Pantheon,Poppy,Ambessa,1,LCK,0.0,1.0,-2647.0,-912.0,-2237.0,-517.0,0.0,0.0,4.0,1.0,0.0,3.0
+Annie,Xayah,Rakan,K'Sante,Lee Sin,1,LCK,1.0,0.0,15059.0,10651.0,5613.0,282.0,1.0,1.0,3.0,0.0,3.0,0.0
+Nidalee,Lucian,Braum,Galio,Gnar,0,LCK,0.0,1.0,-15059.0,-10651.0,-5613.0,-282.0,0.0,0.0,0.0,3.0,0.0,3.0
+Neeko,Ahri,Ezreal,Sion,Vi,0,LTA S,0.0,1.0,2538.0,2370.0,745.0,-536.0,1.0,1.0,4.0,2.0,1.0,2.0
+Taliyah,Xin Zhao,Jhin,Alistar,Camille,1,LTA S,1.0,0.0,-2538.0,-2370.0,-745.0,536.0,0.0,0.0,2.0,4.0,2.0,1.0
+Rumble,Poppy,Azir,Tristana,Rell,0,LTA S,0.0,1.0,-2335.0,-1086.0,834.0,650.0,1.0,1.0,2.0,3.0,0.0,3.0
+Galio,Wukong,Annie,Senna,Leona,1,LTA S,1.0,0.0,2335.0,1086.0,-834.0,-650.0,0.0,0.0,3.0,2.0,3.0,0.0
+Varus,Ambessa,Braum,Skarner,Orianna,0,LTA S,0.0,1.0,-13227.0,-8792.0,-1674.0,-613.0,0.0,1.0,1.0,3.0,2.0,1.0
+Yasuo,Rakan,Sejuani,Aatrox,Akali,1,LTA S,1.0,0.0,13227.0,8792.0,1674.0,613.0,1.0,0.0,3.0,1.0,1.0,2.0
+Azir,Kai'Sa,Neeko,Renekton,Sejuani,1,LTA N,0.0,1.0,3959.0,2052.0,3362.0,1485.0,1.0,1.0,3.0,2.0,3.0,0.0
+Varus,Wukong,Sylas,Rell,Rumble,0,LTA N,1.0,0.0,-3959.0,-2052.0,-3362.0,-1485.0,0.0,0.0,2.0,3.0,0.0,3.0
+Yone,Maokai,Ambessa,Ezreal,Karma,1,LTA N,0.0,1.0,6617.0,1923.0,1426.0,1441.0,0.0,1.0,3.0,1.0,3.0,0.0
+Annie,Trundle,Aatrox,Lucian,Nami,0,LTA N,1.0,0.0,-6617.0,-1923.0,-1426.0,-1441.0,1.0,0.0,1.0,3.0,0.0,3.0
+Ryze,Sion,Smolder,Rakan,Xin Zhao,0,LTA N,1.0,0.0,-3084.0,-3978.0,-5698.0,-1693.0,1.0,1.0,2.0,4.0,1.0,2.0
+Senna,Poppy,Orianna,Alistar,Gnar,1,LTA N,0.0,1.0,3084.0,3978.0,5698.0,1693.0,0.0,0.0,4.0,2.0,2.0,1.0
+Taliyah,Corki,Nautilus,Nocturne,Cho'Gath,1,LTA N,1.0,0.0,2374.0,3025.0,-1291.0,-1339.0,1.0,1.0,2.0,3.0,3.0,0.0
+Pantheon,Aurora,Jayce,Braum,Tristana,0,LTA N,0.0,1.0,-2374.0,-3025.0,1291.0,1339.0,0.0,0.0,3.0,2.0,0.0,3.0
+Kalista,Jarvan IV,Renata Glasc,Hwei,K'Sante,0,LTA N,0.0,1.0,-1653.0,-2842.0,-50.0,252.0,1.0,1.0,3.0,4.0,1.0,2.0
+Caitlyn,Viktor,Elise,Kha'Zix,Gragas,1,LTA N,1.0,0.0,1653.0,2842.0,50.0,-252.0,0.0,0.0,4.0,3.0,2.0,1.0
+Taliyah,Xin Zhao,Aatrox,Nilah,Rakan,1,MSI,1.0,0.0,1121.0,2987.0,-663.0,-166.0,1.0,0.0,3.0,1.0,3.0,0.0
+Ahri,Vi,Kai'Sa,Warwick,Poppy,0,MSI,0.0,1.0,-1121.0,-2987.0,663.0,166.0,0.0,1.0,1.0,3.0,0.0,3.0
+Varus,Maokai,Alistar,Jax,Corki,1,MSI,1.0,0.0,4018.0,1406.0,2014.0,-128.0,0.0,1.0,3.0,1.0,3.0,0.0
+Ryze,Wukong,Ezreal,Rell,K'Sante,0,MSI,0.0,1.0,-4018.0,-1406.0,-2014.0,128.0,1.0,0.0,1.0,3.0,0.0,3.0
+Pantheon,Lucian,Nami,Rumble,Orianna,0,MSI,1.0,0.0,-3196.0,-497.0,-582.0,376.0,1.0,0.0,3.0,2.0,3.0,0.0
+Trundle,Annie,Nautilus,Jhin,Ornn,1,MSI,0.0,1.0,3196.0,497.0,582.0,-376.0,0.0,1.0,2.0,3.0,0.0,3.0
+Naafiri,Neeko,Kalista,Blitzcrank,Renekton,0,MSI,1.0,0.0,-4654.0,-4624.0,-2338.0,-1059.0,0.0,1.0,2.0,2.0,1.0,2.0
+Ashe,Nocturne,Seraphine,Akali,Sion,1,MSI,0.0,1.0,4654.0,4624.0,2338.0,1059.0,1.0,0.0,2.0,2.0,2.0,1.0
+Senna,Braum,Yone,Gragas,Jarvan IV,1,MSI,1.0,0.0,6519.0,4045.0,1700.0,832.0,1.0,1.0,4.0,1.0,0.0,3.0
+Jayce,Leona,Ziggs,Lillia,Gnar,0,MSI,0.0,1.0,-6519.0,-4045.0,-1700.0,-832.0,0.0,0.0,1.0,4.0,3.0,0.0
+Taliyah,Poppy,Ambessa,Jhin,Alistar,1,MSI,1.0,0.0,5478.0,3617.0,-1466.0,-703.0,1.0,1.0,4.0,0.0,2.0,1.0
+Rumble,Varus,Nautilus,Corki,Maokai,0,MSI,0.0,1.0,-5478.0,-3617.0,1466.0,703.0,0.0,0.0,0.0,4.0,1.0,2.0
+Vi,Ahri,Rakan,Tristana,Sion,0,MSI,0.0,1.0,-2440.0,1298.0,462.0,1043.0,0.0,1.0,0.0,4.0,3.0,0.0
+Annie,Wukong,Rell,Ezreal,Aatrox,1,MSI,1.0,0.0,2440.0,-1298.0,-462.0,-1043.0,1.0,0.0,4.0,0.0,0.0,3.0
+Neeko,Miss Fortune,Jarvan IV,Yorick,Viktor,0,MSI,0.0,1.0,-12366.0,-10914.0,-6718.0,-3899.0,0.0,0.0,0.0,4.0,0.0,3.0
+Xin Zhao,Caitlyn,Karma,Aurora,Renekton,1,MSI,1.0,0.0,12366.0,10914.0,6718.0,3899.0,1.0,1.0,4.0,0.0,3.0,0.0
+Taliyah,Pantheon,Rumble,Xayah,Rakan,1,MSI,0.0,1.0,2976.0,2203.0,-3.0,420.0,1.0,1.0,5.0,2.0,3.0,0.0
+Ahri,Xin Zhao,Galio,Rell,Smolder,0,MSI,1.0,0.0,-2976.0,-2203.0,3.0,-420.0,0.0,0.0,2.0,5.0,0.0,3.0
+Gwen,Vi,Aurora,Jhin,Nautilus,0,MSI,0.0,1.0,-10346.0,-7227.0,-3705.0,-2025.0,0.0,0.0,1.0,3.0,1.0,2.0
+Wukong,Annie,Jax,Corki,Leona,1,MSI,1.0,0.0,10346.0,7227.0,3705.0,2025.0,1.0,1.0,3.0,1.0,2.0,1.0
+Kalista,Neeko,Aatrox,Kha'Zix,Twisted Fate,0,MSI,1.0,0.0,-435.0,4173.0,3928.0,2487.0,1.0,1.0,2.0,2.0,0.0,3.0
+Ashe,Seraphine,Ambessa,Poppy,Sylas,1,MSI,0.0,1.0,435.0,-4173.0,-3928.0,-2487.0,0.0,0.0,2.0,2.0,3.0,0.0
+Alistar,Yasuo,Azir,Skarner,Renekton,0,MSI,0.0,1.0,714.0,-297.0,-1747.0,-1844.0,0.0,0.0,2.0,3.0,0.0,3.0
+Lucian,Braum,LeBlanc,Viego,K'Sante,1,MSI,1.0,0.0,-714.0,297.0,1747.0,1844.0,1.0,1.0,3.0,2.0,3.0,0.0
+Karma,Trundle,Ezreal,Gnar,Kassadin,0,MSI,0.0,1.0,-7070.0,-2137.0,-1530.0,-92.0,0.0,0.0,1.0,5.0,3.0,0.0
+Orianna,Naafiri,Kai'Sa,Bard,Gangplank,1,MSI,1.0,0.0,7070.0,2137.0,1530.0,92.0,1.0,1.0,5.0,1.0,0.0,3.0
+Annie,Xin Zhao,Rumble,Miss Fortune,Alistar,1,MSI,1.0,0.0,1971.0,2138.0,2447.0,229.0,1.0,1.0,2.0,2.0,1.0,2.0
+Pantheon,Aurora,Ornn,Ezreal,Leona,0,MSI,0.0,1.0,-1971.0,-2138.0,-2447.0,-229.0,0.0,0.0,2.0,2.0,2.0,1.0
+Vi,Ahri,Jax,Sivir,Neeko,0,MSI,0.0,1.0,-2713.0,-3673.0,-613.0,-523.0,0.0,0.0,0.0,4.0,2.0,1.0
+Taliyah,Skarner,Sion,Varus,Karma,1,MSI,1.0,0.0,2713.0,3673.0,613.0,523.0,1.0,1.0,4.0,0.0,1.0,2.0
+Twisted Fate,Trundle,Rell,Senna,Olaf,0,MSI,0.0,1.0,-4895.0,-2794.0,538.0,-29.0,0.0,0.0,1.0,3.0,3.0,0.0
+Poppy,Veigar,Renekton,Kai'Sa,Rakan,1,MSI,1.0,0.0,4895.0,2794.0,-538.0,29.0,1.0,1.0,3.0,1.0,0.0,3.0
+Varus,Trundle,Syndra,Alistar,Renekton,1,MSI,1.0,0.0,1345.0,1144.0,-648.0,-4.0,0.0,1.0,2.0,1.0,0.0,3.0
+Taliyah,Xin Zhao,Jhin,Rell,Gnar,0,MSI,0.0,1.0,-1345.0,-1144.0,648.0,4.0,1.0,0.0,1.0,2.0,3.0,0.0
+Pantheon,Corki,Nautilus,Hwei,Jayce,0,MSI,0.0,1.0,-4271.0,-3345.0,-1280.0,1024.0,1.0,1.0,3.0,2.0,2.0,1.0
+Poppy,Lucian,Braum,Ryze,Gragas,1,MSI,1.0,0.0,4271.0,3345.0,1280.0,-1024.0,0.0,0.0,2.0,3.0,1.0,2.0
+Wukong,Xayah,Rakan,Ahri,Jax,1,MSI,1.0,0.0,458.0,57.0,-268.0,-483.0,1.0,0.0,3.0,2.0,0.0,3.0
+Miss Fortune,Nunu & Willump,Neeko,Ambessa,Tristana,0,MSI,0.0,1.0,-458.0,-57.0,268.0,483.0,0.0,1.0,2.0,3.0,3.0,0.0
+Naafiri,Leona,Kai'Sa,Cho'Gath,Twisted Fate,0,MSI,0.0,1.0,-3036.0,-2351.0,-3054.0,-349.0,0.0,0.0,0.0,5.0,3.0,0.0
+Sion,Lillia,Caitlyn,Galio,Sylas,1,MSI,1.0,0.0,3036.0,2351.0,3054.0,349.0,1.0,1.0,5.0,0.0,0.0,3.0
+Annie,Viego,K'Sante,Senna,Tahm Kench,1,MSI,1.0,0.0,292.0,248.0,550.0,754.0,1.0,1.0,3.0,2.0,3.0,0.0
+Orianna,Vi,Aatrox,Kalista,Seraphine,0,MSI,0.0,1.0,-292.0,-248.0,-550.0,-754.0,0.0,0.0,2.0,3.0,0.0,3.0
+Azir,Xin Zhao,Renekton,Lucian,Braum,0,MSI,1.0,0.0,-3009.0,-199.0,625.0,422.0,1.0,1.0,0.0,5.0,3.0,0.0
+Varus,Maokai,Yone,Jax,Rakan,1,MSI,0.0,1.0,3009.0,199.0,-625.0,-422.0,0.0,0.0,5.0,0.0,0.0,3.0
+Vi,Rumble,Alistar,Aurora,Jhin,1,MSI,1.0,0.0,5846.0,4884.0,2179.0,1352.0,1.0,1.0,4.0,1.0,3.0,0.0
+Wukong,Senna,Tahm Kench,Galio,Ryze,0,MSI,0.0,1.0,-5846.0,-4884.0,-2179.0,-1352.0,0.0,0.0,1.0,4.0,0.0,3.0
+Viktor,Ezreal,Rell,Gnar,Jarvan IV,0,MSI,0.0,1.0,-7630.0,-5298.0,-2246.0,-1223.0,0.0,0.0,1.0,3.0,0.0,3.0
+Miss Fortune,Nautilus,K'Sante,Orianna,Lee Sin,1,MSI,1.0,0.0,7630.0,5298.0,2246.0,1223.0,1.0,1.0,3.0,1.0,3.0,0.0
+Taliyah,Corki,Poppy,Skarner,Jayce,1,MSI,1.0,0.0,2588.0,3206.0,998.0,223.0,1.0,1.0,3.0,2.0,3.0,0.0
+Twisted Fate,Leona,Kai'Sa,Aatrox,Dr. Mundo,0,MSI,0.0,1.0,-2588.0,-3206.0,-998.0,-223.0,0.0,0.0,2.0,3.0,0.0,3.0
+Taliyah,Xin Zhao,Rumble,Xayah,Rakan,0,MSI,1.0,0.0,-3944.0,-1969.0,-126.0,-730.0,1.0,1.0,1.0,4.0,3.0,0.0
+Orianna,Pantheon,Galio,Rell,Senna,1,MSI,0.0,1.0,3944.0,1969.0,126.0,730.0,0.0,0.0,4.0,1.0,0.0,3.0
+Ryze,Trundle,Yorick,Corki,Neeko,1,MSI,1.0,0.0,6906.0,5871.0,4022.0,1174.0,1.0,1.0,3.0,0.0,3.0,0.0
+Viktor,Vi,Mordekaiser,Kalista,Renata Glasc,0,MSI,0.0,1.0,-6906.0,-5871.0,-4022.0,-1174.0,0.0,0.0,0.0,3.0,0.0,3.0
+Twisted Fate,Jhin,Alistar,Cho'Gath,Viego,0,MSI,1.0,0.0,-1921.0,-1269.0,645.0,132.0,0.0,0.0,0.0,4.0,0.0,3.0
+Varus,Wukong,Azir,Sion,Braum,1,MSI,0.0,1.0,1921.0,1269.0,-645.0,-132.0,1.0,1.0,4.0,0.0,3.0,0.0
+Lucian,Ambessa,Leona,Aurora,Poppy,1,MSI,1.0,0.0,7118.0,2155.0,2360.0,653.0,1.0,1.0,2.0,2.0,3.0,0.0
+Nautilus,Ziggs,Lee Sin,Shen,Ahri,0,MSI,0.0,1.0,-7118.0,-2155.0,-2360.0,-653.0,0.0,0.0,2.0,2.0,0.0,3.0
+Yone,Galio,Varus,Maokai,Alistar,0,MSI,0.0,1.0,-7320.0,-5630.0,-1697.0,-1114.0,0.0,0.0,1.0,4.0,1.0,2.0
+Rumble,Pantheon,Aurora,Miss Fortune,Rakan,1,MSI,1.0,0.0,7320.0,5630.0,1697.0,1114.0,1.0,1.0,4.0,1.0,2.0,1.0
+Azir,Wukong,Rell,Kai'Sa,Akali,1,MSI,1.0,0.0,1706.0,1214.0,30.0,1385.0,1.0,1.0,2.0,2.0,0.0,3.0
+Gwen,Xin Zhao,Viktor,Leona,Corki,0,MSI,0.0,1.0,-1706.0,-1214.0,-30.0,-1385.0,0.0,0.0,2.0,2.0,3.0,0.0
+Vi,Sylas,Sion,Caitlyn,Elise,1,MSI,1.0,0.0,3867.0,2554.0,1957.0,241.0,1.0,1.0,5.0,0.0,3.0,0.0
+Ahri,Ezreal,Aatrox,Nautilus,Naafiri,0,MSI,0.0,1.0,-3867.0,-2554.0,-1957.0,-241.0,0.0,0.0,0.0,5.0,0.0,3.0
+Kalista,Sejuani,Renata Glasc,Ambessa,Ryze,0,MSI,1.0,0.0,-246.0,-1153.0,-80.0,-1049.0,1.0,1.0,4.0,2.0,0.0,3.0
+Neeko,Skarner,Ashe,K'Sante,Syndra,1,MSI,0.0,1.0,246.0,1153.0,80.0,1049.0,0.0,0.0,2.0,4.0,3.0,0.0
+Pantheon,Sion,Viktor,Ezreal,Leona,0,MSI,0.0,1.0,-2694.0,-1244.0,-389.0,937.0,0.0,1.0,2.0,3.0,2.0,1.0
+Annie,Xin Zhao,Aatrox,Neeko,Corki,1,MSI,1.0,0.0,2694.0,1244.0,389.0,-937.0,1.0,0.0,3.0,2.0,1.0,2.0
+Vi,Lucian,Nami,K'Sante,Aurora,1,MSI,1.0,0.0,11175.0,9132.0,3390.0,1856.0,1.0,1.0,2.0,2.0,2.0,1.0
+Kalista,Renata Glasc,Ryze,Wukong,Jax,0,MSI,0.0,1.0,-11175.0,-9132.0,-3390.0,-1856.0,0.0,0.0,2.0,2.0,1.0,2.0
+Gwen,Zed,Galio,Senna,Thresh,0,MSI,0.0,1.0,-5483.0,-3117.0,-1713.0,-1141.0,0.0,0.0,0.0,4.0,0.0,3.0
+Gragas,Trundle,Swain,Caitlyn,Braum,1,MSI,1.0,0.0,5483.0,3117.0,1713.0,1141.0,1.0,1.0,4.0,0.0,3.0,0.0
+Rumble,Varus,Poppy,Sylas,Jarvan IV,1,MSI,0.0,1.0,5362.0,6980.0,2466.0,851.0,1.0,1.0,3.0,3.0,2.0,1.0
+Ambessa,Skarner,Jhin,Nautilus,Cassiopeia,0,MSI,1.0,0.0,-5362.0,-6980.0,-2466.0,-851.0,0.0,0.0,3.0,3.0,1.0,2.0
+Ornn,Xayah,Rakan,Tristana,Zyra,0,MSI,0.0,1.0,-13074.0,-6316.0,-5619.0,-1659.0,0.0,0.0,2.0,1.0,1.0,2.0
+Jayce,Sejuani,Orianna,Jinx,Tahm Kench,1,MSI,1.0,0.0,13074.0,6316.0,5619.0,1659.0,1.0,1.0,1.0,2.0,2.0,1.0
+Varus,Ryze,Pantheon,Karma,Sion,1,MSI,1.0,0.0,2591.0,818.0,389.0,1008.0,1.0,1.0,3.0,3.0,3.0,0.0
+Jhin,Maokai,Alistar,Cassiopeia,Aatrox,0,MSI,0.0,1.0,-2591.0,-818.0,-389.0,-1008.0,0.0,0.0,3.0,3.0,0.0,3.0
+Aurora,Vi,Rell,K'Sante,Corki,0,MSI,1.0,0.0,1849.0,-418.0,-291.0,225.0,1.0,1.0,1.0,5.0,0.0,3.0
+Annie,Senna,Wukong,Bard,Garen,1,MSI,0.0,1.0,-1849.0,418.0,291.0,-225.0,0.0,0.0,5.0,1.0,3.0,0.0
+Neeko,Yorick,Trundle,Orianna,Kai'Sa,1,MSI,1.0,0.0,1482.0,2011.0,1894.0,1261.0,1.0,1.0,1.0,2.0,3.0,0.0
+Lucian,Nautilus,Naafiri,Cho'Gath,Akali,0,MSI,0.0,1.0,-1482.0,-2011.0,-1894.0,-1261.0,0.0,0.0,2.0,1.0,0.0,3.0
+Pantheon,Rumble,Rell,Annie,Kai'Sa,1,MSI,1.0,0.0,7101.0,3417.0,949.0,561.0,1.0,1.0,2.0,1.0,2.0,1.0
+Xin Zhao,Aurora,Alistar,Jhin,Ornn,0,MSI,0.0,1.0,-7101.0,-3417.0,-949.0,-561.0,0.0,0.0,1.0,2.0,1.0,2.0
+Azir,Gwen,Nocturne,Senna,Nautilus,1,MSI,1.0,0.0,1939.0,1397.0,-18.0,477.0,0.0,0.0,4.0,0.0,0.0,3.0
+Poppy,Twisted Fate,Jax,Ezreal,Braum,0,MSI,0.0,1.0,-1939.0,-1397.0,18.0,-477.0,1.0,1.0,0.0,4.0,3.0,0.0
+Varus,Trundle,Sion,Bard,Akali,0,MSI,1.0,0.0,969.0,535.0,1275.0,1168.0,0.0,1.0,2.0,3.0,3.0,0.0
+Vi,Taliyah,Ambessa,Ziggs,Rakan,1,MSI,0.0,1.0,-969.0,-535.0,-1275.0,-1168.0,1.0,0.0,3.0,2.0,0.0,3.0
+Galio,Neeko,Miss Fortune,Smolder,Jarvan IV,1,MSI,0.0,1.0,3141.0,1558.0,243.0,151.0,1.0,1.0,2.0,2.0,3.0,0.0
+Caitlyn,Karma,K'Sante,Sylas,Naafiri,0,MSI,1.0,0.0,-3141.0,-1558.0,-243.0,-151.0,0.0,0.0,2.0,2.0,0.0,3.0
+Ryze,Sejuani,Camille,Xayah,Blitzcrank,1,MSI,1.0,0.0,5416.0,655.0,576.0,1577.0,0.0,0.0,3.0,0.0,2.0,1.0
+Corki,Skarner,Cassiopeia,Shen,Gragas,0,MSI,0.0,1.0,-5416.0,-655.0,-576.0,-1577.0,1.0,1.0,0.0,3.0,1.0,2.0
+Azir,Xin Zhao,Sion,Ezreal,Leona,1,MSI,1.0,0.0,3217.0,3797.0,1761.0,238.0,1.0,1.0,3.0,3.0,2.0,1.0
+Yone,Rumble,Trundle,Alistar,Sivir,0,MSI,0.0,1.0,-3217.0,-3797.0,-1761.0,-238.0,0.0,0.0,3.0,3.0,1.0,2.0
+Twisted Fate,Lee Sin,Ambessa,Caitlyn,Karma,0,MSI,1.0,0.0,261.0,-128.0,551.0,-388.0,0.0,1.0,1.0,4.0,2.0,1.0
+Skarner,Ryze,Shen,Jhin,Bard,1,MSI,0.0,1.0,-261.0,128.0,-551.0,388.0,1.0,0.0,4.0,1.0,1.0,2.0
+Taliyah,Poppy,Irelia,Xayah,Rell,1,MSI,1.0,0.0,7584.0,3972.0,1632.0,710.0,1.0,1.0,3.0,1.0,3.0,0.0
+Aurora,Yorick,Nocturne,Kai'Sa,Rakan,0,MSI,0.0,1.0,-7584.0,-3972.0,-1632.0,-710.0,0.0,0.0,1.0,3.0,0.0,3.0
+Pantheon,Viktor,K'Sante,Aphelios,Thresh,1,MSI,1.0,0.0,7832.0,3155.0,2887.0,1121.0,1.0,1.0,4.0,1.0,3.0,0.0
+Vi,Kalista,Renata Glasc,Renekton,Aurelion Sol,0,MSI,0.0,1.0,-7832.0,-3155.0,-2887.0,-1121.0,0.0,0.0,1.0,4.0,0.0,3.0
+Taliyah,Sion,Poppy,Kalista,Renata Glasc,0,MSI,0.0,1.0,-8143.0,-5647.0,-313.0,677.0,0.0,0.0,0.0,4.0,3.0,0.0
+Pantheon,Orianna,Yorick,Neeko,Jhin,1,MSI,1.0,0.0,8143.0,5647.0,313.0,-677.0,1.0,1.0,4.0,0.0,0.0,3.0
+Annie,Wukong,Rumble,Ezreal,Rell,0,MSI,0.0,1.0,1563.0,1901.0,1497.0,1068.0,1.0,1.0,1.0,4.0,3.0,0.0
+Viktor,Xin Zhao,Ornn,Caitlyn,Braum,1,MSI,1.0,0.0,-1563.0,-1901.0,-1497.0,-1068.0,0.0,0.0,4.0,1.0,0.0,3.0
+Vi,Ambessa,Ahri,Xayah,Gragas,0,MSI,1.0,0.0,865.0,-539.0,252.0,-25.0,0.0,1.0,0.0,4.0,0.0,3.0
+Varus,Skarner,Renekton,Alistar,Ryze,1,MSI,0.0,1.0,-865.0,539.0,-252.0,25.0,1.0,0.0,4.0,0.0,3.0,0.0
+Xin Zhao,Taliyah,Gragas,Miss Fortune,Alistar,0,MSI,0.0,1.0,-3168.0,-1398.0,-1171.0,-628.0,0.0,0.0,3.0,3.0,0.0,3.0
+Azir,Poppy,Yorick,Jhin,Bard,1,MSI,1.0,0.0,3168.0,1398.0,1171.0,628.0,1.0,1.0,3.0,3.0,3.0,0.0
+Rumble,Skarner,Corki,Kai'Sa,Nautilus,0,MSI,0.0,1.0,-7063.0,-4383.0,-3665.0,-1441.0,0.0,0.0,1.0,5.0,2.0,1.0
+Ryze,Wukong,Neeko,Lucian,Galio,1,MSI,1.0,0.0,7063.0,4383.0,3665.0,1441.0,1.0,1.0,5.0,1.0,1.0,2.0
+Rell,Lee Sin,Annie,Xayah,Gwen,0,MSI,0.0,1.0,-3572.0,-1603.0,-2091.0,-463.0,0.0,0.0,1.0,4.0,3.0,0.0
+Trundle,Ezreal,Braum,Orianna,Gnar,1,MSI,1.0,0.0,3572.0,1603.0,2091.0,463.0,1.0,1.0,4.0,1.0,0.0,3.0
+Jayce,Jinx,Sylas,Blitzcrank,Maokai,1,MSI,1.0,0.0,926.0,135.0,-147.0,-508.0,0.0,0.0,2.0,2.0,2.0,1.0
+Aurora,Jarvan IV,K'Sante,Thresh,Sivir,0,MSI,0.0,1.0,-926.0,-135.0,147.0,508.0,1.0,1.0,2.0,2.0,1.0,2.0
+Taliyah,Ezreal,Karma,Aatrox,Sejuani,1,MSI,1.0,0.0,3067.0,-467.0,994.0,-28.0,0.0,1.0,2.0,3.0,0.0,3.0
+Neeko,Xin Zhao,Miss Fortune,Sion,Aurora,0,MSI,0.0,1.0,-3067.0,467.0,-994.0,28.0,1.0,0.0,3.0,2.0,3.0,0.0
+Pantheon,Rell,Viktor,Corki,Ornn,1,MSI,1.0,0.0,4960.0,749.0,-971.0,741.0,1.0,1.0,4.0,0.0,0.0,3.0
+Annie,Wukong,Renekton,Kalista,Renata Glasc,0,MSI,0.0,1.0,-4960.0,-749.0,971.0,-741.0,0.0,0.0,0.0,4.0,3.0,0.0
+Vi,Ahri,Ambessa,Kai'Sa,Nautilus,1,MSI,1.0,0.0,4250.0,3628.0,3207.0,754.0,1.0,1.0,3.0,3.0,3.0,0.0
+Senna,Ryze,Poppy,Gangplank,Alistar,0,MSI,0.0,1.0,-4250.0,-3628.0,-3207.0,-754.0,0.0,0.0,3.0,3.0,0.0,3.0
+Varus,Rakan,Yorick,Maokai,Tristana,0,MSI,0.0,1.0,-4864.0,-5805.0,-992.0,-706.0,0.0,0.0,0.0,4.0,2.0,1.0
+Jhin,Trundle,Bard,Sett,Hwei,1,MSI,1.0,0.0,4864.0,5805.0,992.0,706.0,1.0,1.0,4.0,0.0,1.0,2.0
+Galio,Nocturne,Rumble,Shen,Ashe,1,MSI,1.0,0.0,10060.0,8249.0,5036.0,1388.0,1.0,1.0,4.0,0.0,3.0,0.0
+Lucian,Lee Sin,Leona,Urgot,Zilean,0,MSI,0.0,1.0,-10060.0,-8249.0,-5036.0,-1388.0,0.0,0.0,0.0,4.0,0.0,3.0
+Azir,Sejuani,Jax,Xayah,Rakan,0,MSI,1.0,0.0,-2396.0,-937.0,-204.0,-1390.0,0.0,0.0,1.0,4.0,1.0,2.0
+Annie,Gwen,Wukong,Neeko,Jhin,1,MSI,0.0,1.0,2396.0,937.0,204.0,1390.0,1.0,1.0,4.0,1.0,2.0,1.0
+Taliyah,Lucian,Braum,Jarvan IV,Ornn,1,MSI,1.0,0.0,8135.0,1491.0,483.0,-1403.0,1.0,1.0,4.0,0.0,3.0,0.0
+Rumble,Ryze,Skarner,Rell,Ezreal,0,MSI,0.0,1.0,-8135.0,-1491.0,-483.0,1403.0,0.0,0.0,0.0,4.0,0.0,3.0
+Pantheon,Galio,K'Sante,Senna,Alistar,1,MSI,0.0,1.0,2677.0,-407.0,-70.0,18.0,1.0,1.0,4.0,1.0,0.0,3.0
+Sion,Viktor,Xin Zhao,Miss Fortune,Bard,0,MSI,1.0,0.0,-2677.0,407.0,70.0,-18.0,0.0,0.0,1.0,4.0,3.0,0.0
+Corki,Nocturne,Orianna,Karma,Gragas,1,MSI,0.0,1.0,1236.0,585.0,-306.0,-883.0,1.0,1.0,3.0,4.0,2.0,1.0
+Kalista,Poppy,Renata Glasc,Ahri,Zed,0,MSI,1.0,0.0,-1236.0,-585.0,306.0,883.0,0.0,0.0,4.0,3.0,1.0,2.0
+Aurora,Nidalee,Renekton,Jinx,Tahm Kench,1,MSI,1.0,0.0,-578.0,-2194.0,-2349.0,-1578.0,0.0,0.0,2.0,2.0,0.0,3.0
+Lee Sin,Sylas,Ambessa,Draven,Pyke,0,MSI,0.0,1.0,578.0,2194.0,2349.0,1578.0,1.0,1.0,2.0,2.0,3.0,0.0
+Taliyah,Yorick,Jhin,Bard,Wukong,1,MSI,1.0,0.0,-1444.0,-349.0,-20.0,-455.0,0.0,0.0,2.0,3.0,3.0,0.0
+Azir,Trundle,Neeko,Corki,Jax,0,MSI,0.0,1.0,1444.0,349.0,20.0,455.0,1.0,1.0,3.0,2.0,0.0,3.0
+Rell,Rumble,Ezreal,Aurora,Nocturne,0,MSI,0.0,1.0,-3496.0,-3445.0,-2230.0,-1267.0,0.0,1.0,1.0,3.0,0.0,3.0
+Ryze,Lucian,Braum,Jarvan IV,Sion,1,MSI,1.0,0.0,3496.0,3445.0,2230.0,1267.0,1.0,0.0,3.0,1.0,3.0,0.0
+Varus,Skarner,Fiora,Renata Glasc,Akali,0,MSI,0.0,1.0,-5452.0,-1789.0,-431.0,718.0,0.0,1.0,3.0,3.0,2.0,1.0
+Gwen,Vi,Sivir,Annie,Blitzcrank,1,MSI,1.0,0.0,5452.0,1789.0,431.0,-718.0,1.0,0.0,3.0,3.0,1.0,2.0
+Gwen,Vi,Galio,Jhin,Nautilus,0,MSI,0.0,1.0,-375.0,785.0,1189.0,-317.0,1.0,0.0,1.0,3.0,3.0,0.0
+Annie,Wukong,Jayce,Rell,Kai'Sa,1,MSI,1.0,0.0,375.0,-785.0,-1189.0,317.0,0.0,1.0,3.0,1.0,0.0,3.0
+Lucian,Braum,Ryze,Lee Sin,Renekton,1,MSI,1.0,0.0,5785.0,4059.0,2615.0,1536.0,1.0,1.0,5.0,0.0,2.0,1.0
+Trundle,Yorick,Orianna,Karma,Ezreal,0,MSI,0.0,1.0,-5785.0,-4059.0,-2615.0,-1536.0,0.0,0.0,0.0,5.0,1.0,2.0
+Varus,Rumble,Leona,Viktor,Xin Zhao,1,MSI,1.0,0.0,5006.0,3348.0,739.0,518.0,1.0,1.0,2.0,2.0,3.0,0.0
+Neeko,Jarvan IV,Ornn,Aurora,Miss Fortune,0,MSI,0.0,1.0,-5006.0,-3348.0,-739.0,-518.0,0.0,0.0,2.0,2.0,0.0,3.0
+Corki,Jax,Rakan,Xayah,Lillia,1,MSI,1.0,0.0,680.0,-1283.0,-1307.0,401.0,1.0,1.0,4.0,0.0,1.0,2.0
+Ambessa,Sylas,Maokai,Senna,Tahm Kench,0,MSI,0.0,1.0,-680.0,1283.0,1307.0,-401.0,0.0,0.0,0.0,4.0,2.0,1.0
+Twisted Fate,Ziggs,Poppy,Aatrox,Olaf,0,MSI,0.0,1.0,-7049.0,-5489.0,223.0,471.0,0.0,0.0,2.0,2.0,3.0,0.0
+Alistar,Jinx,Skarner,Hwei,Gragas,1,MSI,1.0,0.0,7049.0,5489.0,-223.0,-471.0,1.0,1.0,2.0,2.0,0.0,3.0
+Taliyah,Lucian,Braum,Sejuani,Jax,0,MSI,1.0,0.0,-2848.0,-1717.0,-476.0,496.0,0.0,0.0,3.0,2.0,2.0,1.0
+Gwen,Jarvan IV,Orianna,Jhin,Alistar,1,MSI,0.0,1.0,2848.0,1717.0,476.0,-496.0,1.0,1.0,2.0,3.0,1.0,2.0
+Ryze,Vi,Sion,Senna,Nautilus,1,MSI,1.0,0.0,2779.0,2265.0,174.0,-1036.0,1.0,1.0,4.0,1.0,1.0,2.0
+Wukong,Corki,Galio,Poppy,Camille,0,MSI,0.0,1.0,-2779.0,-2265.0,-174.0,1036.0,0.0,0.0,1.0,4.0,2.0,1.0
+Azir,Nocturne,Ornn,Xayah,Renata Glasc,1,MSI,1.0,0.0,6238.0,3146.0,-154.0,534.0,1.0,1.0,4.0,0.0,1.0,2.0
+Rumble,Xin Zhao,Annie,Rell,Sivir,0,MSI,0.0,1.0,-6238.0,-3146.0,154.0,-534.0,0.0,0.0,0.0,4.0,2.0,1.0
+Viktor,Trundle,Jayce,Zeri,Rakan,1,MSI,1.0,0.0,5392.0,2514.0,51.0,322.0,1.0,1.0,2.0,2.0,1.0,2.0
+Skarner,Jinx,Tahm Kench,K'Sante,Hwei,0,MSI,0.0,1.0,-5392.0,-2514.0,-51.0,-322.0,0.0,0.0,2.0,2.0,2.0,1.0
+Renekton,Caitlyn,Karma,Viego,Ahri,0,MSI,0.0,1.0,-4338.0,-1508.0,562.0,416.0,0.0,0.0,1.0,4.0,3.0,0.0
+Nidalee,Aatrox,Aurora,Miss Fortune,Pyke,1,MSI,1.0,0.0,4338.0,1508.0,-562.0,-416.0,1.0,1.0,4.0,1.0,0.0,3.0
+Vi,Gwen,Annie,Sivir,Rakan,1,EWC,1.0,0.0,8394.0,3112.0,425.0,-795.0,1.0,0.0,2.0,2.0,2.0,1.0
+Rumble,Xin Zhao,Galio,Ezreal,Bard,0,EWC,0.0,1.0,-8394.0,-3112.0,-425.0,795.0,0.0,1.0,2.0,2.0,1.0,2.0
+Aurora,Sejuani,Yone,Miss Fortune,Alistar,1,EWC,0.0,1.0,784.0,-1726.0,-526.0,-1147.0,0.0,1.0,3.0,2.0,2.0,1.0
+Wukong,Orianna,Ambessa,Kai'Sa,Rakan,0,EWC,1.0,0.0,-784.0,1726.0,526.0,1147.0,1.0,0.0,2.0,3.0,1.0,2.0
+Pantheon,Senna,Nautilus,Syndra,Renekton,1,EWC,1.0,0.0,7941.0,4065.0,1705.0,918.0,1.0,1.0,4.0,1.0,2.0,1.0
+Annie,Wukong,Rell,Corki,Jax,0,EWC,0.0,1.0,-7941.0,-4065.0,-1705.0,-918.0,0.0,0.0,1.0,4.0,1.0,2.0
+Azir,Gragas,Poppy,Jhin,Karma,1,EWC,0.0,1.0,-148.0,1828.0,-637.0,161.0,1.0,1.0,2.0,4.0,0.0,3.0
+Renekton,Trundle,Taliyah,Ezreal,Bard,0,EWC,1.0,0.0,148.0,-1828.0,637.0,-161.0,0.0,0.0,4.0,2.0,3.0,0.0
+Pantheon,Rumble,Varus,Orianna,Rell,1,EWC,1.0,0.0,3074.0,789.0,1281.0,347.0,1.0,0.0,3.0,1.0,0.0,3.0
+Xin Zhao,Gwen,Ezreal,Ryze,Rakan,0,EWC,0.0,1.0,-3074.0,-789.0,-1281.0,-347.0,0.0,1.0,1.0,3.0,3.0,0.0
+Azir,Sejuani,Renekton,Alistar,Jhin,0,EWC,0.0,1.0,-1769.0,-3825.0,-1114.0,-1941.0,0.0,0.0,1.0,4.0,0.0,3.0
+Annie,Vi,Rumble,Rakan,Xayah,1,EWC,1.0,0.0,1769.0,3825.0,1114.0,1941.0,1.0,1.0,4.0,1.0,3.0,0.0
+Pantheon,Lucian,Braum,Gwen,Annie,0,EWC,0.0,1.0,-8200.0,-6180.0,-1864.0,-609.0,0.0,0.0,0.0,4.0,3.0,0.0
+Taliyah,Xin Zhao,Gragas,Senna,Alistar,1,EWC,1.0,0.0,8200.0,6180.0,1864.0,609.0,1.0,1.0,4.0,0.0,0.0,3.0
+Gwen,Sejuani,Yone,Corki,Rell,0,EWC,0.0,1.0,-2926.0,-4639.0,-3990.0,-3114.0,0.0,0.0,1.0,4.0,0.0,3.0
+Taliyah,Xin Zhao,Ambessa,Senna,Alistar,1,EWC,1.0,0.0,2926.0,4639.0,3990.0,3114.0,1.0,1.0,4.0,1.0,3.0,0.0
+Pantheon,Aurora,Kai'Sa,Galio,Neeko,1,EWC,1.0,0.0,2486.0,-964.0,-1730.0,-2393.0,0.0,1.0,2.0,3.0,3.0,0.0
+Rumble,Skarner,Viktor,Rell,Jhin,0,EWC,0.0,1.0,-2486.0,964.0,1730.0,2393.0,1.0,0.0,3.0,2.0,0.0,3.0
+Varus,Rakan,Trundle,Renekton,Syndra,1,EWC,1.0,0.0,7620.0,4218.0,4315.0,3731.0,1.0,0.0,4.0,0.0,2.0,1.0
+Alistar,Xin Zhao,Orianna,Yasuo,Aatrox,0,EWC,0.0,1.0,-7620.0,-4218.0,-4315.0,-3731.0,0.0,1.0,0.0,4.0,1.0,2.0
+Varus,Taliyah,Xin Zhao,Rakan,Aurora,1,EWC,1.0,0.0,11149.0,4142.0,1053.0,177.0,1.0,1.0,4.0,0.0,2.0,1.0
+Rumble,Azir,Trundle,Alistar,Xayah,0,EWC,0.0,1.0,-11149.0,-4142.0,-1053.0,-177.0,0.0,0.0,0.0,4.0,1.0,2.0
+Yone,Wukong,Rell,Sivir,Ahri,1,EWC,1.0,0.0,530.0,-1805.0,-818.0,-280.0,1.0,1.0,3.0,2.0,0.0,3.0
+Sion,Pantheon,Akali,Neeko,Kai'Sa,0,EWC,0.0,1.0,-530.0,1805.0,818.0,280.0,0.0,0.0,2.0,3.0,3.0,0.0
+Jarvan IV,Jhin,Ryze,Bard,K'Sante,1,EWC,1.0,0.0,4350.0,933.0,-698.0,-375.0,1.0,1.0,2.0,2.0,2.0,1.0
+Galio,Lee Sin,Ezreal,Leona,Kindred,0,EWC,0.0,1.0,-4350.0,-933.0,698.0,375.0,0.0,0.0,2.0,2.0,1.0,2.0
+Taliyah,Xayah,Rakan,K'Sante,Jarvan IV,0,EWC,0.0,1.0,-1149.0,-1346.0,-830.0,-136.0,0.0,0.0,3.0,3.0,1.0,2.0
+Orianna,Nocturne,Neeko,Kai'Sa,Sion,1,EWC,1.0,0.0,1149.0,1346.0,830.0,136.0,1.0,1.0,3.0,3.0,2.0,1.0
+Maokai,Jax,Azir,Sivir,Alistar,1,EWC,1.0,0.0,4660.0,3308.0,2379.0,1391.0,1.0,1.0,3.0,2.0,3.0,0.0
+Gwen,Xin Zhao,Sylas,Ezreal,Bard,0,EWC,0.0,1.0,-4660.0,-3308.0,-2379.0,-1391.0,0.0,0.0,2.0,3.0,0.0,3.0
+Vi,Aurora,Rumble,Kalista,Renata Glasc,0,EWC,0.0,1.0,-3167.0,-336.0,-600.0,-576.0,0.0,1.0,2.0,2.0,3.0,0.0
+Trundle,Rell,Ornn,Corki,LeBlanc,1,EWC,1.0,0.0,3167.0,336.0,600.0,576.0,1.0,0.0,2.0,2.0,0.0,3.0
+Pantheon,Rumble,Azir,Neeko,Ezreal,1,EWC,1.0,0.0,7760.0,4536.0,1128.0,830.0,1.0,1.0,4.0,0.0,0.0,3.0
+Taliyah,Poppy,Aurora,Corki,Nautilus,0,EWC,0.0,1.0,-7760.0,-4536.0,-1128.0,-830.0,0.0,0.0,0.0,4.0,3.0,0.0
+Gwen,Galio,Xin Zhao,Jinx,Alistar,1,EWC,1.0,0.0,2017.0,305.0,1973.0,1094.0,1.0,1.0,3.0,1.0,3.0,0.0
+Ryze,Ambessa,Trundle,Kai'Sa,Rell,0,EWC,0.0,1.0,-2017.0,-305.0,-1973.0,-1094.0,0.0,0.0,1.0,3.0,0.0,3.0
+Varus,Skarner,Viktor,Tahm Kench,Jax,1,EWC,1.0,0.0,7750.0,3463.0,977.0,919.0,1.0,1.0,2.0,2.0,3.0,0.0
+Ahri,Jarvan IV,Rakan,Miss Fortune,K'Sante,0,EWC,0.0,1.0,-7750.0,-3463.0,-977.0,-919.0,0.0,0.0,2.0,2.0,0.0,3.0
+Vi,Neeko,Taliyah,Ezreal,Rumble,0,EWC,1.0,0.0,-2137.0,-4580.0,-2938.0,-557.0,0.0,1.0,1.0,4.0,0.0,3.0
+Azir,Skarner,Bard,Corki,Aurora,1,EWC,0.0,1.0,2137.0,4580.0,2938.0,557.0,1.0,0.0,4.0,1.0,3.0,0.0
+Ryze,Wukong,Gwen,Lucian,Braum,1,EWC,0.0,1.0,2048.0,1189.0,655.0,598.0,1.0,1.0,3.0,2.0,2.0,1.0
+Cassiopeia,Senna,Sett,Lillia,Rakan,0,EWC,1.0,0.0,-2048.0,-1189.0,-655.0,-598.0,0.0,0.0,2.0,3.0,1.0,2.0
+Azir,Lucian,Braum,Aurora,Trundle,1,EWC,1.0,0.0,11731.0,8465.0,6419.0,672.0,1.0,1.0,2.0,2.0,3.0,0.0
+Gwen,Annie,Wukong,Jhin,Rell,0,EWC,0.0,1.0,-11731.0,-8465.0,-6419.0,-672.0,0.0,0.0,2.0,2.0,0.0,3.0
+Taliyah,Corki,Skarner,Rakan,Rumble,0,EWC,0.0,1.0,-7356.0,-2907.0,-1205.0,-664.0,0.0,0.0,3.0,2.0,3.0,0.0
+Galio,Xin Zhao,Alistar,Senna,Yorick,1,EWC,1.0,0.0,7356.0,2907.0,1205.0,664.0,1.0,1.0,2.0,3.0,0.0,3.0
+Maokai,Jayce,Yone,Rell,Corki,0,EWC,0.0,1.0,-9285.0,-4268.0,-2139.0,-839.0,0.0,0.0,0.0,4.0,0.0,3.0
+Gwen,Skarner,Smolder,Nautilus,Jhin,1,EWC,1.0,0.0,9285.0,4268.0,2139.0,839.0,1.0,1.0,4.0,0.0,3.0,0.0
+Trundle,Annie,Renekton,Xayah,Rakan,1,EWC,0.0,1.0,3659.0,1596.0,-433.0,418.0,1.0,1.0,3.0,2.0,3.0,0.0
+Azir,Vi,Aatrox,Alistar,Sivir,0,EWC,1.0,0.0,-3659.0,-1596.0,433.0,-418.0,0.0,0.0,2.0,3.0,0.0,3.0
+Lucian,Braum,Xin Zhao,Ambessa,Galio,1,EWC,1.0,0.0,3335.0,2762.0,2425.0,225.0,1.0,1.0,3.0,2.0,2.0,1.0
+Ezreal,Karma,Wukong,Sion,Syndra,0,EWC,0.0,1.0,-3335.0,-2762.0,-2425.0,-225.0,0.0,0.0,2.0,3.0,1.0,2.0

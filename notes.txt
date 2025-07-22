@@ -1,0 +1,6 @@
+precisamos pegar todos os tops, jngs,mids,adcs,sups
+transformar isso tudo em cada comp, ao mesmo tempo em que pegamos os resultados
+vai ter que ser algo assim:
+    [aatrox ,sejuani , syndra, zeri, lulu, 0(resultado)] 
+    isso aqui acima vai gerar uma composição apartir de alguma coisa [x]
+    nesse [x] precisamos identificar parametros que vão se adeaquar bem à precisão do modelo adequado

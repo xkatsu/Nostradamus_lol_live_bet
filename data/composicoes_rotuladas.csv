@@ -1,0 +1,1089 @@
+pick1,pick2,pick3,pick4,pick5,result,poke_avg,cc_avg,mobilidade_avg,tipo_predito
+Taliyah,Vi,Ornn,Lucian,Nami,0,0.5039999999999999,0.6,0.8019999999999999, POKE
+Sion,Pantheon,Sylas,Renata Glasc,Kalista,1,0.45600000000000007,0.6,0.8099999999999999,PEEL
+Ryze,Lee Sin,Yorick,Xayah,Rakan,1,0.508,0.8,0.8299999999999998,PEEL
+Xin Zhao,Akali,Jax,Corki,Nautilus,0,0.40599999999999997,0.4,0.8239999999999998, DPS
+Gwen,Sejuani,Tristana,Jhin,Rell,0,0.5660000000000001,0.6,0.782, POKE
+Miss Fortune,Azir,Poppy,Gragas,Alistar,1,0.556,0.8,0.78, POKE
+Rumble,Braum,Senna,Diana,Viego,0,0.512,0.6,0.78, POKE
+Ezreal,Ahri,Karma,Wukong,Aatrox,1,0.5740000000000001,0.8,0.868,FRONT2BACK
+Neeko,Poppy,Kalista,Ambessa,Galio,1,0.504,0.8,0.7939999999999999, POKE
+Rumble,Pantheon,Orianna,Jhin,Leona,0,0.5399999999999999,0.6,0.7719999999999999, POKE
+Annie,Sion,Lee Sin,Senna,Nautilus,0,0.466,1.0,0.756, SIEGE
+Yorick,Wukong,Sylas,Ezreal,Rell,1,0.42200000000000004,0.8,0.826,PEEL
+Jayce,Ashe,Renata Glasc,Skarner,Ryze,0,0.62,0.8,0.758, BURST
+Xayah,Rakan,Renekton,Ahri,Xin Zhao,1,0.518,0.8,0.8720000000000001,TEAMFIGHT
+Azir,Skarner,Gwen,Nautilus,Tristana,0,0.5720000000000001,0.8,0.774, POKE
+Taliyah,Xin Zhao,Ambessa,Senna,Alistar,1,0.514,0.8,0.806, POKE
+Rumble,Nocturne,Orianna,Ezreal,Braum,1,0.55,0.6,0.7979999999999999, POKE
+Jayce,Viktor,Wukong,Rell,Kai'Sa,0,0.5720000000000001,0.6,0.808, POKE
+Vi,Zeri,Lulu,Aurora,Sion,1,0.504,0.8,0.8140000000000001,PEEL
+Lucian,Nami,Poppy,Renekton,Hwei,0,0.472,0.8,0.8099999999999999,PEEL
+Varus,Leona,Annie,Trundle,Aatrox,0,0.47000000000000003,0.8,0.768, SIEGE
+Neeko,Kalista,Ahri,Lee Sin,Ornn,1,0.536,0.8,0.8240000000000001,PEEL
+Taliyah,Xin Zhao,Ornn,Kalista,Renata Glasc,1,0.5039999999999999,0.6,0.798, POKE
+Varus,Rumble,Azir,Skarner,Gwen,0,0.646,0.8,0.758, POKE
+Neeko,Maokai,Jayce,Sivir,Aatrox,1,0.588,0.6,0.78, POKE
+Pantheon,Kai'Sa,Sion,Rakan,Viktor,0,0.504,0.6,0.8140000000000001,PEEL
+Vi,Ziggs,Renekton,Senna,Nautilus,1,0.526,0.8,0.778, POKE
+Ezreal,Ahri,K'Sante,Viego,Leona,0,0.48200000000000004,0.6,0.8300000000000001,PEEL
+Lucian,Milio,Gnar,Corki,Lillia,0,0.614,0.6,0.8200000000000001,PEEL
+Sejuani,Aphelios,Lulu,Sylas,Tristana,1,0.528,0.6,0.8160000000000001,PEEL
+Neeko,Poppy,Kalista,Annie,Yorick,1,0.518,0.8,0.768, SIEGE
+Rumble,Leona,Jhin,Ryze,Viego,0,0.55,0.6,0.782, POKE
+Pantheon,Ahri,Ezreal,Rell,K'Sante,0,0.472,0.6,0.82,PEEL
+Sion,Azir,Kai'Sa,Wukong,Alistar,1,0.514,0.8,0.8140000000000001,PEEL
+Gwen,Naafiri,Orianna,Ashe,Braum,0,0.556,0.8,0.7759999999999999, POKE
+Miss Fortune,Nidalee,Xin Zhao,LeBlanc,Bard,1,0.55,0.4,0.8440000000000001, SPLIT
+Pantheon,Varus,Ahri,Renekton,Alistar,1,0.47000000000000003,0.6,0.826,PEEL
+Ryze,Yorick,Xin Zhao,Ezreal,Braum,0,0.47000000000000003,0.8,0.798, PEEL
+Taliyah,Xayah,Rakan,Trundle,K'Sante,1,0.496,0.6,0.808, POKE
+Sion,Vi,Annie,Zeri,Lulu,0,0.5040000000000001,0.8,0.8, POKE
+Jayce,Azir,Poppy,Lucian,Leona,1,0.614,0.6,0.79, POKE
+Nidalee,Miss Fortune,Skarner,Rell,LeBlanc,0,0.48600000000000004,0.4,0.8, BURST
+Rumble,Kai'Sa,Wukong,Galio,Sett,1,0.48,0.8,0.826,PEEL
+Nautilus,Ornn,Naafiri,Tristana,Mel,0,0.472,0.6,0.792, PEEL
+Sejuani,Ambessa,Aurora,Sivir,Bard,1,0.5459999999999999,0.8,0.7879999999999999, POKE
+Jax,Jhin,Viktor,Jarvan IV,Renata Glasc,0,0.522,0.6,0.7939999999999999, POKE
+Taliyah,Varus,Nautilus,Sion,Pantheon,0,0.45599999999999996,0.4,0.76, TEAMFIGHT
+Lucian,Sejuani,Nami,Sylas,Olaf,1,0.44400000000000006,0.6,0.8240000000000001,PEEL
+Azir,Trundle,Ambessa,Smolder,Braum,1,0.454,1.0,0.7859999999999999, PEEL
+Xin Zhao,Rell,Renekton,Senna,Ziggs,0,0.526,0.8,0.7839999999999999, POKE
+Yone,Lillia,Miss Fortune,Rakan,K'Sante,1,0.476,0.6,0.834,FLEX
+Annie,Naafiri,Ezreal,Leona,Gnar,0,0.502,0.6,0.79, POKE
+Rumble,Maokai,Tristana,Jhin,Gragas,1,0.6140000000000001,0.6,0.776, POKE
+Ahri,Wukong,Alistar,Ashe,Nidalee,0,0.552,0.8,0.836,FLEX
+Taliyah,Naafiri,Gwen,Jhin,Leona,0,0.55,0.4,0.7819999999999998,MAPA
+Senna,Nautilus,Xin Zhao,Gnar,Ryze,1,0.492,1.0,0.776, PEEL
+Azir,Sejuani,Renekton,Xayah,Rakan,0,0.554,0.8,0.828,PEEL
+Lucian,Annie,Trundle,Yorick,Milio,1,0.5319999999999999,0.8,0.78, POKE
+Varus,Dr. Mundo,Ornn,Neeko,Viktor,1,0.518,0.8,0.7539999999999999, SIEGE
+Jayce,Maokai,Riven,Alistar,Smolder,0,0.398,0.6,0.808,ENGAGE
+Gwen,Naafiri,Zoe,Smolder,Leona,0,0.446,0.6,0.82,PEEL
+Taliyah,Xin Zhao,Fiora,Senna,Rakan,1,0.522,0.6,0.8299999999999998,PEEL
+Pantheon,Jayce,Ryze,Kai'Sa,Alistar,0,0.572,0.4,0.8100000000000002, SPLIT
+Rumble,Taliyah,Vi,Ezreal,Braum,1,0.54,0.6,0.798, POKE
+Vi,Sion,Azir,Jinx,Nautilus,0,0.514,0.8,0.796, POKE
+Poppy,Annie,Camille,Alistar,Ezreal,1,0.49000000000000005,0.8,0.796, PEEL
+Xin Zhao,Sion,Azir,Miss Fortune,Leona,0,0.524,0.8,0.784, POKE
+Yorick,Wukong,Ahri,Rell,Lucian,1,0.466,0.8,0.8300000000000001,PEEL
+Rumble,Xin Zhao,Lucian,Taric,Ahri,1,0.5359999999999999,0.8,0.8240000000000001,PEEL
+Varus,Lee Sin,Ryze,Rakan,Taliyah,0,0.578,0.6,0.808, POKE
+Yone,Ashe,Seraphine,Trundle,Ornn,0,0.496,0.8,0.7759999999999999, POKE
+Kalista,Renata Glasc,Ambessa,Sejuani,Aurora,1,0.5359999999999999,0.8,0.7939999999999999, POKE
+Jayce,Senna,Aurora,Jax,Nautilus,0,0.5740000000000001,0.6,0.78, POKE
+Gwen,Annie,Neeko,Viego,Kai'Sa,1,0.614,0.6,0.79, POKE
+Senna,Jax,Jayce,Galio,Alistar,1,0.516,0.6,0.7979999999999999, POKE
+Rumble,Xin Zhao,Ahri,Ezreal,Poppy,0,0.546,0.8,0.8300000000000001,PEEL
+Lucian,Ambessa,Nami,Kindred,Aurora,0,0.616,0.6,0.82,PEEL
+Gwen,Neeko,Miss Fortune,Wukong,LeBlanc,1,0.5760000000000001,0.6,0.8119999999999999,PEEL
+Varus,Viego,Rumble,Nautilus,Viktor,1,0.54,0.6,0.776, POKE
+Miss Fortune,Vi,Ornn,Rakan,Akali,0,0.45599999999999996,0.6,0.828,PEEL
+Varus,Pantheon,Azir,Dr. Mundo,Rell,1,0.518,0.6,0.776, POKE
+Jhin,Aurora,Skarner,Orianna,Alistar,0,0.524,0.8,0.7659999999999999, SIEGE
+Corki,Pantheon,Poppy,Ahri,Ambessa,0,0.51,0.6,0.8140000000000001,PEEL
+Rell,Vi,Varus,Zoe,Renekton,1,0.47000000000000003,0.6,0.82,PEEL
+Tristana,Vi,Neeko,Galio,Dr. Mundo,0,0.476,0.8,0.8039999999999999,PEEL
+Ezreal,Sejuani,Rell,Akali,Olaf,1,0.396,0.4,0.82, DPS
+Xin Zhao,Yorick,Annie,Miss Fortune,Rell,0,0.47000000000000003,0.8,0.7719999999999999, PEEL
+Kha'Zix,Sion,Ryze,Kai'Sa,Alistar,1,0.466,0.6,0.8100000000000002,PEEL
+Ezreal,Fiora,Ahri,Bard,Skarner,0,0.5119999999999999,0.6,0.8399999999999999,FLEX
+Vi,Kai'Sa,Taliyah,Rell,Renekton,1,0.46399999999999997,0.6,0.82,PEEL
+Xin Zhao,Ambessa,Ahri,Braum,Ezreal,1,0.52,0.8,0.836,FLEX
+Taliyah,Vi,Camille,Nautilus,Senna,0,0.506,0.8,0.792, POKE
+Vi,Ahri,Braum,Aatrox,Corki,1,0.484,0.8,0.8280000000000001,PEEL
+Nocturne,Leona,Sylas,Smolder,Renekton,0,0.326,0.8,0.836, FRONT2BACK
+Rumble,Naafiri,Orianna,Xayah,Rakan,0,0.5880000000000001,0.6,0.8299999999999998,PEEL
+Sejuani,Jayce,Rell,Akali,Jhin,1,0.508,0.4,0.7859999999999999, WOMBOCOMBO
+Pantheon,Jinx,Tahm Kench,Ornn,Syndra,1,0.462,0.6,0.788, PEEL
+Senna,Nautilus,Rumble,Taliyah,Trundle,0,0.532,0.8,0.7539999999999999, SIEGE
+Azir,Wukong,Sion,Ashe,Renata Glasc,0,0.578,1.0,0.7799999999999999, POKE
+Miss Fortune,Pantheon,Leona,Gnar,Aurora,1,0.492,0.6,0.776, PEEL
+Lucian,Milio,Skarner,Camille,Aurora,1,0.56,0.8,0.8039999999999999, POKE
+Maokai,Yone,Gnar,Rakan,Xayah,0,0.466,0.6,0.8240000000000001,PEEL
+Jayce,Jhin,Naafiri,Amumu,Galio,0,0.538,0.4,0.7859999999999999,MAPA
+Varus,Ambessa,Lee Sin,Karma,Sett,1,0.518,0.8,0.8320000000000001,FLEX
+Vi,Ahri,Senna,Jayce,Nautilus,1,0.588,0.8,0.8059999999999998, POKE
+Rumble,Xin Zhao,Sylas,Xayah,Rakan,0,0.53,0.8,0.852,FLEX
+Yorick,Jhin,Azir,Rell,Sejuani,1,0.512,0.8,0.7639999999999999, SIEGE
+Pantheon,Varus,Rumble,Aurora,Leona,0,0.53,0.6,0.7719999999999999, POKE
+Gwen,Nocturne,Varus,Ryze,Shen,0,0.54,0.6,0.7819999999999998, POKE
+Ambessa,Naafiri,Aurora,Alistar,Ezreal,1,0.524,0.6,0.828,PEEL
+Taliyah,Kalista,Renata Glasc,Skarner,Ambessa,1,0.5359999999999999,0.6,0.7879999999999999, POKE
+Nidalee,Vi,Orianna,Ashe,Seraphine,0,0.626,0.8,0.7979999999999998, POKE
+Gwen,Lucian,Nami,Taliyah,Poppy,1,0.562,0.6,0.7859999999999999, POKE
+Varus,Neeko,Ambessa,Sejuani,Yone,0,0.514,0.6,0.7939999999999999, POKE
+Gwen,Ezreal,Karma,Sylas,Volibear,1,0.5559999999999999,0.8,0.82,PEEL
+Xayah,Rakan,Ryze,Xin Zhao,Sion,0,0.504,0.8,0.8240000000000001,PEEL
+Xin Zhao,Ahri,Jax,Tristana,Taric,1,0.47000000000000003,0.6,0.8460000000000001, SIEGE
+Trundle,Yorick,Sylas,Nautilus,Senna,0,0.414,1.0,0.776,SPLIT
+Renekton,Lillia,Alistar,Kai'Sa,Galio,0,0.41600000000000004,0.8,0.8320000000000001, SIEGE
+Lucian,Ornn,Braum,Nocturne,Ahri,1,0.472,0.6,0.818,PEEL
+Taliyah,Nidalee,Wukong,Xayah,Rakan,0,0.578,0.4,0.8460000000000001, SPLIT
+Xin Zhao,Azir,Yorick,Senna,Alistar,1,0.528,1.0,0.7979999999999999, POKE
+Yone,Sejuani,Ziggs,Rell,Yorick,1,0.406,0.6,0.768,SPLIT
+Ahri,Miss Fortune,Leona,Wukong,Gnar,0,0.49799999999999994,0.8,0.8119999999999999,PEEL
+Rumble,Pantheon,Taliyah,Kai'Sa,Nautilus,1,0.53,0.4,0.788,MAPA
+Gwen,Naafiri,Ahri,Jhin,Leona,0,0.5559999999999999,0.6,0.808, POKE
+Varus,Ambessa,Xin Zhao,Ryze,Alistar,1,0.504,0.8,0.806, POKE
+Sion,Senna,Yone,Maokai,Karma,0,0.48199999999999993,0.8,0.7859999999999999, PEEL
+Yone,Wukong,Senna,Viktor,Alistar,0,0.492,0.8,0.8160000000000001,PEEL
+Neeko,Nocturne,Tristana,K'Sante,Sylas,1,0.492,0.6,0.826,PEEL
+Rumble,Nocturne,Tristana,Lucian,Rell,0,0.5820000000000001,0.4,0.826, BURST
+Jayce,Vi,Akali,Sivir,Nautilus,1,0.524,0.4,0.8019999999999999, BURST
+Pantheon,Lucian,Braum,Ryze,Camille,0,0.496,0.6,0.8039999999999999, POKE
+Naafiri,Miss Fortune,Sion,Neeko,Hwei,1,0.526,0.6,0.7879999999999999, POKE
+Viktor,Trundle,Rell,Jinx,Renekton,0,0.45599999999999996,0.8,0.798, PEEL
+Xin Zhao,Orianna,Ambessa,Rakan,Xayah,1,0.5519999999999999,0.8,0.842,FLEX
+Vi,Taliyah,Kai'Sa,Alistar,Aatrox,1,0.4779999999999999,0.6,0.8379999999999999,FLEX
+Ezreal,Naafiri,Galio,Neeko,Gangplank,0,0.5660000000000001,0.4,0.808, BURST
+Rell,Ashe,Ahri,Trundle,Gwen,1,0.544,1.0,0.7859999999999999, POKE
+Taliyah,Alistar,Miss Fortune,Xin Zhao,Jayce,0,0.5820000000000001,0.4,0.8020000000000002,MAPA
+Yorick,Wukong,Sylas,Jhin,Galio,1,0.438,0.8,0.8039999999999999,PEEL
+Viego,Ahri,Renekton,Kai'Sa,Poppy,0,0.48,0.6,0.8460000000000001,FLEX
+Pantheon,Miss Fortune,Rell,Gwen,Azir,1,0.5980000000000001,0.6,0.78, POKE
+Ezreal,Leona,Ambessa,Maokai,Akali,0,0.43999999999999995,0.6,0.8099999999999999,PEEL
+Pantheon,Ornn,Jhin,Fiddlesticks,Orianna,0,0.48200000000000004,0.6,0.7659999999999998, SIEGE
+Xin Zhao,Ashe,Braum,Jax,Hwei,1,0.45600000000000007,0.8,0.806,PEEL
+Ezreal,Poppy,Udyr,Xin Zhao,Hwei,0,0.446,0.6,0.828,PEEL
+Miss Fortune,Rell,Taliyah,Vayne,Viego,1,0.592,0.2,0.808,MAPA
+Varus,Vi,Aurora,Aatrox,Rell,0,0.4779999999999999,0.8,0.8039999999999999,PEEL
+Hwei,Miss Fortune,Nocturne,Ambessa,Alistar,1,0.5,0.6,0.818,PEEL
+Vi,Ahri,K'Sante,Sivir,Lulu,1,0.5199999999999999,0.8,0.8200000000000001,PEEL
+Jhin,Xin Zhao,Taliyah,Sion,Alistar,0,0.466,0.6,0.7879999999999999, PEEL
+Varus,Pantheon,Ahri,Rumble,Poppy,1,0.536,0.6,0.798, POKE
+Ziggs,Naafiri,Annie,Rakan,Viego,0,0.55,0.4,0.8019999999999999, BURST
+Vi,Gwen,Miss Fortune,Ahri,Neeko,0,0.62,0.8,0.812,PEEL
+Rumble,Varus,Rell,Maokai,Yasuo,1,0.466,0.6,0.776, PEEL
+Yone,Aphelios,Gragas,Neeko,Xin Zhao,0,0.502,0.6,0.8039999999999999, POKE
+Senna,Gwen,Nautilus,Sylas,Trundle,1,0.484,1.0,0.776, PEEL
+Jarvan IV,Mel,Rumble,Nautilus,Senna,1,0.546,1.0,0.766, SIEGE
+Ahri,Corki,Yorick,Poppy,Braum,0,0.45,0.8,0.7839999999999999, PEEL
+Jayce,Sejuani,Nautilus,Xayah,Viktor,1,0.556,0.6,0.78, POKE
+Rumble,Corki,Braum,Wukong,Sylas,0,0.48199999999999993,0.8,0.8019999999999999,PEEL
+Xin Zhao,Ambessa,Azir,Aphelios,Nautilus,1,0.534,0.8,0.7919999999999999, POKE
+Senna,Trundle,Poppy,Sylas,Warwick,0,0.418,1.0,0.798, PEEL
+Varus,Viktor,Rell,Sejuani,Bel'Veth,0,0.462,0.6,0.772, PEEL
+Orianna,Xin Zhao,Alistar,Corki,Shen,1,0.45599999999999996,0.8,0.7979999999999998, PEEL
+Wukong,Jinx,Braum,Camille,Galio,1,0.438,0.8,0.8139999999999998,PEEL
+Leona,K'Sante,Kai'Sa,Hwei,Ivern,0,0.4640000000000001,0.8,0.8020000000000002,PEEL
+Rumble,Taliyah,Nautilus,Miss Fortune,Naafiri,0,0.55,0.4,0.78,MAPA
+Lucian,Ambessa,Ahri,Milio,Sejuani,1,0.574,0.8,0.8320000000000001, PEEL
+Neeko,Ezreal,Shen,Trundle,Hwei,0,0.508,0.8,0.7899999999999998, POKE
+K'Sante,Varus,Alistar,Wukong,Orianna,1,0.45600000000000007,0.8,0.7939999999999999, PEEL
+Viktor,Trundle,Sion,Zeri,Lulu,0,0.4959999999999999,0.8,0.792, POKE
+Yorick,Sylas,Kindred,Rakan,Jinx,1,0.524,0.6,0.852,FLEX
+Xin Zhao,Ornn,Rell,Miss Fortune,Ryze,0,0.466,0.8,0.78, PEEL
+Rumble,Sejuani,Leona,Corki,Zeri,1,0.556,0.6,0.7900000000000001, POKE
+Wukong,Rell,Kai'Sa,Akali,Ornn,1,0.398,0.6,0.82,ENGAGE
+Nidalee,Jhin,Alistar,Lillia,Yone,0,0.502,0.4,0.8320000000000001, SPLIT
+Nautilus,Aphelios,Maokai,Gnar,Viktor,0,0.438,0.8,0.7479999999999999, SIEGE
+Kalista,Renata Glasc,Viego,Sion,Sylas,1,0.4659999999999999,0.6,0.82,PEEL
+Jayce,Maokai,Azir,Corki,Tahm Kench,1,0.6140000000000001,0.6,0.766, BURST
+Ashe,Nocturne,Orianna,Renekton,Seraphine,0,0.5700000000000001,0.8,0.7979999999999998, POKE
+Vi,Lucian,Nami,Smolder,Yorick,1,0.45,0.8,0.8240000000000001,PEEL
+Xayah,Rakan,Galio,Jarvan IV,Renekton,0,0.454,0.8,0.836, SIEGE
+Jhin,Blitzcrank,Jayce,Mel,Poppy,1,0.588,0.6,0.7639999999999999, BURST
+Seraphine,Karma,Ambessa,Yone,Malphite,0,0.484,0.8,0.8099999999999999,PEEL
+Pantheon,Gwen,Azir,Ezreal,Alistar,1,0.598,0.6,0.8100000000000002, POKE
+Xin Zhao,Viktor,Yorick,Ashe,Neeko,0,0.55,1.0,0.7819999999999998, POKE
+Neeko,Kayn,Taliyah,Jhin,Ambessa,1,0.5980000000000001,0.4,0.7939999999999998,MAPA
+Lillia,Braum,Ekko,Ashe,Renekton,0,0.442,0.8,0.8140000000000001,PEEL
+Pantheon,Azir,Sion,Kai'Sa,Elise,1,0.5319999999999999,0.6,0.808, POKE
+Rumble,Xin Zhao,Ahri,Smolder,Rell,0,0.43600000000000005,1.0,0.8240000000000001,PEEL
+Pantheon,Rumble,Ryze,Xayah,Rakan,0,0.578,0.6,0.82,PEEL
+Kalista,Renata Glasc,Galio,Xin Zhao,Azir,1,0.5780000000000001,0.8,0.808, POKE
+Lee Sin,Yasuo,Nautilus,Jayce,Annie,0,0.48200000000000004,0.6,0.788, PEEL
+Varus,Neeko,Gwen,Viego,Aurora,1,0.614,0.6,0.782, POKE
+Yorick,Vel'Koz,Galio,Vi,Xerath,1,0.492,1.0,0.768, SIEGE
+Taliyah,Jax,Varus,Neeko,Trundle,0,0.53,0.4,0.7819999999999998,MAPA
+Taliyah,Naafiri,Gwen,Senna,Nautilus,1,0.55,0.6,0.7759999999999999, POKE
+Vi,Sylas,Aurora,Lucian,Braum,0,0.48200000000000004,0.8,0.82,PEEL
+Taliyah,K'Sante,Volibear,Aphelios,Thresh,1,0.41200000000000003,0.6,0.76,SPLIT
+Xin Zhao,Nidalee,Senna,Nautilus,Hwei,0,0.516,0.8,0.8, POKE
+Senna,Trundle,Gwen,Nautilus,Sylas,1,0.484,1.0,0.776, PEEL
+Jinx,Dr. Mundo,Gangplank,Rell,Ryze,0,0.518,0.6,0.7859999999999999, POKE
+Poppy,Ezreal,Ahri,Ornn,Wukong,1,0.472,0.8,0.8240000000000001,PEEL
+Miss Fortune,Alistar,Viktor,Jayce,Maokai,0,0.5660000000000001,0.6,0.7740000000000001, POKE
+Vi,Ahri,Vladimir,Lucian,Rell,1,0.49799999999999994,0.6,0.8300000000000001,PEEL
+Gwen,Poppy,Viktor,Ezreal,Leona,0,0.524,0.8,0.782, POKE
+Yorick,Lillia,Tristana,Jhin,Sett,1,0.53,0.6,0.826,PEEL
+Corki,Rell,Cho'Gath,Diana,Yasuo,0,0.44400000000000006,0.4,0.784, WOMBOCOMBO
+Pantheon,Lucian,Nami,Ahri,Jax,1,0.518,0.4,0.8459999999999999, SPLIT
+Naafiri,Xayah,Nautilus,Orianna,Kennen,0,0.54,0.6,0.7979999999999998, POKE
+Sion,Kalista,Neeko,Wukong,Orianna,0,0.53,0.8,0.798, POKE
+Ryze,Yorick,Alistar,Zeri,Lee Sin,1,0.4600000000000001,0.8,0.82,PEEL
+Neeko,Kai'Sa,Skarner,Hwei,Aatrox,1,0.512,0.8,0.806, POKE
+Sion,Leona,Draven,Lissandra,Lee Sin,0,0.472,0.8,0.78, PEEL
+Xin Zhao,Kai'Sa,Nautilus,Yorick,Ahri,0,0.466,0.8,0.8239999999999998,PEEL
+Varus,Lee Sin,Renata Glasc,Sion,Ryze,1,0.504,0.8,0.776, POKE
+Senna,Gwen,Nautilus,Trundle,Orianna,0,0.532,1.0,0.7539999999999999, SIEGE
+Azir,Xin Zhao,Jayce,Ezreal,Alistar,1,0.6399999999999999,0.6,0.8240000000000001,PEEL
+Varus,Skarner,Neeko,Rumble,Corki,0,0.6300000000000001,0.6,0.758, BURST
+Kalista,Pantheon,Nautilus,Sion,Zoe,1,0.462,0.4,0.8039999999999999, BURST
+Varus,Taliyah,Pantheon,Sion,Bard,0,0.5040000000000001,0.4,0.7819999999999999, WOMBOCOMBO
+Lucian,Ahri,Nami,Jarvan IV,Ornn,1,0.51,0.8,0.818,PEEL
+Rumble,Senna,Nautilus,Wukong,Ahri,0,0.546,1.0,0.8019999999999999, POKE
+Ornn,Miss Fortune,Rell,Viego,Annie,1,0.476,0.6,0.766, SIEGE
+Rell,Miss Fortune,Syndra,Nocturne,Ambessa,1,0.5299999999999999,0.6,0.7979999999999999, POKE
+Corki,Alistar,Lux,Naafiri,Renekton,0,0.526,0.6,0.8140000000000001,PEEL
+Ahri,Rell,Naafiri,Ezreal,Gnar,1,0.508,0.6,0.8300000000000001,PEEL
+Miss Fortune,Aurora,Leona,Xin Zhao,Camille,0,0.506,0.8,0.8019999999999999, POKE
+Pantheon,Ahri,Neeko,Jhin,Ambessa,0,0.594,0.6,0.8099999999999999, POKE
+Miss Fortune,Viktor,Leona,Naafiri,K'Sante,1,0.476,0.6,0.7859999999999999, PEEL
+Jayce,Zeri,Lulu,Zoe,Xin Zhao,0,0.626,0.4,0.8459999999999999, SPLIT
+Gragas,Lucian,Nami,Azir,Kha'Zix,1,0.6199999999999999,0.6,0.812,PEEL
+Sejuani,Zeri,Lulu,Yorick,Orianna,1,0.492,0.8,0.7979999999999998, PEEL
+Lucian,Nami,Ornn,Poppy,Sylas,0,0.43999999999999995,0.8,0.8019999999999999,PEEL
+Jayce,Sejuani,Mel,Renekton,Leona,0,0.454,0.8,0.7799999999999999, PEEL
+Varus,Ahri,Ambessa,Wukong,Rell,1,0.51,0.8,0.82,PEEL
+Rumble,Yone,Sejuani,Xayah,Rakan,1,0.514,0.6,0.8299999999999998,PEEL
+Xin Zhao,Jhin,Gwen,Akali,Nautilus,0,0.48200000000000004,0.6,0.7979999999999999, PEEL
+Xin Zhao,Taliyah,Miss Fortune,K'Sante,Elise,0,0.484,0.6,0.8019999999999999,PEEL
+Ahri,Naafiri,Nidalee,Ezreal,Karma,1,0.6359999999999999,0.4,0.8620000000000001, POKE
+Xin Zhao,Jhin,Hwei,Aatrox,Blitzcrank,0,0.48,0.8,0.8119999999999999,PEEL
+Miss Fortune,Trundle,Nautilus,Viktor,Yone,1,0.484,0.6,0.78, PEEL
+Varus,Ivern,Viktor,Yorick,Braum,1,0.492,0.8,0.7659999999999999, SIEGE
+Ryze,Pantheon,Ambessa,Rell,Senna,0,0.514,0.8,0.784, POKE
+Azir,Wukong,Rumble,Ezreal,Alistar,0,0.598,0.8,0.8200000000000001,PEEL
+Naafiri,Ahri,Galio,Corki,Braum,1,0.488,0.6,0.8059999999999998,PEEL
+Corki,Wukong,Orianna,Rell,Sion,1,0.45599999999999996,0.8,0.78, PEEL
+Pantheon,Jhin,Hwei,Nautilus,Sett,0,0.45,0.6,0.796, PEEL
+Taliyah,Sion,Naafiri,Caitlyn,Karma,0,0.58,0.4,0.7959999999999999,MAPA
+Zoe,Wukong,Aatrox,Lucian,Nami,1,0.532,0.6,0.852,FLEX
+Pantheon,Taliyah,Tristana,Ambessa,Neeko,0,0.578,0.4,0.806,MAPA
+Xin Zhao,Syndra,Cho'Gath,Xayah,Rakan,1,0.526,0.8,0.8240000000000001,PEEL
+Pantheon,Annie,Yorick,Rakan,Kai'Sa,0,0.508,0.6,0.8059999999999998, POKE
+Azir,Xin Zhao,Mordekaiser,Braum,Lucian,1,0.53,0.8,0.8019999999999999, POKE
+Neeko,Skarner,Ahri,Ambessa,Ezreal,1,0.578,0.8,0.8139999999999998,PEEL
+Orianna,Nocturne,Leona,Aatrox,Sivir,0,0.49799999999999994,0.6,0.8039999999999999, POKE
+Yone,Lillia,Nautilus,Miss Fortune,Ambessa,1,0.476,0.6,0.8140000000000001,PEEL
+Lucian,Sejuani,Milio,Sylas,Renekton,0,0.48,0.8,0.8320000000000001,FLEX
+Varus,Annie,Naafiri,Sion,Leona,0,0.466,0.6,0.7619999999999999, SIEGE
+Xin Zhao,Taliyah,Rell,Ezreal,Shen,1,0.466,0.6,0.8039999999999999,PEEL
+Naafiri,Jhin,Rumble,Nautilus,Aurora,1,0.55,0.6,0.776, POKE
+Varus,Lillia,Galio,Rell,Yone,0,0.434,0.6,0.8039999999999999,PEEL
+Azir,Jayce,Wukong,Ashe,Braum,0,0.646,0.8,0.784, POKE
+Rumble,Pantheon,Jhin,Alistar,Aurelion Sol,1,0.546,0.6,0.784, POKE
+Sejuani,Renekton,Hwei,Ashe,Seraphine,0,0.52,1.0,0.784, POKE
+Sion,Trundle,Taliyah,Corki,Kindred,1,0.528,0.4,0.78,MAPA
+Viego,Lucian,Milio,Kayn,LeBlanc,1,0.534,0.2,0.8640000000000001,PICKOFF
+Skarner,Senna,Braum,Ambessa,Hwei,0,0.47400000000000003,1.0,0.768, SIEGE
+Azir,Rumble,Skarner,Corki,Rell,1,0.572,0.8,0.7619999999999999, BURST
+Pantheon,Varus,Taliyah,Ornn,Alistar,0,0.45599999999999996,0.4,0.7779999999999999, WOMBOCOMBO
+Pantheon,Ambessa,Annie,Jhin,Rakan,1,0.5619999999999999,0.6,0.796, POKE
+Jayce,Lillia,Zoe,Pyke,Twitch,0,0.592,0.4,0.834, SPLIT
+Ryze,Gwen,Xin Zhao,Lucian,Braum,1,0.53,0.8,0.798, POKE
+Kai'Sa,Wukong,Jax,Ahri,Nautilus,0,0.47000000000000003,0.6,0.8460000000000001, SIEGE
+Xin Zhao,Kog'Maw,Braum,K'Sante,Senna,0,0.508,0.8,0.776, POKE
+Viktor,Wukong,Smolder,Milio,Ornn,1,0.43600000000000005,1.0,0.8039999999999999,PEEL
+Yorick,Senna,Leona,Sylas,Viego,1,0.43199999999999994,0.8,0.804,PEEL
+Rakan,Xayah,Sion,Kindred,Aurora,0,0.568,0.6,0.8240000000000001,PEEL
+Pantheon,Sion,Lucian,Milio,Ahri,1,0.542,0.6,0.826,PEEL
+Wukong,Varus,Aatrox,Renata Glasc,Taliyah,0,0.526,0.6,0.8039999999999999, POKE
+Ezreal,Sejuani,Yone,Yuumi,Camille,0,0.442,0.6,0.8240000000000001,PEEL
+Karma,Jhin,Akali,Jarvan IV,Ambessa,1,0.5359999999999999,0.6,0.8220000000000001,PEEL
+Naafiri,Corki,Nautilus,Sion,Sylas,0,0.418,0.6,0.796, PEEL
+Diana,Ezreal,Yasuo,Rakan,Ambessa,1,0.534,0.4,0.8460000000000001, SPLIT
+Braum,Ahri,Ambessa,Skarner,Ezreal,0,0.504,0.8,0.808, POKE
+Gwen,Taliyah,Pantheon,Jhin,Alistar,1,0.54,0.4,0.7839999999999999,MAPA
+Pantheon,Ezreal,Leona,K'Sante,Syndra,0,0.472,0.6,0.7939999999999999, PEEL
+Taliyah,Xin Zhao,Alistar,Miss Fortune,Gnar,1,0.492,0.6,0.7979999999999998, PEEL
+Taliyah,Senna,Nautilus,Jayce,Sejuani,1,0.5660000000000001,0.6,0.758, BURST
+Maokai,Miss Fortune,Hwei,Rell,Sion,0,0.426,0.8,0.76,SPLIT
+Rumble,Naafiri,Akali,Corki,Rakan,1,0.53,0.4,0.834, SPLIT
+Orianna,Xin Zhao,Gwen,Jhin,Rell,0,0.5399999999999999,0.8,0.7819999999999998, POKE
+Xin Zhao,Gwen,Varus,Syndra,Rell,1,0.5359999999999999,0.8,0.7819999999999998, POKE
+Miss Fortune,Wukong,Gnar,Ryze,Leona,0,0.492,0.8,0.7859999999999999, PEEL
+Rumble,Viego,Xayah,Braum,Ahri,1,0.546,0.6,0.8240000000000001,PEEL
+Galio,Vi,Jinx,Rell,Malzahar,0,0.514,0.8,0.8039999999999999, POKE
+Rumble,Corki,Skarner,Senna,Nautilus,0,0.5660000000000001,0.8,0.752, BURST
+Ambessa,Sejuani,Viktor,Jinx,Thresh,1,0.488,0.8,0.7939999999999999, PEEL
+Ahri,Xayah,Wukong,Pyke,Ambessa,1,0.514,0.8,0.868,TEAMFIGHT
+Vi,Azir,Sivir,Neeko,Sion,0,0.5980000000000001,0.8,0.78, POKE
+Taliyah,Senna,Nautilus,K'Sante,Bel'Veth,1,0.472,0.6,0.7659999999999999, SIEGE
+Ezreal,Hwei,Leona,Renekton,Viego,0,0.45999999999999996,0.6,0.828,PEEL
+Varus,Wukong,Ryze,Jax,Rakan,0,0.5119999999999999,0.6,0.8299999999999998,PEEL
+Jhin,Ahri,Viego,Karma,Ornn,1,0.562,0.6,0.818,PEEL
+Shen,Tristana,Alistar,Mel,Poppy,1,0.446,0.8,0.7939999999999999, PEEL
+Corki,Rell,Ahri,Yorick,Zed,0,0.466,0.6,0.812,PEEL
+Maokai,Ezreal,Rell,Gwen,Yasuo,1,0.476,0.6,0.798, PEEL
+Varus,Orianna,Sion,Nautilus,Ambessa,0,0.488,0.8,0.76, SIEGE
+Miss Fortune,Galio,Viego,Nautilus,Aatrox,0,0.43999999999999995,0.6,0.8019999999999999,PEEL
+Taliyah,Vi,Kalista,Sion,Taric,1,0.45599999999999996,0.6,0.792, PEEL
+Pantheon,Miss Fortune,Alistar,Camille,Aurelion Sol,1,0.512,0.6,0.8039999999999999, POKE
+Varus,Viktor,Sion,Gragas,Jarvan IV,0,0.504,0.8,0.7659999999999999, SIEGE
+Sion,Xin Zhao,Azir,Sivir,Lulu,0,0.5720000000000001,0.8,0.7919999999999999, POKE
+Taliyah,Senna,Cho'Gath,Lee Sin,Neeko,1,0.556,0.8,0.776, POKE
+Miss Fortune,Braum,Azir,Poppy,Yorick,1,0.512,0.8,0.7619999999999999, SIEGE
+Leona,Lucian,Ahri,Xin Zhao,Jax,0,0.47000000000000003,0.6,0.852, SIEGE
+Tristana,Neeko,Sion,Xin Zhao,Syndra,0,0.5359999999999999,0.8,0.798, POKE
+Jayce,Senna,Nautilus,Maokai,Aatrox,1,0.514,0.8,0.774, POKE
+Corki,Ivern,Rell,Sylas,Renekton,1,0.44799999999999995,0.8,0.8140000000000001,PEEL
+Azir,Xin Zhao,Alistar,Lucian,Yorick,0,0.518,0.8,0.82,PEEL
+Pantheon,Syndra,Senna,Warwick,Rell,0,0.48,0.8,0.7879999999999999, PEEL
+Taliyah,Vi,Ambessa,Kai'Sa,Rakan,1,0.5519999999999999,0.6,0.842,FLEX
+Lucian,Braum,Mel,Wukong,Renekton,1,0.47000000000000003,0.8,0.8140000000000001,PEEL
+Ahri,Kai'Sa,Nautilus,Naafiri,K'Sante,0,0.472,0.6,0.8240000000000001,PEEL
+Jayce,Smolder,Sejuani,Gragas,Hwei,0,0.48,0.8,0.7879999999999999, PEEL
+Senna,Wukong,Rakan,Mel,K'Sante,1,0.52,1.0,0.808, POKE
+Hwei,Wukong,Neeko,Olaf,Ahri,0,0.47400000000000003,0.8,0.8319999999999999,FLEX
+Leona,Lux,Rek'Sai,Ambessa,Tristana,1,0.5439999999999999,0.6,0.8099999999999999, POKE
+Sejuani,Gwen,Yone,Renata Glasc,Xayah,1,0.514,0.6,0.804, POKE
+Ezreal,Skarner,Akali,Rakan,Kennen,0,0.514,0.6,0.8240000000000001,PEEL
+Yone,Sejuani,Rumble,Nautilus,Jhin,1,0.476,0.6,0.776, PEEL
+Neeko,Lee Sin,Nasus,Corki,Alistar,0,0.45999999999999996,0.8,0.7979999999999999, PEEL
+Varus,Rell,Galio,Darius,Sejuani,1,0.386,0.8,0.76,SPLIT
+Corki,Orianna,Alistar,Ambessa,Trundle,0,0.496,0.8,0.7879999999999999, POKE
+Rell,Corki,Renekton,Pantheon,Orianna,0,0.4640000000000001,0.6,0.792, PEEL
+Ambessa,Rakan,Ahri,Kai'Sa,Maokai,1,0.542,0.8,0.8400000000000001,FLEX
+Varus,Xin Zhao,Ryze,Ornn,Nautilus,0,0.45599999999999996,0.8,0.7699999999999999, SIEGE
+Vi,Pantheon,Taliyah,Jayce,Sivir,1,0.598,0.2,0.798,MAPA
+Orianna,Nocturne,Yorick,Smolder,Alistar,1,0.37,0.8,0.8099999999999999,ENGAGE
+Tristana,Rumble,Sejuani,Jax,Ziggs,0,0.5740000000000001,0.4,0.7899999999999999,MAPA
+Senna,Hwei,Leona,Gragas,Viego,1,0.5,0.8,0.79, POKE
+Jinx,Viktor,Rell,Nidalee,Trundle,0,0.522,0.6,0.7979999999999998, POKE
+Corki,Sion,Rakan,Yone,Ivern,1,0.4880000000000001,0.6,0.818,PEEL
+Ezreal,Syndra,Zilean,Dr. Mundo,Zed,0,0.476,0.6,0.8039999999999999,PEEL
+Jhin,Gangplank,Naafiri,Vladimir,Thresh,1,0.512,0.2,0.7859999999999999, WOMBOCOMBO
+Aphelios,Ahri,Wukong,Shen,Camille,0,0.47400000000000003,0.8,0.8240000000000001,PEEL
+Varus,Rell,Mel,Rumble,Pantheon,1,0.536,0.6,0.772, POKE
+Miss Fortune,Ahri,Leona,Xin Zhao,Gwen,0,0.546,0.8,0.8119999999999999,PEEL
+Pantheon,Mel,Nautilus,Kai'Sa,Gnar,0,0.488,0.6,0.788, PEEL
+Ahri,Wukong,Braum,Ezreal,Kennen,1,0.546,0.8,0.8240000000000001,PEEL
+Ahri,Vi,Cho'Gath,Kalista,Renata Glasc,1,0.526,0.8,0.8240000000000001,PEEL
+Naafiri,Sylas,Galio,Kai'Sa,Rakan,0,0.48200000000000004,0.6,0.852,FLEX
+Varus,Lillia,Corki,Alistar,Jayce,0,0.624,0.4,0.8019999999999999,MAPA
+Ivern,Leona,Viktor,Sivir,Yorick,1,0.502,0.8,0.7719999999999999, POKE
+Xin Zhao,Hwei,Jhin,Renekton,Leona,1,0.45,0.8,0.8059999999999998,PEEL
+Taliyah,Vi,Rell,Kalista,Ornn,0,0.45599999999999996,0.6,0.7979999999999999, PEEL
+Lucian,Sion,Nami,Orianna,Vi,1,0.504,0.8,0.8019999999999999, POKE
+Wukong,Corki,Nautilus,Aatrox,Ryze,0,0.47800000000000004,0.8,0.8019999999999999,PEEL
+Varus,Orianna,Xin Zhao,Rell,Ambessa,0,0.5040000000000001,0.8,0.794, POKE
+Syndra,Ezreal,Leona,Wukong,Shen,1,0.472,0.8,0.8039999999999999,PEEL
+Rumble,Rell,Wukong,Akali,Jhin,0,0.48200000000000004,0.6,0.804,PEEL
+Senna,Nautilus,Gwen,Orianna,Trundle,1,0.532,1.0,0.7539999999999999, SIEGE
+Rell,Trundle,Ambessa,Syndra,Jinx,1,0.502,0.8,0.7939999999999999, POKE
+Skarner,Neeko,Renekton,Sivir,Orianna,0,0.532,0.8,0.7699999999999999, SIEGE
+Nocturne,Syndra,Ezreal,Braum,Sion,0,0.48200000000000004,0.6,0.792, PEEL
+Senna,Lillia,Nautilus,Akali,Garen,1,0.42200000000000004,0.8,0.798, PEEL
+Yone,Sejuani,Yorick,Rell,Sivir,0,0.40599999999999997,0.6,0.7819999999999998,SPLIT
+Mel,Miss Fortune,Shyvana,Sion,Alistar,1,0.4720000000000001,0.8,0.7859999999999999, PEEL
+Yone,Xin Zhao,Rumble,Varus,Rell,0,0.48200000000000004,0.6,0.8039999999999999,PEEL
+Lucian,Sejuani,Nami,Aatrox,Aurora,1,0.51,0.8,0.808, POKE
+Rell,Ezreal,Aurora,Skarner,Fiora,1,0.458,0.6,0.7979999999999999, PEEL
+Mel,Yone,Neeko,Wukong,Warwick,0,0.454,0.8,0.82,PEEL
+Varus,Rumble,Tristana,Alistar,Bel'Veth,1,0.578,0.4,0.806,MAPA
+Sivir,Jarvan IV,Ryze,Aatrox,Renata Glasc,0,0.5359999999999999,0.8,0.7939999999999999, POKE
+Senna,Leona,Xin Zhao,Poppy,Hwei,1,0.442,1.0,0.79, PEEL
+Ziggs,Nautilus,Trundle,Ambessa,Yasuo,0,0.458,0.6,0.7739999999999999, PEEL
+Neeko,Ezreal,Sion,Amumu,Azir,1,0.5860000000000001,0.8,0.78, POKE
+Ashe,Elise,Camille,Wukong,Sylas,0,0.48199999999999993,1.0,0.836,FLEX
+Jayce,Sejuani,Gwen,Ezreal,Poppy,1,0.5660000000000001,0.6,0.7859999999999999, POKE
+Pantheon,Yorick,Aurora,Rell,Jhin,0,0.47000000000000003,0.6,0.7719999999999999, PEEL
+Yone,Brand,Rell,Aphelios,Ambessa,1,0.514,0.6,0.7939999999999998, POKE
+Ivern,Syndra,Alistar,Sylas,Jayce,0,0.52,0.8,0.8099999999999999, POKE
+Xin Zhao,Lucian,Viktor,Milio,Fiora,0,0.5439999999999999,0.6,0.8379999999999999,FLEX
+Miss Fortune,Trundle,Neeko,Aurelion Sol,Kennen,1,0.612,0.8,0.7639999999999999, BURST
+Vi,Yorick,Ahri,Kalista,Renata Glasc,1,0.514,0.8,0.8300000000000001,PEEL
+Varus,Xin Zhao,Sion,Vladimir,Rakan,0,0.466,0.6,0.8019999999999999,PEEL
+Lucian,Gwen,Braum,Tristana,Sejuani,0,0.5559999999999999,0.6,0.798, POKE
+Miss Fortune,Nautilus,Rumble,Orianna,Trundle,1,0.532,0.8,0.758, SIEGE
+Neeko,Hwei,Caitlyn,Skarner,Gnar,1,0.55,0.8,0.766, SIEGE
+Ryze,Alistar,Jhin,Maokai,Ambessa,0,0.49800000000000005,0.8,0.7779999999999999, POKE
+Rumble,Jarvan IV,Ryze,Varus,Braum,1,0.53,0.8,0.7659999999999999, SIEGE
+Gwen,Trundle,Galio,Lucian,Milio,0,0.5439999999999999,0.8,0.794, POKE
+Azir,Kalista,Renata Glasc,Sejuani,Jax,0,0.554,0.6,0.808, POKE
+Ahri,Pantheon,Yorick,Rakan,Xayah,1,0.514,0.6,0.8459999999999999,FLEX
+Viktor,Smolder,Nautilus,Ornn,Kindred,0,0.42000000000000004,0.8,0.786, PEEL
+Senna,Xin Zhao,Sion,Alistar,Cassiopeia,1,0.472,1.0,0.7739999999999999, PEEL
+Ahri,Ezreal,Karma,Wukong,Gwen,1,0.6260000000000001,0.8,0.8460000000000001, PEEL
+Kalista,Azir,Renata Glasc,Naafiri,Aurora,0,0.646,0.6,0.808,PEEL
+Rumble,Poppy,Miss Fortune,Leona,Ryze,1,0.524,0.8,0.7639999999999999, SIEGE
+Lucian,Pantheon,K'Sante,Rell,Galio,0,0.398,0.6,0.7939999999999999,SPLIT
+Varus,Sion,Rakan,Corki,Zyra,0,0.604,0.6,0.784, POKE
+Alistar,Yorick,Jhin,Lillia,Orianna,1,0.48,0.8,0.7939999999999999, PEEL
+Kai'Sa,Ambessa,Sylas,Sett,Trundle,0,0.45599999999999996,0.8,0.8380000000000001, SIEGE
+Sejuani,Jayce,Yone,Xayah,Bard,1,0.556,0.4,0.8240000000000001, BURST
+Vi,Sion,Azir,Xayah,Rakan,1,0.562,0.8,0.828,PEEL
+Taliyah,Xin Zhao,Ambessa,Varus,Neeko,0,0.5780000000000001,0.6,0.7939999999999999, POKE
+Rumble,Viktor,Miss Fortune,Skarner,Rell,0,0.524,0.8,0.758, SIEGE
+K'Sante,Ryze,Wukong,Ezreal,Alistar,1,0.466,0.8,0.8160000000000001,PEEL
+Lucian,Nami,Cho'Gath,Tristana,Maokai,0,0.546,0.6,0.796, POKE
+Senna,Yorick,Nautilus,Aurora,Trundle,1,0.462,1.0,0.7539999999999999, SIEGE
+Varus,Cassiopeia,Alistar,Cho'Gath,Xin Zhao,1,0.47800000000000004,0.8,0.774, PEEL
+Ryze,Pantheon,Senna,Yorick,Rell,0,0.47000000000000003,0.8,0.7719999999999999, PEEL
+Gwen,Lucian,Milio,Maokai,Corki,0,0.636,0.6,0.792, POKE
+Kalista,Renata Glasc,Sett,Wukong,Annie,1,0.512,0.8,0.812,PEEL
+Azir,Trundle,Renekton,Kai'Sa,Nautilus,1,0.514,0.8,0.796, POKE
+Taliyah,Ezreal,Nidalee,Poppy,Bard,0,0.5720000000000001,0.4,0.8139999999999998, BURST
+Naafiri,Shen,Viktor,Braum,Kog'Maw,0,0.466,0.6,0.776, PEEL
+Ambessa,Skarner,Sivir,Sylas,Rakan,1,0.49800000000000005,0.8,0.8139999999999998,PEEL
+Leona,Ziggs,Tristana,Lee Sin,Gragas,1,0.556,0.6,0.79, POKE
+Gnar,Sejuani,Akali,Zeri,Lulu,0,0.45600000000000007,0.6,0.8200000000000001,PEEL
+Gwen,Sejuani,Yone,Jhin,Rell,0,0.476,0.6,0.782, PEEL
+Taliyah,Trundle,Rumble,Varus,Alistar,1,0.522,0.6,0.772, POKE
+Viktor,Wukong,Camille,Caitlyn,Morgana,0,0.61,0.8,0.796, POKE
+Sion,Xin Zhao,Ryze,Senna,Tahm Kench,1,0.466,1.0,0.776, PEEL
+Pantheon,Annie,Elise,Ezreal,Kennen,0,0.558,0.6,0.7959999999999999, POKE
+Renekton,Ahri,Nocturne,Xayah,Rakan,1,0.5279999999999999,0.6,0.8720000000000001,TEAMFIGHT
+Azir,Jhin,Rell,Naafiri,Sion,1,0.534,0.6,0.78, POKE
+Varus,Rumble,Poppy,Ahri,Renata Glasc,0,0.568,0.8,0.7860000000000001, POKE
+Ryze,Trundle,Kai'Sa,Alistar,Renekton,1,0.45599999999999996,0.8,0.8099999999999999,PEEL
+Yone,Sejuani,Ezreal,Rakan,Gragas,0,0.49800000000000005,0.6,0.8300000000000001,PEEL
+Taliyah,Xin Zhao,Aatrox,Braum,Tristana,1,0.47800000000000004,0.6,0.82,PEEL
+Ambessa,Pantheon,Sylas,Smolder,Leona,0,0.35600000000000004,0.8,0.8219999999999998,ENGAGE
+Nautilus,Ornn,Corki,Orianna,Jarvan IV,1,0.45600000000000007,0.8,0.764, SIEGE
+Jayce,Senna,Tahm Kench,Lillia,Aurora,0,0.592,0.8,0.7859999999999999, POKE
+Neeko,Caitlyn,Annie,K'Sante,Nocturne,1,0.5740000000000001,0.6,0.772, POKE
+Lucian,Skarner,Nami,Viktor,Fiora,0,0.496,0.6,0.8019999999999999, POKE
+Vi,Ahri,Miss Fortune,Galio,Alistar,0,0.488,0.8,0.8240000000000001,PEEL
+Taliyah,Xin Zhao,Rumble,Jhin,Rakan,1,0.5879999999999999,0.6,0.8079999999999998, POKE
+Varus,Trundle,Ambessa,Orianna,Renata Glasc,1,0.5439999999999999,0.8,0.7719999999999999, POKE
+Sion,Ryze,Naafiri,Rell,Senna,0,0.476,0.8,0.776, PEEL
+Neeko,Kai'Sa,Yorick,Akali,Wukong,0,0.476,0.6,0.826,PEEL
+Kalista,Nautilus,Gnar,Sylas,Poppy,1,0.418,0.8,0.798, PEEL
+Ezreal,Bard,Pantheon,K'Sante,Syndra,0,0.52,0.6,0.8099999999999999, POKE
+Karma,Caitlyn,Sejuani,Aurora,Aatrox,1,0.576,0.8,0.8019999999999999, POKE
+Azir,Rumble,Trundle,Senna,Nautilus,0,0.5900000000000001,1.0,0.7579999999999999, BURST
+Varus,Ahri,Ryze,Jarvan IV,Rell,1,0.536,0.8,0.798, POKE
+Neeko,Xin Zhao,Sion,Aphelios,Lulu,0,0.476,0.8,0.788, PEEL
+Lucian,Sejuani,Nami,Aatrox,Orianna,1,0.51,0.8,0.808, POKE
+Taliyah,Jax,Kai'Sa,Wukong,Rakan,1,0.5119999999999999,0.4,0.852, SPLIT
+Yorick,Viktor,Poppy,Alistar,Corki,0,0.44400000000000006,0.8,0.776, PEEL
+Naafiri,Sivir,Braum,Jayce,LeBlanc,1,0.554,0.2,0.8059999999999998, BURST
+Ezreal,Leona,Ziggs,Viego,K'Sante,0,0.5279999999999999,0.4,0.79,MAPA
+Vi,Ahri,Smolder,Braum,Nidalee,0,0.43600000000000005,0.8,0.834, SIEGE
+Taliyah,Senna,Pantheon,Leona,Gwen,1,0.54,0.6,0.7719999999999999, POKE
+Yorick,Wukong,Annie,Rell,Jhin,1,0.47000000000000003,0.8,0.768, SIEGE
+Vi,Rumble,Ahri,Senna,Alistar,0,0.546,1.0,0.8200000000000001,PEEL
+Rumble,Xin Zhao,Ryze,Ezreal,Nautilus,1,0.5399999999999999,0.8,0.7979999999999999, POKE
+Aurora,Jhin,Jax,Ornn,Rakan,0,0.506,0.6,0.8019999999999999, POKE
+Taliyah,Pantheon,Jayce,Miss Fortune,Nautilus,1,0.582,0.2,0.7740000000000001,MAPA
+Poppy,Viktor,Ezreal,Rakan,Ornn,0,0.49800000000000005,0.8,0.8019999999999999, POKE
+Jayce,Kai'Sa,Neeko,Poppy,Hwei,0,0.606,0.6,0.7939999999999999, POKE
+Ambessa,Corki,Alistar,Wukong,Annie,1,0.504,0.8,0.796, POKE
+Kalista,Trundle,Ashe,Cho'Gath,Cassiopeia,1,0.602,0.8,0.7619999999999999, BURST
+Sion,Renata Glasc,Smolder,Ryze,Naafiri,0,0.414,0.8,0.792, PEEL
+Galio,Kindred,Lucian,Gragas,Bard,0,0.558,0.6,0.82,PEEL
+Renekton,Tristana,Zyra,Miss Fortune,Blitzcrank,1,0.59,0.6,0.8019999999999999, POKE
+Varus,Camille,Galio,Skarner,Elise,1,0.44000000000000006,0.8,0.786, PEEL
+Ambessa,Leona,Ziggs,Nocturne,Corki,0,0.5660000000000001,0.4,0.784,MAPA
+Jinx,Aurora,Braum,K'Sante,Maokai,1,0.44000000000000006,0.8,0.77, SIEGE
+Akali,Renekton,Sejuani,Tristana,Milio,0,0.47000000000000003,0.6,0.8320000000000001, SIEGE
+Rumble,Jhin,Bel'Veth,Mel,Alistar,1,0.5519999999999999,0.6,0.7839999999999999, POKE
+Varus,Yone,Gwen,Xin Zhao,Nautilus,0,0.48200000000000004,0.6,0.7979999999999999, PEEL
+Rumble,Nautilus,Senna,Trundle,Orianna,0,0.532,1.0,0.7539999999999999, SIEGE
+Galio,Ezreal,Rell,Wukong,Ahri,1,0.488,0.8,0.8299999999999998,PEEL
+Varus,Wukong,Orianna,Taric,Ornn,1,0.45599999999999996,0.8,0.7699999999999999, SIEGE
+Pantheon,Taliyah,Miss Fortune,Nautilus,Gnar,0,0.492,0.4,0.7700000000000001, TEAMFIGHT
+Rumble,Varus,Naafiri,Alistar,Taliyah,1,0.54,0.4,0.7939999999999999,MAPA
+Sion,Xin Zhao,Miss Fortune,Leona,Ahri,0,0.472,0.8,0.8059999999999998,PEEL
+Rell,Xin Zhao,Hwei,Ezreal,Sion,0,0.442,0.8,0.8059999999999998,PEEL
+Alistar,Orianna,Vi,Miss Fortune,Shen,1,0.466,0.8,0.798, PEEL
+Vi,Taliyah,Ambessa,Tristana,Neeko,1,0.5780000000000001,0.6,0.8160000000000001,PEEL
+Ahri,Naafiri,Renekton,Kai'Sa,Bard,0,0.5279999999999999,0.6,0.8620000000000001,TEAMFIGHT
+Jayce,Maokai,Azir,Renata Glasc,Ashe,1,0.6780000000000002,0.8,0.7619999999999999, POKE
+Rell,Trundle,Yorick,Akali,Jhin,0,0.404,0.6,0.782,SPLIT
+Varus,Vi,Neeko,Renekton,Alistar,1,0.46399999999999997,0.8,0.8099999999999999,PEEL
+Jhin,Xin Zhao,Rakan,Syndra,K'Sante,0,0.52,0.8,0.808, POKE
+Ahri,Xin Zhao,Rell,Kai'Sa,Camille,1,0.502,0.8,0.8460000000000001,FLEX
+Vi,Lucian,Nami,Neeko,Jax,0,0.512,0.6,0.8300000000000001,PEEL
+Varus,Trundle,Ryze,Renekton,Maokai,1,0.45599999999999996,0.8,0.77, SIEGE
+Tristana,Viego,Annie,Nautilus,Kennen,0,0.54,0.6,0.784, POKE
+Rell,Miss Fortune,Viktor,Dr. Mundo,Sion,1,0.454,0.8,0.7579999999999999, SIEGE
+Jinx,Orianna,Braum,Maokai,Gnar,0,0.466,0.8,0.7699999999999999, SIEGE
+Ahri,Naafiri,Cho'Gath,Sivir,Alistar,0,0.49800000000000005,0.6,0.8140000000000001,PEEL
+Varus,Pantheon,Gwen,Mel,Rakan,1,0.584,0.6,0.7979999999999999, POKE
+Sejuani,Renekton,Leona,Kalista,Viktor,0,0.44800000000000006,0.8,0.798, PEEL
+Naafiri,Ezreal,Shen,Bard,Syndra,1,0.53,0.6,0.82,PEEL
+Pantheon,Galio,Varus,Nautilus,Ahri,0,0.47800000000000004,0.6,0.792, PEEL
+Rumble,Xin Zhao,Miss Fortune,Rakan,Mel,1,0.5940000000000001,0.8,0.812,PEEL
+Azir,Poppy,Jhin,Rell,Ambessa,1,0.556,0.8,0.7759999999999999, POKE
+Hwei,Wukong,Ezreal,Leona,Yorick,0,0.446,0.8,0.8119999999999999,PEEL
+Yone,Sejuani,Rakan,Kai'Sa,Gnar,0,0.466,0.6,0.8300000000000001,PEEL
+Xin Zhao,Rell,Mel,Sivir,Malphite,1,0.472,0.8,0.7819999999999998, PEEL
+Ivern,Leona,Azir,Lucian,Jayce,0,0.662,0.6,0.8020000000000002,PEEL
+Miss Fortune,Taliyah,Pantheon,Alistar,Yorick,1,0.47000000000000003,0.4,0.7879999999999999, WOMBOCOMBO
+Vi,Ambessa,Rell,Ezreal,Viktor,1,0.514,0.8,0.8160000000000001,PEEL
+Wukong,Sion,Xayah,Taric,Swain,0,0.45600000000000007,0.8,0.792, PEEL
+Rumble,Pantheon,Rell,Yone,Sivir,1,0.492,0.4,0.7939999999999999, WOMBOCOMBO
+Gwen,Varus,Xin Zhao,Leona,Akali,0,0.4720000000000001,0.6,0.804,PEEL
+Rumble,Smolder,Nautilus,Wukong,Azir,1,0.488,1.0,0.796, PEEL
+Ambessa,Senna,Leona,Viego,Syndra,0,0.53,0.8,0.7939999999999999, POKE
+Xin Zhao,Lucian,Nami,Galio,Jax,1,0.454,0.6,0.8300000000000001,PEEL
+Orianna,Corki,Nocturne,Blitzcrank,Gnar,0,0.508,0.6,0.7859999999999999, POKE
+Gwen,Hwei,Sivir,Wukong,Nautilus,1,0.516,0.8,0.784, POKE
+Viktor,Ezreal,Jax,Naafiri,Renata Glasc,0,0.532,0.4,0.826, BURST
+Ahri,Naafiri,Ezreal,Fiddlesticks,Yorick,0,0.502,0.6,0.8299999999999998,PEEL
+Wukong,Lucian,Sylas,Rakan,Irelia,1,0.48200000000000004,0.6,0.874,TEAMFIGHT
+Naafiri,Sylas,Sion,Tristana,Karma,1,0.49799999999999994,0.6,0.836,FLEX
+Nocturne,Ahri,Garen,Caitlyn,Nami,0,0.558,0.6,0.8160000000000001,PEEL
+Neeko,Vi,Jinx,Sion,Cassiopeia,0,0.5359999999999999,0.8,0.784, POKE
+Senna,Rell,Ryze,Dr. Mundo,Camille,1,0.49400000000000005,1.0,0.776, PEEL
+Varus,Diana,Braum,Sion,Ahri,0,0.48200000000000004,0.6,0.778, PEEL
+Ezreal,Wukong,Rakan,Renekton,Galio,1,0.46399999999999997,0.8,0.8459999999999999, SIEGE
+Varus,Vi,Rumble,Zed,Alistar,1,0.472,0.6,0.8160000000000001,PEEL
+Xin Zhao,Taliyah,Ezreal,Rell,K'Sante,0,0.466,0.6,0.8039999999999999,PEEL
+Pantheon,Lucian,Aurora,Rell,K'Sante,0,0.45599999999999996,0.6,0.7939999999999999, PEEL
+Volibear,Senna,Leona,Viktor,Aatrox,1,0.472,1.0,0.782, PEEL
+Ahri,Sion,Wukong,Xayah,Rakan,0,0.51,0.8,0.85,FLEX
+Sejuani,Jayce,Ryze,Miss Fortune,Poppy,1,0.5660000000000001,0.6,0.768, BURST
+Nocturne,Karma,Jhin,Renekton,LeBlanc,1,0.526,0.4,0.8399999999999999, SPLIT
+Azir,Neeko,Kalista,Rengar,Gnar,0,0.614,0.6,0.808, POKE
+Taliyah,Lucian,Milio,Sejuani,Renekton,0,0.528,0.6,0.8099999999999999, POKE
+Varus,Ambessa,Nautilus,Kayle,Trundle,1,0.44799999999999995,0.6,0.782, PEEL
+Gwen,Xayah,Rakan,Viego,Mel,1,0.594,0.6,0.8300000000000001,PEEL
+Naafiri,Ryze,Smolder,Alistar,Annie,0,0.44000000000000006,0.8,0.7959999999999999, PEEL
+Gwen,Xin Zhao,Ahri,Lucian,Alistar,0,0.536,0.8,0.842,FLEX
+Vi,Taliyah,Jax,Xayah,Rakan,1,0.5119999999999999,0.4,0.852, SPLIT
+Yorick,Poppy,Viktor,Jhin,Rell,1,0.454,0.8,0.76, SIEGE
+Azir,Kalista,Lillia,Renekton,Neeko,0,0.6060000000000001,0.8,0.8240000000000001,PEEL
+Pantheon,Fiora,Annie,Jinx,Nautilus,1,0.46399999999999997,0.4,0.796, WOMBOCOMBO
+Wukong,Sion,Akali,Caitlyn,Braum,0,0.43200000000000005,0.6,0.796, PEEL
+Varus,Ryze,Viego,Kennen,Blitzcrank,1,0.556,0.6,0.782, POKE
+Ezreal,Jarvan IV,Orianna,Gnar,Leona,0,0.492,0.8,0.7939999999999999, PEEL
+Gwen,Ezreal,Wukong,Rell,Ahri,0,0.546,0.8,0.8299999999999998,PEEL
+Renekton,Varus,Sejuani,Nautilus,Mel,1,0.454,0.8,0.7700000000000001, SIEGE
+Rumble,Xayah,Kayle,Rakan,Pantheon,1,0.53,0.4,0.836, SPLIT
+Aatrox,Vi,Akali,Caitlyn,Leona,0,0.454,0.6,0.8299999999999998,PEEL
+Ambessa,Trundle,Taliyah,Ashe,Braum,0,0.512,0.8,0.7659999999999999, SIEGE
+Shen,Nunu & Willump,Smolder,Jhin,Bard,1,0.44000000000000006,0.8,0.7859999999999999, PEEL
+Rumble,Xin Zhao,Senna,Nautilus,Galio,0,0.48200000000000004,1.0,0.776, PEEL
+Pantheon,Gwen,Ahri,Lucian,Rell,1,0.536,0.6,0.8200000000000001,PEEL
+Azir,Varus,Skarner,Braum,Ornn,0,0.49800000000000005,0.8,0.746, SIEGE
+Rumble,Poppy,Jhin,Alistar,Ahri,1,0.53,0.8,0.798, POKE
+Vi,Jax,Kai'Sa,Ryze,Leona,0,0.46399999999999997,0.6,0.826,PEEL
+Yorick,Poppy,Xayah,Blitzcrank,Annie,1,0.4600000000000001,0.8,0.768, SIEGE
+Yorick,Ryze,Viego,Corki,Rell,0,0.47000000000000003,0.6,0.7859999999999999, PEEL
+Ezreal,Trundle,Cho'Gath,Leona,Annie,1,0.47400000000000003,0.8,0.762, SIEGE
+Jayce,Jarvan IV,Ezreal,Cassiopeia,Taric,0,0.588,0.6,0.778, POKE
+Viktor,Jhin,Alistar,Viego,Nidalee,1,0.55,0.4,0.8099999999999999, BURST
+Sion,Caitlyn,Karma,Xin Zhao,Sylas,0,0.522,0.8,0.818,PEEL
+Lucian,Wukong,Nami,Nidalee,Aurora,1,0.5780000000000001,0.6,0.8240000000000001,PEEL
+Varus,Xin Zhao,Gwen,Neeko,Ahri,0,0.61,0.8,0.8079999999999998, POKE
+Rumble,Pantheon,Jhin,Rakan,Sylas,1,0.54,0.6,0.82,PEEL
+Tristana,Lillia,Sion,K'Sante,Alistar,0,0.392,0.8,0.8099999999999999,ENGAGE
+Gragas,Naafiri,Qiyana,Hwei,Morgana,1,0.48,0.6,0.8059999999999998,PEEL
+Varus,Azir,Naafiri,Sion,Neeko,1,0.5980000000000001,0.6,0.78, POKE
+Pantheon,Senna,Akali,Rell,Ambessa,0,0.45600000000000007,0.6,0.806,PEEL
+Varus,Xin Zhao,Rakan,Zilean,Jinx,0,0.546,0.6,0.8300000000000001,PEEL
+Shen,Miss Fortune,Trundle,Taliyah,Bard,1,0.506,0.6,0.7799999999999999, POKE
+Ezreal,Vi,Leona,Gnar,Ryze,1,0.492,0.8,0.8039999999999999,PEEL
+Senna,Maokai,Tahm Kench,Yorick,Akali,0,0.396,0.8,0.776,SPLIT
+Vi,Zed,Kai'Sa,Galio,Yorick,0,0.418,0.6,0.826,PEEL
+Taliyah,Xin Zhao,Xayah,Nautilus,Jax,1,0.46399999999999997,0.4,0.82, BURST
+Nautilus,Kai'Sa,Viego,Renekton,Annie,1,0.47400000000000003,0.6,0.8,PEEL
+Rell,Wukong,Mel,Lucian,K'Sante,0,0.462,0.8,0.8039999999999999,PEEL
+Rumble,Vi,Jhin,Nautilus,Akali,1,0.48200000000000004,0.6,0.7979999999999999, PEEL
+Gragas,Varus,Rell,Mel,Ezreal,0,0.6199999999999999,0.6,0.782, POKE
+Jayce,Ezreal,Alistar,Ivern,Tristana,1,0.656,0.4,0.8319999999999999, SPLIT
+Rumble,Maokai,Yasuo,Sivir,Braum,0,0.476,0.6,0.77, SIEGE
+Miss Fortune,Aatrox,Skarner,Hwei,Alistar,1,0.44800000000000006,0.8,0.7999999999999999,PEEL
+Corki,Sejuani,Braum,Jax,Viktor,0,0.44800000000000006,0.6,0.78, PEEL
+Jayce,Senna,Leona,Viktor,Xin Zhao,1,0.5820000000000001,0.8,0.7859999999999999, POKE
+Miss Fortune,Nidalee,Rakan,Orianna,Trundle,0,0.58,0.6,0.806, POKE
+Pantheon,Xayah,Rakan,Galio,Ahri,1,0.526,0.6,0.8459999999999999,FLEX
+Ezreal,Volibear,Leona,Rumble,Corki,0,0.5660000000000001,0.6,0.7859999999999999, POKE
+Varus,Nocturne,Orianna,Nautilus,Sion,0,0.466,0.6,0.7699999999999999, SIEGE
+Jayce,Jhin,Diana,Alistar,K'Sante,1,0.528,0.4,0.78,MAPA
+Renekton,Sejuani,Braum,Taliyah,Jinx,1,0.44800000000000006,0.6,0.792, PEEL
+Ashe,Urgot,Renata Glasc,Dr. Mundo,Mel,0,0.536,0.8,0.76, SIEGE
+Rell,Kai'Sa,Vi,Singed,Vex,1,0.462,0.8,0.8039999999999999,PEEL
+Zeri,Poppy,Viego,Ambessa,Karma,0,0.52,0.6,0.836,FLEX
+Naafiri,Kalista,Soraka,Viktor,Cho'Gath,1,0.48200000000000004,0.6,0.7919999999999999, PEEL
+Lucian,Maokai,Nami,Ryze,Camille,0,0.528,0.8,0.7959999999999999, POKE
+Gwen,Vi,Ahri,Xayah,Rakan,1,0.584,0.8,0.8560000000000001, PEEL
+Rumble,Wukong,Kai'Sa,Galio,Nautilus,0,0.472,0.8,0.7979999999999999, PEEL
+Taliyah,Trundle,Jhin,Rell,Ambessa,1,0.506,0.6,0.772, POKE
+Ryze,Xin Zhao,Sivir,Renekton,Poppy,0,0.47400000000000003,0.8,0.7979999999999998, PEEL
+Senna,Braum,Lillia,Shen,Tristana,1,0.518,0.8,0.798, POKE
+Viktor,Skarner,Sion,Renata Glasc,Kalista,0,0.488,0.8,0.7699999999999999, SIEGE
+Varus,Trundle,Camille,Rakan,Galio,1,0.4779999999999999,0.8,0.8019999999999999,PEEL
+Sion,Lucian,Braum,Kindred,Ahri,0,0.526,0.6,0.818,PEEL
+Rumble,Kalista,Renata Glasc,Nocturne,Orianna,0,0.588,0.6,0.8039999999999999, POKE
+K'Sante,Xin Zhao,Draven,Blitzcrank,Sylas,1,0.434,0.8,0.808,PEEL
+Miss Fortune,Rell,Azir,Sion,Viego,0,0.534,0.6,0.784, POKE
+Taliyah,Ezreal,Alistar,Xin Zhao,Cho'Gath,1,0.48200000000000004,0.6,0.8099999999999999,PEEL
+Ahri,Cho'Gath,Naafiri,Alistar,Kai'Sa,0,0.488,0.6,0.836,FLEX
+Syndra,Pantheon,Galio,Rakan,Tristana,1,0.526,0.6,0.82,PEEL
+Taliyah,Kindred,Jhin,Sion,Nautilus,1,0.53,0.4,0.7699999999999999, MAPA
+Hwei,Pantheon,Shen,Rell,Jinx,0,0.43200000000000005,0.6,0.8019999999999999,PEEL
+Rumble,Kalista,Renata Glasc,Wukong,Sylas,0,0.53,0.8,0.826,PEEL
+Ornn,Lucian,Nami,Ahri,Trundle,1,0.502,0.8,0.806, POKE
+Xin Zhao,Lucian,Nami,Twisted Fate,Volibear,1,0.51,0.6,0.808, POKE
+Varus,Rell,Vi,Xerath,Shen,0,0.508,0.8,0.768, SIEGE
+Varus,Vi,K'Sante,Neeko,Galio,1,0.472,0.8,0.7819999999999998, PEEL
+Ambessa,Mel,Trundle,Sylas,Bard,0,0.45999999999999996,1.0,0.8099999999999999,PEEL
+Senna,Neeko,Sejuani,Ambessa,Galio,1,0.514,1.0,0.772, POKE
+Corki,Naafiri,Leona,Nidalee,Aurelion Sol,0,0.546,0.4,0.8019999999999999, BURST
+Sion,Zeri,Lulu,Gangplank,Maokai,0,0.488,0.6,0.7899999999999999, PEEL
+Trundle,Corki,Kled,Blitzcrank,Vladimir,1,0.434,0.6,0.7799999999999999, PEEL
+Miss Fortune,Lillia,Rakan,Irelia,Cho'Gath,1,0.492,0.6,0.8280000000000001,PEEL
+Xin Zhao,Senna,Fiddlesticks,Gnar,Vex,0,0.514,1.0,0.7819999999999998, POKE
+Vi,Zeri,Zac,Syndra,Lulu,0,0.51,0.8,0.8200000000000001,PEEL
+Varus,Sejuani,Ryze,Alistar,Aatrox,1,0.462,0.8,0.794, PEEL
+Pantheon,Ezreal,Aurora,Nautilus,Jax,0,0.47400000000000003,0.4,0.8099999999999999, BURST
+Wukong,Xayah,Galio,Rell,Cho'Gath,1,0.414,0.8,0.7979999999999999, PEEL
+Mel,Gnar,Viego,Rakan,Kai'Sa,0,0.546,0.6,0.8300000000000001,PEEL
+Viktor,Dr. Mundo,Jinx,Leona,Volibear,1,0.44399999999999995,0.8,0.782, PEEL
+Zyra,Jhin,Karma,Sion,Irelia,1,0.5559999999999999,0.6,0.792, POKE
+Ashe,Nunu & Willump,Kog'Maw,Seraphine,Shen,0,0.5780000000000001,0.8,0.7539999999999999, BURST
+Taliyah,Xin Zhao,Gwen,Jhin,Nautilus,0,0.5399999999999999,0.6,0.7759999999999999, POKE
+Rumble,Azir,Poppy,Varus,Rell,1,0.572,0.8,0.7639999999999999, BURST
+Poppy,Ahri,Yorick,Jhin,Rell,0,0.45999999999999996,0.8,0.7859999999999999, PEEL
+Rumble,Ezreal,Annie,Alistar,Zed,1,0.54,0.6,0.8019999999999999, POKE
+Trundle,Sion,Ryze,Ezreal,Karma,0,0.538,0.8,0.792, POKE
+Kalista,Renata Glasc,Ahri,Jarvan IV,Camille,1,0.55,0.8,0.836,FLEX
+Pantheon,Rumble,Ryze,Lucian,Braum,1,0.53,0.6,0.788, POKE
+Ahri,Poppy,Aatrox,Jhin,Nocturne,0,0.504,0.6,0.8300000000000001,PEEL
+Gwen,Sejuani,Yone,Kai'Sa,Shen,1,0.466,0.6,0.804,PEEL
+Aurora,Wukong,Jax,Leona,Xayah,0,0.46399999999999997,0.6,0.826,PEEL
+Neeko,Skarner,Kai'Sa,K'Sante,Aurora,1,0.514,0.8,0.776, POKE
+Jax,Sejuani,Sylas,Corki,Leona,0,0.4,0.6,0.808,ENGAGE
+Jayce,Trundle,Miss Fortune,Aurora,Rakan,0,0.6220000000000001,0.6,0.794, POKE
+Sion,Naafiri,Neeko,Varus,Viktor,1,0.54,0.6,0.776, POKE
+Kalista,Nidalee,Azir,Jarvan IV,Soraka,0,0.588,0.6,0.808, POKE
+Sion,Renata Glasc,Ashe,Pantheon,Viktor,1,0.52,0.8,0.766, SIEGE
+Yone,Maokai,Yorick,Jinx,Lulu,0,0.44399999999999995,0.6,0.8100000000000002,PEEL
+Twisted Fate,Alistar,Senna,Cho'Gath,Lee Sin,1,0.488,0.8,0.788, PEEL
+Gwen,Xin Zhao,Neeko,Akali,Kai'Sa,0,0.546,0.6,0.826,PEEL
+Varus,Nidalee,Pyke,Ahri,Wukong,1,0.54,0.6,0.85,FLEX
+Neeko,Vi,Ambessa,Corki,Ryze,0,0.5780000000000001,0.8,0.7979999999999998, POKE
+Jayce,Varus,Xin Zhao,Karma,Cassiopeia,1,0.658,0.6,0.788, POKE
+Jayce,Xayah,Rakan,Lillia,Gnar,0,0.582,0.6,0.834, PEEL
+Lucian,Wukong,Braum,Aatrox,Zoe,1,0.484,0.6,0.842,FLEX
+Ezreal,Sejuani,Yone,Rakan,Rumble,0,0.5239999999999999,0.6,0.8300000000000001,PEEL
+Sivir,Ryze,Viego,Rell,Sett,1,0.484,0.6,0.804,PEEL
+Azir,K'Sante,Trundle,Corki,Nautilus,0,0.506,0.8,0.762, SIEGE
+Rumble,Pantheon,Ahri,Lucian,Braum,1,0.536,0.6,0.8140000000000001,PEEL
+Yone,Sejuani,Gwen,Rell,Jhin,1,0.476,0.6,0.7819999999999998, PEEL
+Miss Fortune,Aurora,Cassiopeia,Kha'Zix,Braum,0,0.5559999999999999,0.6,0.766, BURST
+Xin Zhao,Smolder,Rakan,Ambessa,Akali,1,0.394,0.8,0.858,TEAMFIGHT
+Senna,Rell,Gwen,Viego,Ryze,0,0.55,0.8,0.782, POKE
+Taliyah,Vi,Ezreal,Rakan,Renekton,0,0.522,0.6,0.8460000000000001,FLEX
+Xin Zhao,Hwei,Sivir,Ambessa,Lulu,1,0.538,0.8,0.8139999999999998,PEEL
+Taliyah,Wukong,Sion,Kalista,Renata Glasc,1,0.5039999999999999,0.6,0.798, POKE
+Hwei,Maokai,Jhin,Leona,Fiora,0,0.434,0.6,0.784, PEEL
+Sion,Viktor,Aphelios,Dr. Mundo,Renata Glasc,0,0.4640000000000001,0.8,0.7539999999999999, SIEGE
+Jinx,Camille,Orianna,Wukong,Milio,1,0.576,0.8,0.8320000000000001, PEEL
+Nautilus,Naafiri,Tristana,Jax,LeBlanc,1,0.43600000000000005,0.2,0.8460000000000001, SCALING
+Senna,Ahri,Shyvana,Leona,Illaoi,0,0.4760000000000001,1.0,0.8019999999999999,PEEL
+Sion,Xin Zhao,Viktor,Corki,Elise,0,0.47400000000000003,0.8,0.796, PEEL
+Neeko,Ryze,Ornn,Kalista,Wukong,1,0.53,0.8,0.798, POKE
+Gwen,Jhin,Nocturne,Akali,Rakan,1,0.54,0.4,0.8300000000000001, BURST
+Rumble,Varus,Ahri,Alistar,Jarvan IV,0,0.536,0.8,0.8099999999999999, POKE
+Ambessa,Neeko,Varus,Jax,Ahri,1,0.576,0.6,0.82,PEEL
+Renekton,Taliyah,Galio,Sivir,Cassiopeia,0,0.554,0.6,0.762, SIEGE
+Taliyah,Yorick,Sejuani,Leona,Ezreal,0,0.454,0.6,0.782, PEEL
+Azir,Skarner,Renekton,Lucian,Bard,1,0.554,0.8,0.812,PEEL
+Braum,Lee Sin,Lucian,Aurora,Aatrox,1,0.47800000000000004,0.8,0.8200000000000001,PEEL
+Ashe,Gwen,Rell,Akali,Kled,0,0.48,0.8,0.798, PEEL
+Gwen,Vi,Aurora,Corki,Rell,1,0.53,0.8,0.7859999999999999, POKE
+Sejuani,Rumble,Yone,Lucian,Braum,0,0.466,0.6,0.798, PEEL
+Ambessa,Pantheon,Aurora,Xayah,Braum,0,0.504,0.6,0.8, POKE
+Twisted Fate,Trundle,Camille,Rell,Ziggs,1,0.504,0.6,0.762, SIEGE
+Pantheon,Taliyah,Ezreal,Sett,Alistar,1,0.47400000000000003,0.4,0.8280000000000001, BURST
+Gwen,Nocturne,Aurora,Jhin,Nautilus,0,0.55,0.6,0.7759999999999999, POKE
+Taliyah,Poppy,Ambessa,Leona,Miss Fortune,0,0.49799999999999994,0.6,0.776, POKE
+Sion,Pantheon,Ryze,Nautilus,Jhin,1,0.466,0.6,0.76, SIEGE
+Pantheon,Taliyah,Rumble,Aphelios,Alistar,1,0.502,0.4,0.7839999999999999, WOMBOCOMBO
+Ryze,Trundle,Sion,Senna,Rell,0,0.458,1.0,0.7539999999999999, SIEGE
+Vi,Varus,Ahri,Renata Glasc,Rumble,0,0.584,0.8,0.808, POKE
+Corki,Ivern,Rell,Lucian,Ornn,1,0.53,0.6,0.792, POKE
+Jayce,Ezreal,Karma,Skarner,Sylas,1,0.598,0.6,0.818,PEEL
+Wukong,Annie,Ornn,Sivir,Milio,0,0.546,0.8,0.7739999999999999, POKE
+Gwen,Poppy,Azir,Jhin,Braum,0,0.5820000000000001,0.8,0.7579999999999999, BURST
+Lucian,Lee Sin,Viktor,Gnar,Rakan,1,0.5299999999999999,0.8,0.8299999999999998,PEEL
+Rumble,Jhin,Nautilus,Sylas,Viego,0,0.502,0.6,0.798, POKE
+Ryze,Varus,Xin Zhao,Braum,Akali,1,0.4720000000000001,0.6,0.798, PEEL
+Varus,Renata Glasc,Galio,Zed,Jax,1,0.454,0.4,0.804, BURST
+Rakan,Trundle,Xayah,Gnar,Cassiopeia,0,0.5279999999999999,0.8,0.794, POKE
+Jayce,Senna,Alistar,Annie,Trundle,0,0.5740000000000001,0.8,0.7619999999999999, BURST
+Taliyah,Sion,Vi,Ezreal,Leona,1,0.466,0.6,0.798, PEEL
+Taliyah,Zeri,Lulu,Naafiri,Ornn,1,0.514,0.4,0.8140000000000001, BURST
+Sejuani,Lucian,Nami,Syndra,Aatrox,0,0.516,0.8,0.808, POKE
+Varus,Wukong,Orianna,K'Sante,Nautilus,1,0.45599999999999996,0.8,0.7759999999999999, PEEL
+Ezreal,Pantheon,Sion,LeBlanc,Leona,0,0.42799999999999994,0.4,0.8140000000000001, BURST
+Naafiri,Ezreal,Gwen,Nautilus,Vel'Koz,1,0.5559999999999999,0.6,0.798, POKE
+Zed,Varus,Jayce,Mel,Leona,0,0.578,0.4,0.7859999999999999,MAPA
+Varus,Jarvan IV,Orianna,Alistar,Sion,0,0.45599999999999996,0.8,0.7779999999999999, PEEL
+Jhin,Rumble,Rell,LeBlanc,Naafiri,1,0.512,0.4,0.808, BURST
+Rumble,Miss Fortune,Skarner,Corki,Alistar,0,0.5660000000000001,0.6,0.7739999999999999, POKE
+Ezreal,Sion,Leona,Trundle,Ryze,1,0.458,0.8,0.776, PEEL
+Azir,Trundle,Jax,Rell,Corki,1,0.514,0.6,0.79, POKE
+Xin Zhao,Ahri,Ambessa,Jhin,Rakan,0,0.568,0.8,0.8459999999999999,FLEX
+Vi,Ahri,Jhin,Rakan,Gnar,0,0.5459999999999999,0.8,0.834,FLEX
+Taliyah,Varus,Xin Zhao,Sion,Renata Glasc,1,0.5040000000000001,0.6,0.776, POKE
+Vi,Rell,Miss Fortune,Ambessa,Syndra,1,0.52,0.8,0.798, POKE
+Xin Zhao,Neeko,Xayah,Mel,Ornn,0,0.5359999999999999,0.8,0.7979999999999999, POKE
+Sejuani,Renekton,Viktor,Aphelios,Lulu,0,0.46799999999999997,0.8,0.788, PEEL
+Kalista,Maokai,Hwei,Nidalee,Thresh,1,0.49000000000000005,0.6,0.8,PEEL
+Pantheon,Kai'Sa,Neeko,K'Sante,Sylas,0,0.48199999999999993,0.6,0.8160000000000001,PEEL
+Wukong,Hwei,Nautilus,Shen,Sivir,1,0.442,0.8,0.784, PEEL
+Ryze,Viego,Yorick,Ezreal,Alistar,0,0.48,0.6,0.8160000000000001,PEEL
+Wukong,Orianna,Jax,Miss Fortune,Rell,1,0.47400000000000003,0.6,0.808,PEEL
+Varus,Wukong,Braum,K'Sante,Ahri,1,0.462,0.8,0.8019999999999999,PEEL
+Rell,Vi,Kai'Sa,Renekton,Ryze,0,0.4640000000000001,0.8,0.82,PEEL
+Miss Fortune,Lux,Neeko,Viego,Renekton,1,0.61,0.6,0.8019999999999999, POKE
+Jhin,Syndra,Rell,Xin Zhao,Gwen,0,0.546,0.8,0.782, POKE
+Karma,Skarner,Caitlyn,Fiora,Galio,1,0.504,0.6,0.7959999999999999, POKE
+Nocturne,Neeko,Miss Fortune,Aatrox,Ryze,0,0.572,0.6,0.808, POKE
+Orianna,Rell,Gnar,Viego,Senna,1,0.502,0.8,0.782, POKE
+Viktor,Xin Zhao,Smolder,Ambessa,Zilean,0,0.404,1.0,0.8099999999999999,ENGAGE
+Gwen,Karma,Ashe,Galio,Naafiri,0,0.5780000000000001,0.8,0.798, POKE
+Neeko,Ambessa,Kai'Sa,Annie,Nocturne,1,0.588,0.6,0.8019999999999999, POKE
+Hwei,Wukong,Mel,Yorick,Thresh,0,0.4,1.0,0.7899999999999998,SPLIT
+Varus,Vi,Galio,Rell,Ambessa,1,0.446,0.8,0.7939999999999998, PEEL
+Aurora,Smolder,Leona,Skarner,K'Sante,1,0.33999999999999997,1.0,0.7700000000000001, FLEX
+Nautilus,Senna,Sylas,Renekton,Poppy,0,0.41,1.0,0.792,SPLIT
+Naafiri,Miss Fortune,Neeko,Aurora,Shen,1,0.55,0.6,0.7859999999999999, POKE
+Pantheon,Tristana,Fiddlesticks,Hwei,Jayce,0,0.564,0.4,0.806, BURST
+Neeko,Miss Fortune,Viego,Lux,Camille,0,0.642,0.6,0.8019999999999999,PEEL
+Varus,Nautilus,Nidalee,Viktor,Renekton,1,0.522,0.6,0.7859999999999999, POKE
+Taliyah,Poppy,Rell,Renekton,Ziggs,1,0.458,0.6,0.762, SIEGE
+Pantheon,Senna,Nautilus,Orianna,Cho'Gath,0,0.48200000000000004,0.8,0.76, SIEGE
+Azir,Kai'Sa,Neeko,Aatrox,Skarner,0,0.594,0.8,0.8019999999999999, POKE
+Varus,Wukong,Sylas,Sion,Bard,1,0.45600000000000007,0.8,0.8140000000000001,PEEL
+Yone,Galio,Maokai,Ezreal,Karma,1,0.49799999999999994,0.6,0.8140000000000001,PEEL
+Aurora,Rumble,Trundle,Kalista,Renata Glasc,0,0.57,0.8,0.782, POKE
+Vi,Ahri,Jayce,Miss Fortune,Rell,0,0.588,0.6,0.8160000000000001,PEEL
+Gwen,Neeko,Kalista,Wukong,Sylas,1,0.5559999999999999,0.8,0.826,PEEL
+Sion,Xin Zhao,Viktor,Jhin,Nautilus,0,0.466,0.8,0.77, SIEGE
+Ryze,Varus,Pantheon,Poppy,Ambessa,1,0.5040000000000001,0.6,0.7839999999999999, POKE
+Rumble,Trundle,Viktor,Kai'Sa,Alistar,1,0.522,0.8,0.794, POKE
+Galio,Xin Zhao,Akali,Lucian,Rakan,0,0.4619999999999999,0.6,0.852, SIEGE
+Annie,Xayah,Rakan,K'Sante,Lee Sin,1,0.504,0.8,0.8160000000000001,PEEL
+Nidalee,Lucian,Braum,Galio,Gnar,0,0.48199999999999993,0.6,0.792, PEEL
+Vi,Zeri,Ahri,Aatrox,Rell,1,0.484,0.8,0.8560000000000001,FLEX
+Viego,Jhin,Annie,Poppy,Gnar,0,0.502,0.6,0.768, SIEGE
+Gwen,Xin Zhao,Ryze,Lucian,Braum,1,0.53,0.8,0.7979999999999999, POKE
+Nidalee,Ezreal,Rell,Maokai,Corki,0,0.5660000000000001,0.4,0.7959999999999999,MAPA
+Xin Zhao,Rell,Lucian,K'Sante,Sylas,0,0.40800000000000003,0.8,0.826,ENGAGE
+Ambessa,Braum,Ashe,Rumble,Aurora,1,0.5780000000000001,1.0,0.7659999999999998, BURST
+Taliyah,Neeko,Kalista,Poppy,Cho'Gath,1,0.53,0.6,0.776, POKE
+Vi,Yorick,Ahri,Senna,Nautilus,0,0.476,1.0,0.8019999999999999,PEEL
+Zeri,Viego,Alistar,Ahri,Jax,0,0.48,0.4,0.868,PICKOFF
+Vi,Nautilus,Tristana,Gwen,Irelia,1,0.48200000000000004,0.6,0.8200000000000001,PEEL
+Rumble,Skarner,Azir,Jinx,Rakan,0,0.6199999999999999,0.8,0.806, POKE
+Wukong,Kai'Sa,K'Sante,Aurelion Sol,Elise,1,0.48,0.8,0.82,PEEL
+Kai'Sa,Gragas,Poppy,Elise,Fiora,1,0.43999999999999995,0.6,0.82,PEEL
+Renekton,Xayah,Neeko,Lee Sin,Galio,0,0.48,0.8,0.82,PEEL
+Nocturne,Xayah,Alistar,Syndra,Renekton,1,0.48,0.6,0.8320000000000001,FLEX
+Aurora,Miss Fortune,Leona,Viego,Gragas,0,0.524,0.6,0.7859999999999999, POKE
+Sion,Lee Sin,LeBlanc,Tristana,Shen,0,0.418,0.6,0.8240000000000001,PEEL
+Camille,Trundle,Ziggs,Yasuo,Sett,1,0.458,0.6,0.806,PEEL
+Pantheon,Varus,Neeko,Renekton,Lux,1,0.59,0.6,0.7879999999999999, POKE
+Wukong,Ezreal,Karma,Ambessa,Ryze,0,0.594,0.8,0.8320000000000001, PEEL
+Taliyah,Pantheon,Senna,Braum,K'Sante,0,0.466,0.6,0.766, SIEGE
+Jhin,Ahri,Viego,Rakan,Sion,1,0.53,0.6,0.8280000000000001,PEEL
+Rell,Corki,Jayce,Lillia,Veigar,0,0.5820000000000001,0.6,0.79, POKE
+Alistar,Miss Fortune,Azir,Skarner,Fiora,1,0.516,0.6,0.796, POKE
+Naafiri,Ashe,Orianna,Camille,Alistar,0,0.522,0.8,0.8099999999999999, POKE
+Dr. Mundo,Lucian,Leona,Ahri,Jax,1,0.458,0.6,0.8299999999999998,PEEL
+Xin Zhao,Kai'Sa,Lissandra,Ambessa,Rell,1,0.51,0.8,0.8160000000000001,PEEL
+Trundle,Aurora,Sivir,Hwei,Alistar,0,0.508,0.8,0.78, POKE
+Neeko,Ahri,Ezreal,Sion,Vi,0,0.546,0.8,0.8240000000000001,PEEL
+Taliyah,Xin Zhao,Jhin,Alistar,Camille,1,0.506,0.6,0.8099999999999999, POKE
+Maokai,Xayah,Rakan,Viktor,Jayce,0,0.604,0.6,0.806, POKE
+Tristana,Sejuani,Hwei,Lulu,Irelia,1,0.49000000000000005,0.6,0.8239999999999998,PEEL
+Vi,Mel,Nautilus,Aphelios,Ornn,0,0.434,0.8,0.77,SPLIT
+Maokai,Viktor,Tahm Kench,Sivir,Camille,1,0.49000000000000005,0.8,0.7699999999999999, SIEGE
+Jarvan IV,Varus,Galio,K'Sante,Orianna,0,0.472,0.8,0.7719999999999999, PEEL
+Pantheon,Ahri,Leona,Lucian,Gnar,1,0.488,0.6,0.82,PEEL
+Rumble,Poppy,Azir,Tristana,Rell,0,0.572,0.8,0.7859999999999999, POKE
+Galio,Wukong,Annie,Senna,Leona,1,0.48200000000000004,1.0,0.768, SIEGE
+Viktor,Miss Fortune,Yorick,Bard,Lee Sin,1,0.518,0.8,0.8019999999999999, POKE
+Syndra,Jinx,Milio,Sion,Zac,0,0.526,0.8,0.7879999999999999, POKE
+Varus,Ambessa,Braum,Skarner,Orianna,0,0.488,0.8,0.76, SIEGE
+Yasuo,Rakan,Sejuani,Aatrox,Akali,1,0.362,0.6,0.852, BURST
+Varus,Xin Zhao,Ambessa,Renata Glasc,Orianna,1,0.5519999999999999,0.8,0.7939999999999999, POKE
+Miss Fortune,Vi,Rell,Warwick,Viktor,0,0.47400000000000003,0.8,0.8019999999999999,PEEL
+Taliyah,Ashe,Ambessa,Maokai,Blitzcrank,1,0.52,0.8,0.766, SIEGE
+Orianna,Trundle,Poppy,Jhin,Neeko,0,0.532,0.8,0.76, SIEGE
+Jayce,Azir,Skarner,Zeri,Rakan,0,0.6619999999999999,0.6,0.8140000000000001,PEEL
+Jhin,Ziggs,Dr. Mundo,Gwen,Sylas,1,0.6060000000000001,0.6,0.768, BURST
+Neeko,Tristana,Aurora,Ahri,Nocturne,0,0.6199999999999999,0.6,0.8299999999999998,PEEL
+Senna,Gwen,Nautilus,Maokai,Sylas,1,0.476,1.0,0.77, SIEGE
+Rell,Ahri,Vi,Varus,Sion,1,0.462,0.8,0.8019999999999999,PEEL
+Azir,Xin Zhao,Tahm Kench,Miss Fortune,Aatrox,0,0.546,0.8,0.812,PEEL
+Corki,Ivern,Taric,Sett,Vex,0,0.502,0.8,0.792, POKE
+Wukong,Braum,Senna,Renekton,Mel,1,0.48,1.0,0.792, PEEL
+Wukong,Ryze,Corki,Shen,Nami,1,0.5039999999999999,0.8,0.79, POKE
+Jinx,Sejuani,Alistar,Cassiopeia,Camille,0,0.48600000000000004,0.8,0.7959999999999999, PEEL
+Taliyah,Skarner,Ezreal,Jayce,Braum,1,0.5660000000000001,0.4,0.7739999999999999,MAPA
+Hwei,Poppy,Jhin,Leona,Sion,0,0.426,0.8,0.762,SPLIT
+Azir,Kai'Sa,Neeko,Renekton,Sejuani,1,0.58,0.8,0.8019999999999999, POKE
+Varus,Wukong,Sylas,Rell,Rumble,0,0.48200000000000004,0.8,0.8039999999999999,PEEL
+Yone,Maokai,Ambessa,Ezreal,Karma,1,0.53,0.6,0.826,PEEL
+Annie,Trundle,Aatrox,Lucian,Nami,0,0.518,0.8,0.7939999999999999, POKE
+Ryze,Sion,Smolder,Rakan,Xin Zhao,0,0.404,1.0,0.818,ENGAGE
+Senna,Poppy,Orianna,Alistar,Gnar,1,0.476,1.0,0.772, PEEL
+Taliyah,Corki,Nautilus,Nocturne,Cho'Gath,1,0.48200000000000004,0.4,0.774, WOMBOCOMBO
+Pantheon,Aurora,Jayce,Braum,Tristana,0,0.572,0.4,0.792,MAPA
+Kalista,Jarvan IV,Renata Glasc,Hwei,K'Sante,0,0.48,0.8,0.8019999999999999,PEEL
+Caitlyn,Viktor,Elise,Kha'Zix,Gragas,1,0.5660000000000001,0.6,0.8019999999999999, POKE
+Vi,Senna,Hwei,Jayce,Nautilus,0,0.558,0.8,0.788, POKE
+Poppy,Ryze,K'Sante,Ezreal,Leona,1,0.45,0.8,0.782, PEEL
+Taliyah,Lucian,Braum,Wukong,Ambessa,0,0.5039999999999999,0.6,0.8099999999999999, POKE
+Xin Zhao,Alistar,Ahri,Kai'Sa,Camille,1,0.502,0.8,0.858,TEAMFIGHT
+Neeko,Sion,Kalista,Maokai,Viktor,1,0.514,0.8,0.7699999999999999, SIEGE
+Jax,Sejuani,Miss Fortune,Blitzcrank,Sylas,0,0.426,0.6,0.808,PEEL
+Varus,Yorick,Taliyah,Alistar,Viego,1,0.47000000000000003,0.4,0.794, WOMBOCOMBO
+Jhin,Gragas,Ahri,Trundle,Bard,0,0.5599999999999999,0.8,0.8019999999999999, POKE
+Azir,Jayce,Poppy,Rell,Corki,0,0.6140000000000001,0.6,0.772, POKE
+Naafiri,Ezreal,Taliyah,Ambessa,Nautilus,1,0.524,0.4,0.8099999999999999, BURST
+Pantheon,Ahri,Ashe,Akali,Rakan,1,0.542,0.6,0.8459999999999999,FLEX
+Azir,Sejuani,Ezreal,Gwen,Karma,0,0.662,0.8,0.8019999999999999,PEEL
+Rell,Sylas,Miss Fortune,Shen,Wukong,1,0.418,0.8,0.808,PEEL
+Senna,Alistar,Viktor,Skarner,Gwen,0,0.524,1.0,0.766, SIEGE
+Pantheon,Sylas,Rell,Sion,Sivir,0,0.418,0.6,0.788, PEEL
+Ahri,Varus,Vi,Rakan,Shen,1,0.51,0.8,0.834,FLEX
+Neeko,Miss Fortune,Ambessa,Wukong,Aurora,0,0.588,0.8,0.798, POKE
+Varus,Viego,Leona,Jayce,Galio,1,0.524,0.4,0.7859999999999999, WOMBOCOMBO
+Maokai,Corki,Trundle,Viktor,Urgot,0,0.47000000000000003,0.6,0.758, SIEGE
+Xin Zhao,Miss Fortune,Nautilus,Syndra,Aatrox,1,0.49399999999999994,0.8,0.8019999999999999,PEEL
+Azir,Miss Fortune,Rell,Aatrox,Xin Zhao,0,0.546,0.8,0.812,PEEL
+Cho'Gath,Hwei,Braum,Tristana,Wukong,1,0.44800000000000006,0.8,0.8,PEEL
+Corki,Lillia,Alistar,Renekton,Ezreal,1,0.526,0.6,0.836,FLEX
+Naafiri,Miss Fortune,Nautilus,Gwen,Zed,0,0.492,0.4,0.8019999999999999, BURST
+,,,,,1,0.0,0.0,0.0, TEAMFIGHT
+,,,,,0,0.0,0.0,0.0, TEAMFIGHT
+Viego,Mel,Neeko,Rakan,Gnar,1,0.5039999999999999,0.8,0.808, POKE
+Varus,Maokai,Nautilus,Ezreal,Hwei,0,0.542,0.6,0.7779999999999999, POKE
+Taliyah,Xayah,Rakan,Naafiri,Sion,1,0.514,0.4,0.8240000000000001, BURST
+Vi,Rell,Orianna,Jinx,Gwen,0,0.53,0.8,0.8039999999999999, POKE
+Lucian,Nami,Twisted Fate,Ambessa,Nocturne,0,0.568,0.4,0.82, BURST
+Aphelios,Lulu,Galio,Lee Sin,Darius,1,0.42200000000000004,0.8,0.7939999999999999, PEEL
+Leona,Dr. Mundo,Smolder,Wukong,Hwei,1,0.336,1.0,0.806,ENGAGE
+Alistar,Skarner,Fiora,Jinx,Ryze,0,0.44800000000000006,0.6,0.8099999999999999,PEEL
+,,,,,1,0.0,0.0,0.0, TEAMFIGHT
+,,,,,0,0.0,0.0,0.0, TEAMFIGHT
+Ezreal,Shen,Leona,Dr. Mundo,Ryze,0,0.454,0.8,0.7819999999999998, PEEL
+Zeri,Poppy,Rakan,Jax,Cassiopeia,1,0.502,0.6,0.82,PEEL
+Ahri,Skarner,Aatrox,Jhin,Maokai,1,0.47800000000000004,0.8,0.796, PEEL
+Kai'Sa,Wukong,Renekton,Twisted Fate,Bard,0,0.518,0.6,0.836,FLEX
+Varus,Pantheon,Leona,Azir,Akali,1,0.53,0.4,0.798,MAPA
+Mel,Rell,Gwen,Jarvan IV,Miss Fortune,0,0.546,0.8,0.776, POKE
+Gwen,Corki,Skarner,Poppy,Hwei,0,0.49000000000000005,0.8,0.766, SIEGE
+Rumble,Vi,Kai'Sa,Rakan,Orianna,1,0.578,0.8,0.8300000000000001,PEEL
+Volibear,Sivir,Zilean,Kindred,Milio,1,0.5359999999999999,0.6,0.794, POKE
+Corki,Sejuani,Sylas,Neeko,Caitlyn,0,0.616,0.6,0.79, POKE
+Vi,Aurora,Ezreal,Alistar,Sion,0,0.466,0.8,0.8099999999999999,PEEL
+Xin Zhao,Taliyah,Xayah,Rell,Ambessa,1,0.5039999999999999,0.6,0.8160000000000001,PEEL
+Vi,Bard,Ezreal,Ambessa,Sylas,1,0.514,0.8,0.8539999999999999,FLEX
+Wukong,Rakan,Sivir,Ahri,Viego,0,0.546,0.6,0.8560000000000001, TEAMFIGHT
+Varus,Alistar,Sion,Kayn,Aurora,0,0.466,0.6,0.788, PEEL
+Senna,Rell,Aatrox,Lillia,Azir,1,0.5559999999999999,1.0,0.808, POKE
+Yone,Ivern,Nautilus,Syndra,K'Sante,1,0.404,0.8,0.7879999999999999,SPLIT
+Renekton,Sejuani,Neeko,Tristana,Cho'Gath,0,0.4640000000000001,0.8,0.792, PEEL
+Neeko,Nocturne,Orianna,Corki,Shen,1,0.54,0.6,0.7859999999999999, POKE
+Karma,Jhin,Ryze,Jarvan IV,Cho'Gath,0,0.562,0.8,0.782, POKE
+Varus,Sejuani,Taliyah,Nautilus,Renekton,1,0.44800000000000006,0.6,0.77, SIEGE
+Maokai,Ezreal,Jayce,Rell,Mel,0,0.572,0.6,0.7799999999999999, POKE
+Pantheon,Annie,Jax,Zeri,Rakan,1,0.5119999999999999,0.4,0.8320000000000001, SPLIT
+Wukong,Ryze,K'Sante,Jhin,Leona,0,0.466,0.8,0.7819999999999998, PEEL
+Azir,Vi,Renekton,Braum,Miss Fortune,0,0.532,0.8,0.8, POKE
+Xin Zhao,Ahri,Ornn,Xayah,Rakan,1,0.51,0.8,0.85,FLEX
+Yasuo,Gragas,Pyke,Vayne,Mordekaiser,1,0.4600000000000001,0.6,0.8300000000000001,PEEL
+Sion,Senna,Tahm Kench,Trundle,Akali,0,0.4,0.8,0.776,SPLIT
+Varus,Vi,Gwen,Ahri,Rakan,0,0.584,0.8,0.834, PEEL
+Yorick,Nocturne,Orianna,Ezreal,Galio,1,0.496,0.6,0.8039999999999999, POKE
+Pantheon,Rumble,Annie,Alistar,Smolder,1,0.43,0.8,0.7859999999999999, PEEL
+Miss Fortune,Wukong,Ambessa,Taliyah,Seraphine,0,0.594,0.6,0.7979999999999998, POKE
+Vi,Neeko,Kalista,Vex,Nidalee,0,0.61,0.6,0.82,PEEL
+Yorick,Naafiri,Aurora,Corki,Alistar,1,0.47000000000000003,0.6,0.7979999999999999, PEEL
+Rumble,Poppy,Ryze,Jhin,Rell,0,0.524,0.8,0.76, SIEGE
+Wukong,Ambessa,Cassiopeia,Varus,Nautilus,1,0.51,0.8,0.7739999999999999, POKE
+Gwen,Rakan,Xayah,Annie,Lee Sin,1,0.5780000000000001,0.8,0.8160000000000001,PEEL
+Vladimir,Ezreal,Blitzcrank,Zed,Twisted Fate,0,0.524,0.2,0.8039999999999999, BURST
+Xin Zhao,Miss Fortune,Gwen,Twisted Fate,Nautilus,0,0.546,0.6,0.78, POKE
+Rumble,Varus,Wukong,Taliyah,Alistar,1,0.53,0.6,0.794, POKE
+Azir,Pantheon,Sion,Lucian,Nami,1,0.5619999999999999,0.6,0.796, POKE
+Varus,Yone,Rumble,Rell,Wukong,0,0.48200000000000004,0.6,0.8039999999999999,PEEL
+Naafiri,Ahri,Rakan,Kai'Sa,Sion,1,0.52,0.6,0.85,FLEX
+Nocturne,Orianna,Gragas,Maokai,Varus,0,0.514,0.6,0.776, POKE
+Senna,Vi,Rell,Sion,Ahri,0,0.472,1.0,0.8019999999999999,PEEL
+Smolder,Nautilus,Xin Zhao,Azir,Dr. Mundo,1,0.41800000000000004,1.0,0.7959999999999999, PEEL
+Ezreal,Skarner,Azir,Leona,Aatrox,1,0.53,0.8,0.8019999999999999, POKE
+Kai'Sa,Naafiri,Ahri,Neeko,Camille,0,0.5860000000000001,0.6,0.8459999999999999, PEEL
+Varus,Leona,Viktor,Wukong,K'Sante,0,0.45600000000000007,0.8,0.782, PEEL
+Mel,Bard,Yone,Ivern,Jax,1,0.45999999999999996,0.6,0.8320000000000001, SIEGE
+Ezreal,Trundle,Syndra,Rakan,Cho'Gath,1,0.5279999999999999,0.8,0.8019999999999999, POKE
+Zeri,Xin Zhao,Orianna,Renekton,Nautilus,0,0.46399999999999997,0.8,0.818,PEEL
+Rell,Neeko,Smolder,Viego,Shen,1,0.366,0.8,0.798,SPLIT
+Alistar,Miss Fortune,Ryze,Vi,Olaf,0,0.47000000000000003,0.6,0.8140000000000001,PEEL
+Rell,Viego,Xayah,Aurora,Renekton,0,0.47400000000000003,0.6,0.82,PEEL
+Orianna,Corki,Braum,Lee Sin,Jax,1,0.46399999999999997,0.6,0.8019999999999999,PEEL
+Viego,Renata Glasc,Ashe,Sylas,Ornn,0,0.48200000000000004,0.8,0.7979999999999999, PEEL
+Rakan,Miss Fortune,Diana,Orianna,Olaf,1,0.538,0.4,0.8099999999999999, BURST
+Corki,Maokai,Jax,Xayah,Braum,1,0.49000000000000005,0.4,0.796, WOMBOCOMBO
+Tristana,Viego,Kennen,Alistar,Kai'Sa,0,0.5820000000000001,0.4,0.8379999999999999, SPLIT
+Tristana,Jarvan IV,Poppy,Azir,Lulu,1,0.5619999999999999,0.8,0.8100000000000002, POKE
+Jhin,Lillia,Yone,Renata Glasc,Gwen,0,0.55,0.6,0.8039999999999999, POKE
+Ambessa,Trundle,Akali,Nilah,Senna,1,0.528,0.6,0.8160000000000001,PEEL
+Jayce,Sejuani,Ryze,Zeri,Lulu,0,0.6040000000000001,0.6,0.8019999999999999, POKE
+Ahri,Jinx,Lulu,Gnar,Lee Sin,1,0.536,0.8,0.842,FLEX
+Sivir,Karma,Jarvan IV,Mel,Ambessa,0,0.6,0.8,0.7999999999999999, POKE
+K'Sante,Syndra,Wukong,Ambessa,Karma,1,0.47400000000000003,1.0,0.8099999999999999,PEEL
+Trundle,Lucian,Nami,Renekton,Aurora,0,0.504,0.8,0.8019999999999999, POKE
+Jinx,Viktor,Skarner,Taric,Zilean,0,0.44000000000000006,0.8,0.7699999999999999, SIEGE
+Xin Zhao,Zeri,Nautilus,Akali,Gnar,1,0.42400000000000004,0.6,0.8240000000000001,PEEL
+Azir,Xayah,Maokai,Olaf,Rell,0,0.502,0.6,0.7959999999999999, POKE
+Vi,Taliyah,Rumble,Ashe,Alistar,1,0.546,0.8,0.7939999999999998, POKE
+Xin Zhao,Gwen,Lucian,Yone,Milio,0,0.5619999999999999,0.6,0.8380000000000001,FLEX
+Neeko,Trundle,Jax,Caitlyn,Akali,1,0.506,0.4,0.808, BURST
+Naafiri,Aurora,Sion,Renata Glasc,Kalista,1,0.514,0.6,0.798, POKE
+Taliyah,Xayah,Rakan,Nocturne,Dr. Mundo,0,0.518,0.4,0.8300000000000001, BURST
+Xin Zhao,Ahri,Renekton,Tristana,Pyke,1,0.47400000000000003,0.8,0.8720000000000001,TEAMFIGHT
+Pantheon,Ryze,Gragas,Ezreal,Karma,0,0.594,0.6,0.8099999999999999, POKE
+Varus,Sejuani,Azir,Alistar,Jax,1,0.506,0.6,0.7979999999999999, POKE
+Jhin,Maokai,Mel,Leona,K'Sante,0,0.45599999999999996,0.8,0.7539999999999999, SIEGE
+Vi,Sylas,Ambessa,Sivir,Alistar,1,0.466,0.8,0.8280000000000001,PEEL
+Ahri,Viego,Ezreal,Leona,Camille,0,0.522,0.6,0.8459999999999999,FLEX
+Pantheon,Smolder,Rell,Rumble,Syndra,0,0.43600000000000005,0.8,0.7879999999999999, PEEL
+Senna,Nautilus,Wukong,Annie,Ornn,1,0.466,1.0,0.756, SIEGE
+Wukong,Aphelios,Leona,Vladimir,Sion,1,0.39,0.6,0.7759999999999999,SPLIT
+Senna,Brand,Braum,Aurora,Darius,0,0.556,1.0,0.7539999999999999, BURST
+Nocturne,Lulu,Zeri,Sylas,Renekton,0,0.47400000000000003,0.6,0.858,FLEX
+Xayah,Rakan,Vi,Ahri,Udyr,1,0.514,0.6,0.8720000000000001,TEAMFIGHT
+Taliyah,Ezreal,Karma,Gnar,Ivern,0,0.6039999999999999,0.6,0.8099999999999999, POKE
+Ashe,Braum,Aurora,Dr. Mundo,Yone,1,0.48600000000000004,0.8,0.776, PEEL
+K'Sante,Ryze,Neeko,Senna,Poppy,0,0.524,1.0,0.76, SIEGE
+Viktor,Jax,Fiora,Camille,Irelia,1,0.40599999999999997,0.4,0.842, SCALING
+Vi,Sion,Ahri,Jhin,Xerath,0,0.598,0.8,0.788, POKE
+Xin Zhao,Varus,Renata Glasc,Shen,Sylas,1,0.45599999999999996,0.8,0.8039999999999999,PEEL
+Wukong,Xayah,Rakan,Udyr,Orianna,0,0.508,0.6,0.8459999999999999,FLEX
+Annie,Nocturne,Renekton,Rell,Kalista,1,0.47400000000000003,0.6,0.806,PEEL
+Varus,Viego,Braum,Sion,Ryze,0,0.466,0.6,0.7699999999999999, SIEGE
+Ahri,Kai'Sa,Rakan,Nocturne,Shen,1,0.52,0.6,0.8560000000000001,TEAMFIGHT
+Syndra,Jhin,Vi,Alistar,Kha'Zix,1,0.49800000000000005,0.6,0.8160000000000001,PEEL
+Varus,Azir,Viego,Leona,Camille,0,0.5640000000000001,0.6,0.8019999999999999, POKE
+Taliyah,Nautilus,Wukong,Miss Fortune,Jayce,1,0.5820000000000001,0.4,0.784,MAPA
+Hwei,Xin Zhao,Senna,Maokai,Yorick,0,0.446,1.0,0.784, PEEL
+Naafiri,Ezreal,Rumble,Nautilus,Ryze,0,0.55,0.6,0.798, POKE
+Wukong,Corki,Galio,Hwei,Braum,1,0.44800000000000006,0.8,0.788, PEEL
+Orianna,Lulu,Zeri,Renekton,Lillia,1,0.522,0.8,0.836,FLEX
+Corki,Alistar,Syndra,Poppy,Zed,0,0.462,0.6,0.798, PEEL
+Xin Zhao,Kai'Sa,Neeko,Ambessa,Mel,0,0.5839999999999999,0.8,0.8160000000000001,PEEL
+Ahri,Lee Sin,Gragas,Sivir,Karma,1,0.6,0.8,0.8240000000000001,PEEL
+Vi,Tristana,Azir,Ornn,Karma,0,0.594,0.8,0.818,PEEL
+Ivern,Leona,Xayah,Viktor,Sett,1,0.496,0.8,0.8160000000000001,PEEL
+Pantheon,Aurora,Kai'Sa,Leona,Sion,1,0.45599999999999996,0.6,0.788, PEEL
+Xin Zhao,Ryze,Nautilus,Miss Fortune,Mordekaiser,0,0.48200000000000004,0.8,0.7799999999999999, PEEL
+Vi,Ahri,Jhin,Blitzcrank,Gwen,0,0.562,0.8,0.808, POKE
+Kindred,Ashe,Galio,Seraphine,Jax,1,0.5660000000000001,0.6,0.8039999999999999, POKE
+Vi,LeBlanc,Varus,Poppy,Aatrox,1,0.43999999999999995,0.6,0.8300000000000001,PEEL
+Maokai,Taliyah,Samira,Alistar,Ambessa,0,0.488,0.6,0.7999999999999999,PEEL
+Tristana,Senna,Tahm Kench,Brand,Aatrox,1,0.6159999999999999,0.8,0.8039999999999999, POKE
+Nocturne,Ambessa,Rumble,Rakan,Sivir,0,0.572,0.6,0.8200000000000001,PEEL
+Pantheon,Sion,Zeri,Hwei,Rell,1,0.43200000000000005,0.6,0.8,PEEL
+Miss Fortune,Wukong,Nautilus,Sett,Ryze,0,0.47400000000000003,0.8,0.8019999999999999,PEEL
+Corki,Zyra,Zeri,Alistar,Yorick,1,0.5599999999999999,0.6,0.8019999999999999, POKE
+Trundle,Ezreal,Azir,Rell,Nidalee,0,0.5900000000000001,0.6,0.8019999999999999, POKE
+Skarner,Yorick,Mel,Ashe,Seraphine,0,0.546,1.0,0.7539999999999999, SIEGE
+Jayce,Trundle,Corki,Tahm Kench,Gwen,1,0.564,0.6,0.768, BURST
+Sejuani,Jax,Leona,Yone,Karthus,1,0.41,0.4,0.7899999999999999, WOMBOCOMBO
+Xin Zhao,Rumble,Braum,Ahri,Aphelios,0,0.508,0.8,0.8019999999999999, POKE
+Taliyah,Wukong,Ezreal,Galio,Leona,1,0.48200000000000004,0.6,0.8039999999999999,PEEL
+Pantheon,Varus,Rumble,Orianna,Alistar,0,0.53,0.6,0.7839999999999999, POKE
+Naafiri,Sylas,Miss Fortune,Ambessa,Nautilus,1,0.476,0.6,0.8140000000000001,PEEL
+Syndra,Xin Zhao,Sion,Rell,Lucian,0,0.462,0.8,0.798, PEEL
+Trundle,Xayah,Rakan,Gnar,Hwei,1,0.49799999999999994,0.8,0.8160000000000001,PEEL
+Lillia,Corki,Braum,Aatrox,Jayce,0,0.53,0.6,0.806, POKE
+Azir,Sejuani,Jax,Blitzcrank,Jhin,0,0.532,0.6,0.7859999999999999, POKE
+Ahri,Cho'Gath,Lee Sin,Jinx,Maokai,1,0.47800000000000004,0.8,0.818,PEEL
+Varus,Vi,Ahri,Nautilus,Irelia,1,0.488,0.6,0.8240000000000001,PEEL
+Nocturne,Jhin,Aurora,Jayce,Elise,0,0.61,0.4,0.8019999999999999,MAPA
+Mel,Ivern,Jax,Ashe,Braum,1,0.518,0.8,0.788, POKE
+Yone,Sejuani,Rumble,Leona,Ezreal,0,0.476,0.6,0.8039999999999999,PEEL
+Varus,Sion,Rell,Akali,Wukong,1,0.398,0.6,0.798,SPLIT
+Ziggs,Sejuani,Leona,Yone,Cho'Gath,0,0.418,0.6,0.762,SPLIT
+Pantheon,Taliyah,Renekton,Poppy,Smolder,1,0.364,0.6,0.8039999999999999,ENGAGE
+Wukong,Gnar,LeBlanc,Jinx,Zilean,0,0.44399999999999995,0.6,0.8300000000000001,PEEL
+Pantheon,Aatrox,Viktor,Xayah,Rakan,0,0.526,0.6,0.842,FLEX
+Xin Zhao,Kalista,Orianna,Gnar,Rumble,1,0.5559999999999999,0.8,0.8039999999999999, POKE
+Ambessa,Rakan,Draven,Gwen,Jarvan IV,1,0.562,0.8,0.8140000000000001,PEEL
+Aatrox,Miss Fortune,Orianna,Seraphine,Kindred,0,0.6319999999999999,0.6,0.808, POKE
+Azir,Wukong,Rakan,Kai'Sa,Gwen,0,0.636,0.8,0.834, PEEL
+Yone,Sejuani,Nautilus,Senna,Jax,1,0.41,0.6,0.798,SPLIT
+Lucian,Maokai,Nami,Gnar,Tristana,1,0.556,0.6,0.8019999999999999, POKE
+Zeri,Skarner,Lulu,Aatrox,Sylas,0,0.462,0.8,0.836, SIEGE
+Varus,Leona,Jarvan IV,Orianna,Darius,0,0.4600000000000001,0.8,0.7719999999999999, PEEL
+Corki,Neeko,Ambessa,Nocturne,Galio,1,0.53,0.6,0.798, POKE
+Azir,Ezreal,Leona,Xin Zhao,Nidalee,0,0.5980000000000001,0.6,0.8240000000000001,PEEL
+Taliyah,Jhin,Wukong,Rell,Dr. Mundo,1,0.47000000000000003,0.6,0.782, PEEL
+Vi,Ahri,Corki,Bard,Jayce,0,0.626,0.6,0.8320000000000001, PEEL
+Ryze,Poppy,Xayah,Alistar,Ambessa,1,0.488,0.8,0.806,PEEL
+Lucian,Sion,Nautilus,Viktor,Viego,0,0.466,0.6,0.792, PEEL
+Rumble,Trundle,Yone,Kai'Sa,Sett,1,0.48200000000000004,0.6,0.826,PEEL
+Gwen,Miss Fortune,Jarvan IV,Seraphine,Aurora,0,0.62,0.8,0.776, POKE
+Yorick,Caitlyn,Braum,Naafiri,Vladimir,1,0.466,0.4,0.78, WOMBOCOMBO
+Nocturne,Akali,Jax,Zeri,Lulu,0,0.4640000000000001,0.2,0.8640000000000001,PICKOFF
+Ashe,Sylas,Skarner,K'Sante,LeBlanc,1,0.44400000000000006,0.8,0.8019999999999999,PEEL
+Pantheon,Taliyah,Sion,Alistar,Jinx,1,0.45599999999999996,0.4,0.8, BURST
+Jayce,Sejuani,Fiora,Smolder,Leona,0,0.39,0.6,0.8019999999999999,ENGAGE
+Varus,Vi,Ahri,Jax,Renata Glasc,1,0.518,0.6,0.8300000000000001,PEEL
+Xin Zhao,Jhin,Azir,Rell,K'Sante,0,0.524,0.8,0.7859999999999999, POKE
+Azir,Skarner,Aatrox,Varus,Nautilus,0,0.52,0.8,0.7739999999999999, POKE
+Viktor,Renekton,Kha'Zix,Corki,Rell,1,0.47400000000000003,0.6,0.8019999999999999,PEEL
+Lucian,Nami,Viktor,Ornn,Jarvan IV,0,0.504,0.8,0.792, POKE
+Pantheon,Orianna,Rumble,Caitlyn,Lux,1,0.69,0.6,0.776, POKE
+Miss Fortune,Braum,Wukong,Ambessa,Hwei,0,0.49000000000000005,0.8,0.8,PEEL
+Senna,Nautilus,Ryze,Lillia,Aatrox,1,0.49799999999999994,1.0,0.798, POKE
+Pantheon,Xayah,Rakan,Mel,Ambessa,1,0.558,0.6,0.8320000000000001,FLEX
+Wukong,Ashe,Ahri,Seraphine,Yorick,0,0.562,1.0,0.808, POKE
+Corki,Maokai,Renekton,Zeri,Lulu,0,0.538,0.6,0.812,PEEL
+Xayah,Rakan,Sion,Nocturne,Hwei,1,0.48999999999999994,0.6,0.8320000000000001,FLEX
+Corki,Maokai,Renekton,Blitzcrank,Aurora,1,0.4640000000000001,0.8,0.774, PEEL
+Lucian,Nami,Rumble,Trundle,Cassiopeia,0,0.576,0.8,0.772, POKE
+Jax,K'Sante,Sivir,Karma,Syndra,1,0.5439999999999999,0.6,0.7979999999999998, POKE
+Rumble,Ezreal,Alistar,Naafiri,Hwei,0,0.526,0.6,0.8240000000000001,PEEL
+Azir,Varus,Poppy,Ambessa,Rell,1,0.546,0.8,0.776, POKE
+Vi,Ezreal,Karma,Ziggs,Shen,0,0.598,0.6,0.806, POKE
+Xin Zhao,Gwen,Caitlyn,Viktor,Nautilus,1,0.564,0.8,0.78, POKE
+Skarner,Lucian,Rumble,Varus,Rell,0,0.556,0.6,0.776, POKE
+Lee Sin,Xayah,Rakan,Renekton,Ahri,1,0.518,0.8,0.8719999999999999,TEAMFIGHT
+Poppy,Leona,Ezreal,Yorick,Akali,0,0.396,0.6,0.804,ENGAGE
+Pantheon,Lucian,Braum,Ahri,Rumble,0,0.536,0.6,0.8140000000000001,PEEL
+Varus,Taliyah,Rakan,Skarner,Ambessa,1,0.5359999999999999,0.6,0.792, POKE
+Viego,Kai'Sa,Neeko,LeBlanc,Gnar,0,0.528,0.4,0.8300000000000001, BURST
+Aatrox,Lulu,Aphelios,Naafiri,Malzahar,1,0.55,0.6,0.8160000000000001,PEEL
+Neeko,Wukong,Akali,Jhin,K'Sante,1,0.48200000000000004,0.6,0.8039999999999999,PEEL
+Nocturne,Sylas,Kai'Sa,Alistar,Udyr,0,0.422,0.4,0.8539999999999999, SCALING
+Ryze,Vi,Ezreal,Sett,Rell,1,0.47400000000000003,0.8,0.826,PEEL
+Syndra,Sion,Xayah,Nautilus,Viego,0,0.472,0.6,0.792, PEEL
+Cho'Gath,Xin Zhao,Ahri,Zeri,Lulu,1,0.526,0.8,0.8400000000000001,FLEX
+Vi,Galio,Taliyah,Xayah,Blitzcrank,0,0.488,0.6,0.8039999999999999,PEEL
+Azir,Lucian,Nami,Wukong,Shen,0,0.562,0.8,0.8119999999999999,PEEL
+Hwei,Viego,Jhin,Rakan,Volibear,1,0.5,0.6,0.8160000000000001,PEEL
+Varus,Jax,Orianna,Ornn,Nautilus,0,0.44799999999999995,0.6,0.7699999999999999, SIEGE
+Corki,Trundle,Rell,Xerath,Kled,1,0.508,0.8,0.7659999999999999, SIEGE
+Corki,Xayah,Rakan,Sejuani,Rumble,0,0.604,0.6,0.8119999999999999,PEEL
+Vi,Varus,Nautilus,Viktor,Galio,1,0.472,0.8,0.776, PEEL
+Pantheon,Ezreal,Karma,Akali,Renekton,1,0.496,0.4,0.8480000000000001, SCALING
+Xin Zhao,Neeko,Jhin,Hwei,Mordekaiser,0,0.532,0.8,0.7899999999999998, POKE
+Azir,Trundle,Rell,Ambessa,Smolder,0,0.454,1.0,0.7919999999999999, PEEL
+Yone,Maokai,Alistar,Senna,Sett,1,0.41,0.8,0.8099999999999999,ENGAGE
+Rumble,Sejuani,Yone,Ezreal,Leona,1,0.476,0.6,0.804,PEEL
+Maokai,Ambessa,Corki,Taliyah,Ashe,0,0.62,0.6,0.7699999999999999, BURST
+Vi,Jinx,Rell,Mel,Renekton,0,0.47000000000000003,0.8,0.82,PEEL
+Xayah,Rakan,Wukong,Ahri,Shen,1,0.51,0.8,0.8560000000000001,TEAMFIGHT
+Gwen,Xin Zhao,Jhin,Azir,Braum,0,0.5980000000000001,0.8,0.78, POKE
+Varus,Wukong,Jax,Rell,Sylas,1,0.41600000000000004,0.6,0.826,PEEL
+Neeko,Ezreal,Naafiri,Sett,Ryze,1,0.558,0.6,0.826,PEEL
+Pyke,Kai'Sa,Yorick,Maokai,Ambessa,0,0.42200000000000004,0.8,0.8140000000000001,PEEL
+Rumble,Skarner,Yone,Lucian,Leona,0,0.466,0.6,0.798, PEEL
+K'Sante,Corki,Zyra,Renekton,Nautilus,1,0.44800000000000006,0.8,0.7739999999999999, PEEL
+Taliyah,Miss Fortune,Poppy,Aatrox,Alistar,0,0.472,0.6,0.7979999999999999, PEEL
+Ahri,Ashe,Nocturne,Elise,Olaf,1,0.51,0.6,0.8400000000000001,FLEX
+Yone,Skarner,Rumble,Ezreal,Leona,0,0.476,0.6,0.798, PEEL
+Mel,Sejuani,Renekton,Rell,Sivir,1,0.46399999999999997,0.8,0.776, PEEL
+Pantheon,Taliyah,Sion,Senna,Nautilus,0,0.466,0.6,0.76, SIEGE
+Ashe,Wukong,Ahri,Ornn,Seraphine,1,0.558,1.0,0.8019999999999999, POKE
+Azir,Jhin,Maokai,Aatrox,Gragas,1,0.578,0.8,0.78, POKE
+Varus,LeBlanc,Xin Zhao,Alistar,Mordekaiser,0,0.434,0.6,0.82,PEEL
+Vi,Ambessa,Hwei,Jinx,Lulu,0,0.5279999999999999,0.8,0.8360000000000001,FLEX
+Galio,Tristana,Kindred,K'Sante,Neeko,1,0.536,0.6,0.8039999999999999, POKE
+Corki,Cho'Gath,Jarvan IV,Sylas,Karma,1,0.504,0.8,0.808, POKE
+Yorick,Lee Sin,Kai'Sa,Twisted Fate,Trundle,0,0.47400000000000003,0.6,0.8039999999999999,PEEL

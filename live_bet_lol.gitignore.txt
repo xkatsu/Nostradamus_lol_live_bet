@@ -1,0 +1,11 @@
+# Ignorar modelos e arquivos grandes
+*.joblib
+*.pkl
+*.npy
+*.csv
+
+# Ignorar pastas temporárias
+__pycache__/
+models/
+__output__/
+*.log
